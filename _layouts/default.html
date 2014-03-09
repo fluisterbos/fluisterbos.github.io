@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+{% assign page_lang = 'nl' %}
+{% assign segments = page.url|split:'/' %}
+{% for segm in segments limit:3 offset:1 %}
+  {% case forloop.index %}
+    {% when 1 %}{% assign page_lang = segm %}
+    {% when 2 %}{% assign page_section = segm %}
+    {% when 3 %}{% assign page_menu  = segm | replace:'.html',''%}
+  {% endcase %}
+{% endfor %}
+{% if page.menu %}
+  {%assign page_menu = page.menu %}
+{% endif %}
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ site.name }} :: {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+  </head>
+  <body>
+    <header>
+      <div id="header">
+        <nav>
+          <!-- TODO: remove debugging : You are in {{ page_lang }} :: {{ page_section}} :: {{ page_menu }} -->
+          <ul id="nav_langs">
+            {% for lang in site.data.navigation.langs %}
+              {% if page_lang == lang %}
+                <li class="active">{{ lang }}</li>
+              {% else %}
+                <li><a href="/{{ lang }}">{{ lang }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+          {% if page_section %}
+          <ul id="nav_menu_section">
+            {% for menu in site.data.navigation.menu[page_section] %}
+              <li {% if page_menu == menu.path %} class="active" {% endif %}>
+                <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html">{{ menu.label }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </nav>
+      </div>
+    </header>
+
+    <article>
+      <h1 class="title">{{ page.title }}</h1>
+
+      {{ content }}
+
+    </article>  
+
+    <footer>
+      <div id="footer">
+        <ul class="contact">
+           <li>Fluisterbos</li>
+           <li>Vakantiewoning en Feestzaal</li>
+           <li>info@fluisterbos.be</li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+langs: 
+  - nl
+  - fr
+
+menu:
+  vakantiewoning:
+    - path:  index
+      label: Home
+    - path:  accomodatie
+      label: Accomodatie
+    - path:  reservatie
+      label: Reserveren
+    - path:  contact 
+      label: Contact
+
+  feestzaal:
+    - path:  todo
+      label: TODO!!
+  
+
