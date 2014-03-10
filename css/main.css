@@ -29,6 +29,11 @@ body {
 body {
   font-family: "EB Garamond"!important;
 }
+/* Make footer text all caps
+-------------------------------------------------- */
+#footer {
+  text-transform: "uppercase";
+}
 
 
 /* Create line-ups of ul>li options 
