@@ -1,5 +1,5 @@
 ---
-layout: fstzl
+layout: default
 title:  De Feestzaal
 ---
 

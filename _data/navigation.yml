@@ -17,4 +17,6 @@ menu:
     - path:  todo
       label: TODO!!
   
-
+style:
+  vakantiewoning: redstyle
+  feestzaal: greenstyle

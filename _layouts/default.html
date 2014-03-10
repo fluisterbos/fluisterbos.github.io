@@ -1,16 +1,28 @@
 <!DOCTYPE html>
+{% comment %} <!-- set defaults --> {% endcomment %}
 {% assign page_lang = 'nl' %}
-{% assign segments = page.url|split:'/' %}
+{% assign page_style = 'redstyle' %}
+{% assign page_menu = 'index' %}
+{% comment %} <!-- parse path segments into meaning --> {% endcomment %}
+{% assign segments = page.url | replace:'.html','' | replace:'/index','/' | split:'/' %}
 {% for segm in segments limit:3 offset:1 %}
   {% case forloop.index %}
-    {% when 1 %}{% assign page_lang = segm %}
-    {% when 2 %}{% assign page_section = segm %}
-    {% when 3 %}{% assign page_menu  = segm | replace:'.html',''%}
+    {% when 1 %} {% assign page_lang = segm  %}
+    {% when 2 %} {% assign page_section = segm  %}
+    {% when 3 %} {% assign page_menu  = segm %}
   {% endcase %}
 {% endfor %}
-{% if page.menu %}
-  {%assign page_menu = page.menu %}
-{% endif %}
+{% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
+{% if page.section %} {%assign page_section = page.section %} {% endif %}
+{% if page.menu %}    {%assign page_menu = page.menu %} {% endif %}
+{% if page_section and page_section != '' %} {% assign page_style =  site.data.navigation.style[page_section] %} {% endif %}
+{% if page.style %}   {%assign page_style = page.style %} {% endif %}
+<!-- TODO: remove debugging : 
+     lang = {{ page_lang }} :: 
+     section = {{ page_section}} :: 
+     menu = {{ page_menu }} ::
+     style = {{ page_style }} ::
+ -->
 <html>
   <head>
     <meta charset="utf-8">
@@ -23,18 +35,15 @@
     <link rel="icon" type="image/png" href="/img/fluisterbos-ico-48.png">
 
   </head>
-  <body>
+  <body class="{{ page_style }}">
     <header>
       <nav>
         <div id="header" class="container"><div class="row"><div class="col-md-12">
-          <!-- TODO: remove debugging : You are in {{ page_lang }} :: {{ page_section}} :: {{ page_menu }} -->
           <ul id="nav_langs" class="linedup pull-right clearfix">
             {% for lang in site.data.navigation.langs %}
-              {% if page_lang == lang %}
-                <li class="active">{{ lang }}</li>
-              {% else %}
-                <li><a href="/{{ lang }}">{{ lang }}</a></li>
-              {% endif %}
+              <li {% if page_lang == lang %} class="active active-{{ page_style }}" {% endif %}>
+                <a href="/{{ lang }}">{{ lang }}</a>
+              </li>
             {% endfor %}
           </ul>
         </div></div>
@@ -42,7 +51,7 @@
           {% if page_section %}
           <ul id="nav_menu_section" class="linedup pull-right clearfix">
             {% for menu in site.data.navigation.menu[page_section] %}
-              <li {% if page_menu == menu.path %} class="active" {% endif %}>
+              <li {% if page_menu == menu.path %} class="active active-{{ page_style }}" {% endif %}>
                 <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html">{{ menu.label }}</a>
               </li>
             {% endfor %}

@@ -1,5 +1,5 @@
 ---
-layout: vakwn
+layout: default
 title:  De Vakantiewoning
 ---
 

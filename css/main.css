@@ -19,8 +19,13 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 50px;
-  background-color: #f5f5f5;
   padding-top: 1em;
+}
+.redstyle #footer {
+  background-color: #ac2e24;
+}
+.greenstyle #footer {
+  background-color: #a0b130;
 }
 
 
@@ -29,9 +34,9 @@ body {
 body {
   font-family: "EB Garamond"!important;
 }
-/* Make footer text all caps
+/* Make text in footer and nav sections uppercase
 -------------------------------------------------- */
-#footer {
+#footer, #nav_menu_section, #nav_langs {
   text-transform: uppercase;
 }
 
@@ -43,10 +48,42 @@ ul.linedup {
 }
 ul.linedup li {
   display: inline-block;
+  border-right: 1px solid black;
+  padding: 0 0.1em;
+  margin: 0 0.1em;
 }
-ul.linedup li:after {
-  content: ' | ';
+ul.linedup li a {
+  padding: 0 0.1em;
+  margin: 0 0.1em;
 }
-ul.linedup li:last-child:after {
-  content: '';
+.redstyle ul.linedup li {
+  border-right-color: #ac2e24;
+}
+.greenstyle ul.linedup li {
+  border-right-color: #a0b130;
+}
+#footer ul.linedup li {
+  color: #fff;
+  border-right-color: #fff;
+}
+ul.linedup li:last-child {
+  border-right: none;
+}
+
+.redstyle #nav_menu_section, .redstyle #nav_langs {
+  color: #ac2e24;
+}
+.greenstyle #nav_menu_section, .greenstyle #nav_langs {
+  color: #a0b130;
+}
+
+/* Make active selections standout
+-------------------------------------------------- */
+.active-redstyle a {
+  background-color: #ac2e24;
+  color: #fff;
+}
+.active-greenstyle a {
+  background-color: #a0b130;
+  color: #fff;
 }
