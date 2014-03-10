@@ -24,10 +24,10 @@
   </head>
   <body>
     <header>
-      <div id="header">
-        <nav>
+      <nav>
+        <div id="header" class="container"><div class="row"><div class="col-md-12">
           <!-- TODO: remove debugging : You are in {{ page_lang }} :: {{ page_section}} :: {{ page_menu }} -->
-          <ul id="nav_langs">
+          <ul id="nav_langs" class="linedup pull-right clearfix">
             {% for lang in site.data.navigation.langs %}
               {% if page_lang == lang %}
                 <li class="active">{{ lang }}</li>
@@ -36,8 +36,10 @@
               {% endif %}
             {% endfor %}
           </ul>
+        </div></div>
+        <div class="row"><div class="col-md-12">
           {% if page_section %}
-          <ul id="nav_menu_section">
+          <ul id="nav_menu_section" class="linedup pull-right clearfix">
             {% for menu in site.data.navigation.menu[page_section] %}
               <li {% if page_menu == menu.path %} class="active" {% endif %}>
                 <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html">{{ menu.label }}</a>
@@ -45,25 +47,39 @@
             {% endfor %}
           </ul>
           {% endif %}
-        </nav>
-      </div>
+        </div></div></div>
+      </nav>
     </header>
 
     <article>
-      <h1 class="title">{{ page.title }}</h1>
+      <div class="container"><div class="row"><div class="col-md-6 col-md-offset-6">
+        <h1 class="title">{{ page.title }}</h1>
 
-      {{ content }}
+        {{ content }}
 
+      </div></div></div>
     </article>  
 
     <footer>
       <div id="footer">
-        <ul class="contact">
-           <li>Fluisterbos</li>
-           <li>Vakantiewoning en Feestzaal</li>
-           <li>info@fluisterbos.be</li>
-        </ul>
+        <div class="container text-muted">
+          <div class="pull-right">
+            --credits--
+          </div>
+          <ul id="contact" class="linedup">
+             <li>Fluisterbos</li>
+             <li>Vakantiewoning en Feestzaal</li>
+             <li>info@fluisterbos.be</li>
+          </ul>
+        </div>
       </div>
     </footer>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
   </body>
 </html>
