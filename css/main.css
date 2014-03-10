@@ -47,14 +47,18 @@ ul.linedup {
   list-style-type: none;
 }
 ul.linedup li {
-  display: inline-block;
+  display: inline;
+  margin-left: 0;
+  padding-left: 0;
+  padding-right: 0.95em;
   border-right: 1px solid black;
-  padding: 0 0.1em;
-  margin: 0 0.1em;
+  margin-right: 1em;
 }
 ul.linedup li a {
-  padding: 0 0.1em;
-  margin: 0 0.1em;
+  margin-left: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-right: 2px;
 }
 .redstyle ul.linedup li {
   border-right-color: #ac2e24;
@@ -77,7 +81,7 @@ ul.linedup li:last-child {
   color: #a0b130;
 }
 
-/* Make active selections standout
+/* Make active selections stand out
 -------------------------------------------------- */
 .active-redstyle a {
   background-color: #ac2e24;
@@ -86,4 +90,11 @@ ul.linedup li:last-child {
 .active-greenstyle a {
   background-color: #a0b130;
   color: #fff;
+}
+
+
+/* Customise the footer-style
+-------------------------------------------------- */
+#footer .pull-right {
+  padding-right: 2em;
 }
