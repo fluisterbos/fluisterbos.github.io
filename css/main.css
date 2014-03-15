@@ -1,6 +1,22 @@
 @import url("bootstrap.min.css");
 @import url("//fonts.googleapis.com/css?family=EB+Garamond"));
 
+/* 2 dominant styles for the 2 sections of the website 
+
+redstyle 
+  #ac2e24;
+  rgb( 160, 177, 48);
+  rgba( 160, 177, 48, 0.2);
+}
+
+greenstyle 
+  #a0b130;
+  rgb( 172, 46, 36);
+  rgba( 172, 46, 36, 0.2);
+-------------------------------------------------- */
+
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -13,6 +29,10 @@ body {
   margin-bottom: 50px;
 }
 
+#header div.row:first-child {
+  min-height: 64px!important;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
@@ -21,80 +41,177 @@ body {
   height: 50px;
   padding-top: 1em;
 }
-.redstyle #footer {
+.redstyle #footer, .redstyle body {
   background-color: #ac2e24;
 }
-.greenstyle #footer {
+.greenstyle #footer, .greenstyle body {
   background-color: #a0b130;
 }
 
 
-/* Change base font 
+/* Change base font and bg transparency
 -------------------------------------------------- */
 body {
   font-family: "EB Garamond"!important;
 }
+body.redstyle {
+  background-color: rgba( 160, 177, 48, 0.2);
+}
+body.greenstyle {
+  background-color: rgba( 172, 46, 36, 0.2);
+}
+
+
+
 /* Make text in footer and nav sections uppercase
 -------------------------------------------------- */
 #footer, #nav_menu_section, #nav_langs {
   text-transform: uppercase;
-}
-
-
-/* Create line-ups of ul>li options 
--------------------------------------------------- */
-ul.linedup {
-  list-style-type: none;
-}
-ul.linedup li {
-  display: inline;
-  margin-left: 0;
-  padding-left: 0;
-  padding-right: 0.95em;
-  border-right: 1px solid black;
-  margin-right: 1em;
-}
-ul.linedup li a {
-  margin-left: 2px;
-  padding-left: 2px;
-  padding-right: 2px;
-  margin-right: 2px;
-}
-.redstyle ul.linedup li {
-  border-right-color: #ac2e24;
-}
-.greenstyle ul.linedup li {
-  border-right-color: #a0b130;
-}
-#footer ul.linedup li {
-  color: #fff;
-  border-right-color: #fff;
-}
-ul.linedup li:last-child {
-  border-right: none;
-}
-
-.redstyle #nav_menu_section, .redstyle #nav_langs {
-  color: #ac2e24;
-}
-.greenstyle #nav_menu_section, .greenstyle #nav_langs {
-  color: #a0b130;
-}
-
-/* Make active selections stand out
--------------------------------------------------- */
-.active-redstyle a {
-  background-color: #ac2e24;
-  color: #fff;
-}
-.active-greenstyle a {
-  background-color: #a0b130;
-  color: #fff;
+  font-size: 1.2em;
 }
 
 
 /* Customise the footer-style
 -------------------------------------------------- */
+#footer {
+  color: white;
+}
 #footer .pull-right {
   padding-right: 2em;
 }
+
+
+/* Looks for the language navigator
+-------------------------------------------------- */
+#nav_langs a {
+  background-color: rgba( 256, 256, 256, 0.5);
+  display: block;
+  float: left;
+  padding: 15px 5px 5px 5px;
+  margin: 0px 4px 0px 4px;
+}
+
+
+/* Looks for the menu
+-------------------------------------------------- */
+#nav_menu_section {
+  background-color: rgba( 256, 256, 256, 0.5);
+  height: 48px!important;
+  font-size: 1.3em;
+}
+
+#contact span,
+#nav_menu_section span {
+  padding-left: 1em;
+  padding-right: 0.95em;
+  border-right: 1px solid black;
+}
+#contact span,
+#nav_menu_section a {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#nav_menu_section a {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.redstyle #nav_menu_section span {
+  border-right-color: #ac2e24;
+}
+.greenstyle #nav_menu_section span {
+  border-right-color: #a0b130;
+}
+#contact span {
+  border-right-color: white;
+}
+#contact span:last-child,
+#nav_menu_section span:last-child {
+  border-right: none;
+}
+
+
+/* Looks for the buttons in the menu
+-------------------------------------------------- */
+.redstyle #nav_menu_toggle, 
+.redstyle #nav_menu_home {
+  background-color: #ac2e24;
+}
+.greenstyle #nav_menu_toggle,
+.greenstyle #nav_menu_home {
+  background-color: #a0b130;
+}
+#nav_menu_toggle,
+#nav_menu_home {
+  height: 48px!important;
+  width: 48px!important;
+}
+
+
+.redstyle #nav_menu_section, 
+.redstyle #nav_langs {
+  color: #ac2e24!important;
+}
+.greenstyle #nav_menu_section, 
+.greenstyle #nav_langs {
+  color: #a0b130!important;
+}
+
+/* Style the content 
+-------------------------------------------------- */
+h1 {
+  font-size: 1.5em;
+  text-shadow: 0.1em 0.1em 0.2em black;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+.content {
+  margin-top: 2em;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1.5em;
+  overflow: auto;
+  max-height: 560px!important;
+}
+
+
+/* Style the links
+-------------------------------------------------- */
+a:hover,
+a {
+  text-decoration: none;
+}
+#contact a,
+#nav_menu_section a,
+#nav_langs a {
+  color: inherit;
+}
+
+
+/* Make active selections stand out
+-------------------------------------------------- */
+.redstyle a:hover,
+.redstyle .active a {
+  background-color: #ac2e24!important;
+  color: #fff!important;
+}
+.greenstyle a:hover,
+.greenstyle .active a {
+  background-color: #a0b130!important;
+  color: #fff!important;
+}
+a.silent:hover {
+  background-color: inherit!important;
+  color: inherit!important;
+}
+
+
+/* div-wrapping parent/child
+-------------------------------------------------- */
+.wrap-parent {
+  position: relative;
+}
+.wrap-child {
+  position: absolute;
+}
+
+

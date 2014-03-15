@@ -38,35 +38,48 @@
   <body class="{{ page_style }}">
     <header>
       <nav>
-        <div id="header" class="container"><div class="row"><div class="col-md-12">
-          <ul id="nav_langs" class="linedup pull-right clearfix">
-            {% for lang in site.data.navigation.langs %}
-              <li {% if page_lang == lang %} class="active active-{{ page_style }}" {% endif %}>
-                <a href="/{{ lang }}">{{ lang }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div></div>
-        <div class="row"><div class="col-md-12">
-          {% if page_section %}
-          <ul id="nav_menu_section" class="linedup pull-right clearfix">
-            {% for menu in site.data.navigation.menu[page_section] %}
-              <li {% if page_menu == menu.path %} class="active active-{{ page_style }}" {% endif %}>
-                <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html">{{ menu.label }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </div></div></div>
+        <div id="header" class="container">
+          <div class="row"><div class="col-md-12">
+            <div id="nav_langs" class="hide-top pull-right">
+              {% for lang in site.data.navigation.langs %}
+                <span {% if page_lang == lang %} class="active" {% endif %} > 
+                  <a href="/{{ lang }}" 
+                  >{{ lang }}</a>
+                </span>
+              {% endfor %}
+            </div>
+          </div></div>
+          <div class="row "><div class="col-md-12">
+            {% if page_section %}
+              <img id="nav_menu_toggle" src="/img/nav-menu-toggle.png" alt="menu toggle" class="pull-right"/>
+              <div id="nav_menu_section" class="hide-right pull-right">
+                {% for menu in site.data.navigation.menu[page_section] %}
+                  {% if menu.path == 'index' %}
+                    <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html" class="silent">
+                      <img id="nav_menu_home" src="/img/fluisterbos-home.png" alt="menu home" />
+                    </a>
+                  {% else %}
+                    <span {% if page_menu == menu.path %} class="active" {% endif %} >
+                      <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html"
+                      >{{ menu.label }}</a>
+                    </span>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div></div>
+        </div>
       </nav>
     </header>
 
     <article>
-      <div class="container"><div class="row"><div class="col-md-6 col-md-offset-6">
-        <h1 class="title">{{ page.title }}</h1>
-
-        {{ content }}
-
+      <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5 pull-right">
+        <div class="row wrap-parent"><div class="col-md-12 wrap-child">
+          <div class="content">
+            <h1 class="title">{{ page.title }}</h1>
+            {{ content }}
+          </div>
+        </div></div>
       </div></div></div>
     </article>  
 
@@ -75,21 +88,25 @@
         <div class="pull-right">
           --credits--
         </div>
-        <ul id="contact" class="linedup">
-          <li>Filip Van Maestrichtplein 6</li>
-          <li>8400 Oostende</li>
-          <li>T. 0472 84 17 15</li>
-          <li><a target="_blank" href="maitto:info@fuilsterbos.be">info@fluisterbos.be</a></li>
-          <li><div class="fb-follow" data-href="https://www.facebook.com/fluisterbos" data-colorscheme="light" data-layout="button" data-show-faces="false"></div></li>
-        </ul>
+        <div id="contact">
+          <span>Filip Van Maestrichtplein 6</span>
+          <span>8400 Oostende</span>
+          <span>T. 0472 84 17 15</span>
+          <span><a target="_blank" href="maitto:info@fuilsterbos.be">info@fluisterbos.be</a></span> 
+          <div class="fb-follow" data-href="https://www.facebook.com/fluisterbos" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
       </div>
     </footer>
 
 
     <!-- Java script to load - at the end of doc for faster page-loading
     ================================================== -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write("<script src='/js/jquery-1.11.0.min.js'><\/script>");
+    </script>
+    <script type="text/javascript" src="/js/jquery-rotate.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
     {% include ga.html %}
     {% include fb.html %}
 
