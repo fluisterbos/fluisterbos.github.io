@@ -2,11 +2,15 @@ langs:
   - nl
   - fr
 
+logo:
+  vakantiewoning: logo-fluisterbos-vakantiewoning.png
+  feestzaal: logo-fluisterbos-feestzaal.png
+
 menu:
   vakantiewoning:
     - path:  index
-    - path:  accomodatie
-      label: Accomodatie
+    - path:  accommodatie
+      label: Accommodatie
     - path:  reservatie
       label: Reserveren
     - path:  contact 

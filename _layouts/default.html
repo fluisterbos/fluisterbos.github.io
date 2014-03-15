@@ -40,6 +40,13 @@
       <nav>
         <div id="header" class="container">
           <div class="row"><div class="col-md-12">
+            {% if page_section %}
+              <div id="nav_home_logo" class="hide-fade">
+                <a href="/{{ page_lang }}/{{ page_section }}" class="silent">
+                  <img src="/img/logo-fluisterbos-{{ page_section}}.png">
+                </a>
+              </div>
+            {% endif %}
             <div id="nav_langs" class="hide-top pull-right">
               {% for lang in site.data.navigation.langs %}
                 <span {% if page_lang == lang %} class="active" {% endif %} > 
@@ -73,6 +80,7 @@
     </header>
 
     <article>
+      {% if page_section %}
       <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5 pull-right">
         <div class="row wrap-parent"><div class="col-md-12 wrap-child">
           <div class="content">
@@ -81,12 +89,15 @@
           </div>
         </div></div>
       </div></div></div>
+      {% else %}
+        {{ content }}
+      {% endif %}
     </article>  
 
     <footer>
       <div id="footer">
         <div class="pull-right">
-          --credits--
+          <a href="http://www.photographyadriaan.be" target="_blank"><img src="/img/logo-adriaanhuys.png"/></a>
         </div>
         <div id="contact">
           <span>Filip Van Maestrichtplein 6</span>

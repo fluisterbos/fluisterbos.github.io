@@ -81,6 +81,15 @@ body.greenstyle {
 }
 
 
+/* Position and looks for the logo
+-------------------------------------------------- */
+#nav_home_logo {
+  position: absolute;
+  padding: 35px 35px 15px 35px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+
 /* Looks for the language navigator
 -------------------------------------------------- */
 #nav_langs a {
@@ -170,7 +179,8 @@ h1 {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 1.5em;
   overflow: auto;
-  max-height: 560px!important;
+  max-height: 520px!important;
+  /* TODO - handle this with jquery or some other trick? */
 }
 
 
