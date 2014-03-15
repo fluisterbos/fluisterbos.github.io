@@ -3,6 +3,7 @@
 {% assign page_lang = 'nl' %}
 {% assign page_style = 'redstyle' %}
 {% assign page_menu = 'index' %}
+{% assign page_bg =  site.data.slides.default %}
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
 {% assign segments = page.url | replace:'.html','' | replace:'/index','/' | split:'/' %}
 {% for segm in segments limit:3 offset:1 %}
@@ -17,11 +18,13 @@
 {% if page.menu %}    {%assign page_menu = page.menu %} {% endif %}
 {% if page_section and page_section != '' %} {% assign page_style =  site.data.navigation.style[page_section] %} {% endif %}
 {% if page.style %}   {%assign page_style = page.style %} {% endif %}
+{% if page.bg %}      {%assign page_bg = page.bg %} {% endif %}
 <!-- TODO: remove debugging : 
      lang = {{ page_lang }} :: 
      section = {{ page_section}} :: 
      menu = {{ page_menu }} ::
      style = {{ page_style }} ::
+     bg = {{ page_bg }} ::
  -->
 <html>
   <head>
@@ -31,11 +34,12 @@
     <meta name="viewport" content="width=device-width">
 
     <!-- Custom CSS -->
+    <link type="text/css" rel="stylesheet" href="/css/supersized.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" type="image/png" href="/img/fluisterbos-ico-48.png">
 
   </head>
-  <body class="{{ page_style }}">
+  <body class="{{ page_style }}" data-bg='{{ site.data.slides[page_bg] | jsonify }}' >
     <header>
       <nav>
         <div id="header" class="container">
@@ -116,8 +120,10 @@
       window.jQuery || document.write("<script src='/js/jquery-1.11.0.min.js'><\/script>");
     </script>
     <script type="text/javascript" src="/js/jquery-rotate.min.js"></script>
-    <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="/js/supersized.3.2.7.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
     {% include ga.html %}
     {% include fb.html %}
 

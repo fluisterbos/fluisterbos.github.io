@@ -210,7 +210,7 @@ a {
   color: #fff!important;
 }
 a.silent:hover {
-  background-color: inherit!important;
+  background-color: transparent!important;
   color: inherit!important;
 }
 
