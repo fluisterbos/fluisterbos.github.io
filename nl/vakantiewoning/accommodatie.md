@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accomodatie
+title: Accommodatie
 bg: ost_sep
 ---
 
