@@ -45,7 +45,7 @@
     if (bgset && bgset.length) { // if slides are defined
       var slides = [];
       $(bgset).each(function(){
-        $('<img/>')[0].src = this; // preloads the image without adding it to the page 
+        //$('<img/>')[0].src = this; // preloads the image without adding it to the page 
         slides.push({image: this});
       });
       $.supersized({ slideshow: 1, vertical_center : 1, fit_portrait: 0, fit_landscape: 0, slides : slides });
