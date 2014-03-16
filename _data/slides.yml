@@ -1,20 +1,20 @@
 default: "ost_klr"
 ost_klr:
-  - /img/bg/ost-klr/visnetten.jpg
-  - /img/bg/ost-klr/strand-west.jpg
-  - /img/bg/ost-klr/thoofd-avond.jpg
-  - /img/bg/ost-klr/duinen.jpg
-  - /img/bg/ost-klr/den-hof.jpg
-  - /img/bg/ost-klr/mercator.jpg
   - /img/bg/ost-klr/wapenplein.jpg
-  - /img/bg/ost-klr/casino-strand.jpg
+  - /img/bg/ost-klr/thoofd-avond.jpg
   - /img/bg/ost-klr/strandcabines.jpg
+  - /img/bg/ost-klr/casino-strand.jpg
+  - /img/bg/ost-klr/strand-west.jpg
+  - /img/bg/ost-klr/mercator.jpg
+  - /img/bg/ost-klr/duinen.jpg
+  - /img/bg/ost-klr/visnetten.jpg
+  - /img/bg/ost-klr/den-hof.jpg
 ost_sep:
-  - /img/bg/ost-sep/stratsje-zoender-ende.jpg
-  - /img/bg/ost-sep/dikke-matille.jpg
   - /img/bg/ost-sep/t-koptsje-van-t-hoofd.jpg
   - /img/bg/ost-sep/de-zaiker.jpg
-  - /img/bg/ost-sep/den-oede-woatertorre.jpg
   - /img/bg/ost-sep/pier-en-pol.jpg
+  - /img/bg/ost-sep/den-oede-woatertorre.jpg
+  - /img/bg/ost-sep/stratsje-zoender-ende.jpg
+  - /img/bg/ost-sep/dikke-matille.jpg
 vakwon:
 fstzl:
