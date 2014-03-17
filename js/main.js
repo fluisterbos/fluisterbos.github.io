@@ -34,7 +34,10 @@
 
       alternate.on = true;
 
-      $tgl.on('click', alternate(hideElements, showElements));
+      //$tgl.on('click', alternate(hideElements, showElements));
+      $tgl.on('mouseenter', hideElements);
+      $tgl.on('mouseout', showElements);
+
     }
 
 
