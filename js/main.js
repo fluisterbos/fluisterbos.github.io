@@ -8,20 +8,39 @@
     var $hideToTop =  $(".hide-top");
     var $hideToFade =  $(".hide-fade");
     var animopts = {duration: 400, queue: false};
+    function completeOpts( fn) {
+      fn = fn || function(){};
+      var cmpl = {complete: fn};
+      return $.extend(cmpl, animopts);
+    }
+
 
     if ($tgl) { // if a tgl is found
+      var completeHide = completeOpts( function() {
+          $(this).css('display', 'none');
+      });
+
       function hideElements () {
         $tgl.rotate({animateTo:-90});
-        $hideToRight.animate({width: "toggle"},animopts);
-        $hideToTop.slideUp(animopts);
-        $hideToFade.fadeOut(animopts);
+        $hideToRight.animate({width: "toggle"}, completeHide);
+        $hideToTop.slideUp( completeHide);
+        $hideToFade.fadeOut( completeHide);
       }
 
       function showElements () {
         $tgl.rotate({animateTo:0});
-        $hideToRight.animate({width: "toggle"},animopts);
-        $hideToTop.slideDown(animopts);
-        $hideToFade.fadeIn(animopts);
+        $hideToRight.animate({width: "toggle"}, completeOpts( function() {  
+          $(this).css('display', 'block');
+          $(this).css('width', 'none');
+        }));
+        $hideToTop.slideDown( completeOpts( function() {
+          $(this).css('display', 'block');
+          $(this).css('height', 'none');
+        }));
+        $hideToFade.fadeIn( completeOpts( function() {
+          $(this).css('display', 'block');
+          $(this).css('opacity', '1');
+        }));
       }
 
       function alternate(fnOn, fnOff) {
@@ -34,9 +53,9 @@
 
       alternate.on = true;
 
-      $tgl.on('click', alternate(hideElements, showElements));
-      //$tgl.on('mouseenter', hideElements);
-      //$tgl.on('mouseout', showElements);
+      //$tgl.on('click', alternate(hideElements, showElements));
+      $tgl.on('mouseenter', hideElements);
+      $tgl.on('mouseout', showElements);
 
     }
 
