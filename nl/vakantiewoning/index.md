@@ -3,10 +3,17 @@ layout: default
 title:  De Vakantiewoning
 ---
 
-Startpagina vakantiewoning
 
-Dit heeft wel een machtig techniekje voor linkbeheer naar bijvoorbeeld [De Prijzen][vakantie-prijzen] of [De arrangementen][vakantie-arrangementen] zonder een test naar [De feestzaal][feestzaal] te vergeten.
+Ons verhaal begint 4 jaar geleden... Via deze site gidsen we je graag langs de geschiedenis van het pand, de herkomst van de naam en de foto's die de metamorfose tonen van kolenkot tot luxueus vakantiehuis.
 
-Gewoon de max-maat
+Naast de praktische informatie en tarieven laten we jullie graag ook al even proeven van de troeven van Oostende en omgeving.
+Tijdens jullie verblijf delen we dan graag onze persoonlijke tips, weetjes en ervaringen voor een onvergetelijk verblijf.
+
+
+We hopen jullie binnenkort bij ons te verwelkomen!
+
+tot dan,
+
+Franky & An
 
 {% include links.md %}
