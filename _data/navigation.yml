@@ -2,12 +2,36 @@ langs:
   - nl
   - fr
 
-logo:
-  vakantiewoning: logo-fluisterbos-vakantiewoning.png
-  feestzaal: logo-fluisterbos-feestzaal.png
+sections:
+  nl: 
+    - label: Vakantiewoning
+      path: vakantiewoning
+      logo: /img/fb-vakantiewoning-red.png
+      style: redstyle
+    - label: Feestzaal
+      path: feestzaal
+      logo: /img/fb-feestzaal-green.png
+      style: greenstyle
+  fr:
+    - label: Maison de Vacances
+      path: maison-de-vacances
+      logo: /img/fb-vakantiewoning-red.png
+      style: redstyle
+    - label: Salle de Fêtes
+      path: salle-de-fetes
+      logo: /img/fb-feestzaal-green.png
+      style: greenstyle
+
+style:
+  vakantiewoning: redstyle
+  feestzaal: greenstyle
+
+homelogo:
+  nl/vakantiewoning: /img/logo-fluisterbos-vakantiewoning.png
+  nl/feestzaal: /img/logo-fluisterbos-feestzaal.png
 
 menu:
-  vakantiewoning:
+  nl/vakantiewoning:
     - path:  index
     - path:  accommodatie
       label: Accommodatie
@@ -15,13 +39,12 @@ menu:
       label: Reserveren
     - path:  contact 
       label: Contact
-
-  feestzaal:
+  nl/feestzaal:
     - path:  index
-    - path:  todo
-      label: TODO!!
+    - path:  expected
+      label: Verwacht
+  fr/maison-de-vacances:
+  fr/salle-de-fetes:
+
   
-style:
-  vakantiewoning: redstyle
-  feestzaal: greenstyle
 

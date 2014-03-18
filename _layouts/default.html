@@ -19,6 +19,7 @@
 {% if page_section and page_section != '' %} {% assign page_style =  site.data.navigation.style[page_section] %} {% endif %}
 {% if page.style %}   {%assign page_style = page.style %} {% endif %}
 {% if page.bg %}      {%assign page_bg = page.bg %} {% endif %}
+{% capture page_section_key %}{{ page_lang }}/{{ page_section }}{% endcapture %}
 <!-- TODO: remove debugging : 
      lang = {{ page_lang }} :: 
      section = {{ page_section}} :: 
@@ -30,9 +31,8 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ site.name }} :: {{ page.title }}</title>
-    {% if site.keywords %}
-    <meta name="keywords" content="{{ site.keywords | join: ',' }}">
+    <title>{{ page.title }} ::|:: {{ site.name }}</title>
+    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords | join: ',' }}">
     {% endif %}
     <meta name="viewport" content="width=device-width">
 
@@ -51,7 +51,7 @@
             {% if page_section %}
               <div id="nav_home_logo" class="hide-fade hidden-sm hidden-xs">
                 <a href="/{{ page_lang }}/{{ page_section }}" class="silent">
-                  <img src="/img/logo-fluisterbos-{{ page_section}}.png">
+                  <img src="{{ site.data.navigation.homelogo[page_section_key] }}">
                 </a>
               </div>
             {% endif %}
@@ -68,7 +68,7 @@
             {% if page_section %}
               <img id="nav_menu_toggle" src="/img/nav-menu-toggle.png" alt="menu toggle" class="pull-right"/>
               <div id="nav_menu_section" class="hide-right pull-right">
-                {% for menu in site.data.navigation.menu[page_section] %}
+                {% for menu in site.data.navigation.menu[page_section_key] %}
                   {% if menu.path == 'index' %}
                     <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html" class="silent">
                       <img id="nav_menu_home" src="/img/fluisterbos-home.png" alt="menu home" />
@@ -89,16 +89,35 @@
 
     <article>
       {% if page_section %}
-      <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5">
-        <div class="row wrap-parent"><div class="col-md-12 wrap-child">
-          <div id="content" class="content">
-            <h1 class="title">{{ page.title }}</h1>
-            {{ content }}
-          </div>
-        </div></div>
-      </div></div></div>
+        <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5">
+          <div class="row wrap-parent"><div class="col-md-12 wrap-child">
+            <div id="content" class="content">
+              <h1 class="title">{{ page.title }}</h1>
+              {{ content }}
+            </div>
+          </div></div>
+        </div></div></div>
       {% else %}
-        {{ content }}
+        <div class="container">
+          {% assign sections = site.data.navigation.sections[page_lang] %}
+          {% if sections %}
+          <div id="nav_sections" class="row">
+            {% for section in sections %}
+            <div class="col-md-4 col-md-offset-1"><div class="row choice {{ section.style }}">
+              <div class="col-md-12">
+                <a class="silent" 
+                   href="/{{ page_lang }}/{{ section.path }}">{{ section.label }}</a>
+              </div>
+              <div class="col-md-12">
+                <a class="silent" 
+                   href="/{{ page_lang }}/{{ section.path }}"><img src="{{ section.logo }}"></a>
+              </div>
+            </div></div>
+            {% endfor %}
+          </div>
+          {% endif %}
+          <!-- no {-{- content -}-} -->
+        </div>
       {% endif %}
     </article>  
 
