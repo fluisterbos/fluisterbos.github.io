@@ -82,6 +82,11 @@
     $window.resize();
 
 
+    /* Enable the custom scrollbar
+    --------------------------------------------------------- */
+    $content.mCustomScrollbar(); 
+
+
     /* Enable the background-slide-show
     --------------------------------------------------------- */
     var $body = $('body')
