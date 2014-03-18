@@ -180,14 +180,12 @@ h1 {
   text-transform: uppercase;
   padding-bottom: 10px;
 }
-.content {
+#content {
   margin-top: 2em;
   color: #fff;
   background-color: rgba(0, 0, 0, 0.5);
   padding: 1.5em;
   overflow: auto;
-  max-height: 520px!important;
-  /* TODO - handle this with jquery or some other trick? */
 }
 
 

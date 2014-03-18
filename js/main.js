@@ -3,14 +3,16 @@
   $(function(){
     /* Enable the toggle effect 
     --------------------------------------------------------- */
-    var $tgl = $("#nav_menu_toggle");
-    var $hideToRight = $(".hide-right");
-    var $hideToTop =  $(".hide-top");
-    var $hideToFade =  $(".hide-fade");
-    var animopts = {duration: 400, queue: false};
+    var $tgl = $("#nav_menu_toggle")
+      , $hideToRight = $(".hide-right")
+      , $hideToTop =  $(".hide-top")
+      , $hideToFade =  $(".hide-fade")
+      , animopts = {duration: 400, queue: false}
+    ;
     function completeOpts( fn) {
       fn = fn || function(){};
-      var cmpl = {complete: fn};
+      var cmpl = {complete: fn}
+      ;
       return $.extend(cmpl, animopts);
     }
 
@@ -44,7 +46,8 @@
       }
 
       function alternate(fnOn, fnOff) {
-        var on = true;
+        var on = true
+        ;
         return function() {
           if (on) { fnOn(); } else { fnOff(); }
           on = !on;
@@ -60,19 +63,38 @@
     }
 
 
+    /* Scale the height of content to the available space
+    --------------------------------------------------------- */
+    var $content = $('#content')
+      , $window  = $(window)
+      , $header  = $('#header')
+      , $footer  = $('#footer')
+      , margin   = 85
+    ;
+
+    function resize(){
+      var newHeight = $window.height() - $header.height() - $footer.height() - margin;
+      ;
+      //$content.css({'max-height': newHeight +"px"});
+      $content.css({'height': newHeight +"px"});
+    };
+    $window.on('resize', resize);
+    $window.resize();
+
+
     /* Enable the background-slide-show
     --------------------------------------------------------- */
-    var $body = $('body');
-    var bgset = $body.data('bg');
+    var $body = $('body')
+      , bgset = $body.data('bg')
+    ;
     if (bgset && bgset.length) { // if slides are defined
-      var slides = [];
+      var slides = []
+      ;
       $(bgset).each(function(){
-        //$('<img/>')[0].src = this; // preloads the image without adding it to the page 
         slides.push({image: this});
       });
       $.supersized({ slideshow: 1, vertical_center : 1, fit_portrait: 0, fit_landscape: 0, slides : slides });
     }
-
 
   });
 })(jQuery);
