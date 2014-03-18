@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  De Vakantiewoning
+title:  Welkom!
 ---
 
 
