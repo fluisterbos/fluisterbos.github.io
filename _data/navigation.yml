@@ -35,13 +35,15 @@ menu:
     - path:  index
     - path:  accommodatie
       label: Accommodatie
-    - path:  reservatie
+    - path:  tarieven
+      label: Tarieven
+    - path:  reserveren
       label: Reserveren
-    - path:  contact 
-      label: Contact
+    - path:  omgeving
+      label: Omgeving
   nl/feestzaal:
     - path:  index
-    - path:  expected
+    - path:  verwacht
       label: Verwacht
   fr/maison-de-vacances:
   fr/salle-de-fetes:
