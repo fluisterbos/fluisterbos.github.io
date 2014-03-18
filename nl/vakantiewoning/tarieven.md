@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  Prijzen Vakantiewoning
-menu: accomodatie
+title:  Tarieven
+
 ---
 
 prijzen voor [De Vakantiewoning][vakantiewoning]
