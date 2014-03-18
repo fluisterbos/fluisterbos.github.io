@@ -65,12 +65,40 @@ body.greenstyle {
 
 /* Make text in footer and nav sections uppercase
 -------------------------------------------------- */
-#footer, #nav_menu_section, #nav_langs {
+#footer, #nav_menu_section, #nav_langs, #nav_sections {
   text-transform: uppercase;
   font-size: 1.2em;
 }
+
+
+/* Looks for the language navigator
+-------------------------------------------------- */
 #nav_langs {
   font-weight: bold;
+}
+#nav_langs a {
+  background-color: rgba( 256, 256, 256, 0.5);
+  display: block;
+  float: left;
+  padding: 15px 5px 5px 5px;
+  margin: 0px 4px 0px 4px;
+}
+
+
+/* Looks for the choice-menu home page #nav_sections
+-------------------------------------------------- */
+#nav_sections {
+  margin-top: 5%;
+  font-size: 2em;
+  text-align: center;
+  letter-spacing: 0.35em;
+  color: white!important;
+}
+#nav_sections > div {
+  opacity: 0.8;
+}
+#nav_sections > div:hover {
+  opacity: 1;
 }
 
 
@@ -90,17 +118,6 @@ body.greenstyle {
   position: absolute;
   padding: 35px 35px 15px 35px;
   background-color: rgba(255,255,255,0.5);
-}
-
-
-/* Looks for the language navigator
--------------------------------------------------- */
-#nav_langs a {
-  background-color: rgba( 256, 256, 256, 0.5);
-  display: block;
-  float: left;
-  padding: 15px 5px 5px 5px;
-  margin: 0px 4px 0px 4px;
 }
 
 
@@ -183,7 +200,8 @@ h1 {
 #content {
   margin-top: 2em;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.7);
+  font-size: 1.2em;
   padding: 1.5em;
   overflow: auto;
 }
@@ -197,6 +215,7 @@ a {
 }
 #contact a,
 #nav_menu_section a,
+#nav_sections a,
 #nav_langs a {
   color: inherit;
 }
