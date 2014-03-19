@@ -17,11 +17,6 @@ greenstyle
 
 
 
-/* Undo some supersized setting
--------------------------------------------------- */
-ol, ul {
-  padding-left: 40px;
-}
 
 
 /* Sticky footer styles
@@ -220,11 +215,20 @@ body.greenstyle {
 
 /* Style the content 
 -------------------------------------------------- */
-h1, h2, h3, h4, h5, h6 {
+#content h1, 
+#content h2, 
+#content h3, 
+#content h4, 
+#content h5, 
+#content h6 {
   text-shadow: 0.1em 0.1em 0.2em black;
   text-transform: uppercase;
   padding-bottom: 10px;
   border-bottom: 1px groove white;
+}
+#content ol, 
+#content ul {
+  padding-left: 40px;
 }
 #content {
   margin-top: 2em;
@@ -234,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1.5em;
   overflow: auto;
 }
-th:empty {
+#content th:empty {
   display: none;
 }
 #content a {
