@@ -16,7 +16,7 @@ Op onze binnenplaats is er een gratis en veilige parkeerplaats voor 5 auto's.
 De eerste verdieping telt drie slaapkamers, allen met tweepersoons boxspring, ruime douche en wc.
 
 De tweede verdieping telt eveneens drie slaapkamers. Eén kamer is voorzien van twee stapelbedden, de tweede kamer heeft een dubbelbed. De gasten van deze kamers delen een douche en wc. 
-De derde kamer zijn twee éénpersoons bedden met eigen douche en wc.
+In de derde kamer zijn er twee éénpersoons bedden met eigen douche en wc.
 
 Plattegrond Fluisterbos
 
