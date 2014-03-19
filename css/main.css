@@ -17,6 +17,13 @@ greenstyle
 
 
 
+/* Undo some supersized setting
+-------------------------------------------------- */
+ol, ul {
+  padding-left: 40px;
+}
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -213,11 +220,11 @@ body.greenstyle {
 
 /* Style the content 
 -------------------------------------------------- */
-h1 {
-  font-size: 1.5em;
+h1, h2, h3, h4, h5, h6 {
   text-shadow: 0.1em 0.1em 0.2em black;
   text-transform: uppercase;
   padding-bottom: 10px;
+  border-bottom: 1px groove white;
 }
 #content {
   margin-top: 2em;
@@ -227,6 +234,14 @@ h1 {
   padding: 1.5em;
   overflow: auto;
 }
+th:empty {
+  display: none;
+}
+#content a {
+  color: #ddf;
+  border-bottom: 1px dashed #ddf;
+}
+
 
 
 /* Style the links

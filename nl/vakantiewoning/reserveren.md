@@ -10,17 +10,11 @@ Voor vragen of reservaties kun je bij ons terecht via telefoon of mail.
 
 ## Contactgegevens
 
-### Adres
-
-Fluisterbos
-
-Filip van Maestrichtplein 6
-
+**adres:**
+Fluisterbos   
+Filip van Maestrichtplein 6  
 8400 Oostende
 
-### GSMnummer: +32 472-84.17.15
+**tel:** +32 472-84.17.15
 
-### Mail: info@fluisterbos.be
-
-
-
+**e-mail:** [info@fluisterbos.be]

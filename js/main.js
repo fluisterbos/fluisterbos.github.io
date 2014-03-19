@@ -87,6 +87,21 @@
     $content.mCustomScrollbar(); 
 
 
+    /* Style Content elements using bootstrap
+    --------------------------------------------------------- */
+    var $tbls = $content.find('table')
+    ;
+    $tbls.addClass('table table-hovered table-condensed');
+    $tbls.css('background-color', 'rgba( 240, 240, 240, 0.8)');
+    $tbls.css('color','rgb( 64, 64, 64)');
+
+    var $imgs = $content.find('img')
+    ;
+    $imgs.addClass('img-thumbnail');
+    $imgs.css('padding', '10px');
+     
+
+
     /* Enable the background-slide-show
     --------------------------------------------------------- */
     var $body = $('body')
