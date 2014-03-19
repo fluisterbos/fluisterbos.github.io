@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nieuw document 1">
+   sodipodi:docname="toggle.svg"
+   inkscape:export-filename="/home/mpo/projects/fluisterbos.github.io.git/img/nav-menu-toggle.png"
+   inkscape:export-xdpi="41.139999"
+   inkscape:export-ydpi="41.139999">
   <defs
      id="defs4">
     <filter
@@ -35,7 +38,7 @@
      pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0.42352941"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4042141"
      inkscape:cx="77.915535"

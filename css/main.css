@@ -135,8 +135,12 @@ body.greenstyle {
 -------------------------------------------------- */
 #nav_menu_section {
   background-color: rgba( 256, 256, 256, 0.5);
-  height: 48px!important;
+  min-height: 48px!important;
   font-size: 1.3em;
+  /*
+  margin-left: 48px;
+  margin-right: 48px;
+  */
 }
 
 #contact span,
@@ -185,8 +189,16 @@ body.greenstyle {
 }
 #nav_menu_toggle,
 #nav_menu_home {
+  /*
+  margin-left: -48px;
+  */
   height: 48px!important;
   width: 48px!important;
+}
+#nav_menu_home:hover {
+  background-image: url('../img/fluisterbos-home-glow.png' );
+  background-height: 48px;
+  background-width: 48px;
 }
 
 
