@@ -8,7 +8,7 @@ Heb je nog extra vragen of wensen? Laat het ons zeker weten, we helpen je graag 
 Voor vragen of reservaties kun je bij ons terecht via telefoon of mail. 
 
 
-## Contactgegevens:
+## Contactgegevens
 
 ### Adres
 
