@@ -21,3 +21,4 @@
 [Brugge]:          http://visitbruges.be/
 [Flanders Fields]: http://flandersfields.be/
 [kustplaatsen]:    http://dekust.be/
+[yves velter]:     http://www.yvesvelter.com/
