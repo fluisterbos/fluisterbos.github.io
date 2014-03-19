@@ -2,7 +2,7 @@
 layout: default
 title:  De naam Fluisterbos
 ---
-De naam 'Fluisterbos' is een verwijzing naar het gelijknamige werk van de kunstenaar Yves Velter.
+De naam 'Fluisterbos' is een eigen vertaling van het kunstwerk 'Whisper trees' van Yves Velter. Het kunstwerk van deze in Oostende wonende en werkende hedendaagse kunstenaar bevindt tegenover onze vakantiewoning.  
 
 In de bomen op het plein vind je de clustersculptuur van oortjes. Deze oortjes symboliseren de bomen die getuigen zijn van wat er leeft in de buurt. Buurtbewoners ontmoeten elkaar op dit plein en delen er hun verhalen uit de wijk. En de oortjes luisteren mee...
 
