@@ -9,9 +9,13 @@ Heb je nog extra vragen of wensen? Laat het ons zeker weten, we helpen je graag 
 
 Voor vragen of reservaties kun je bij ons terecht via telefoon of mail. 
 
-Telefoonnummer: 
+Contactgegevens:
+Fluisterbox
+Filip van Maestrichtplein 6
+8400 Oostende
 
-Mailadres:
+GSMnummer: +32 472-84.17.15
+Mail: info@fluisterbos.be
 
 
 
