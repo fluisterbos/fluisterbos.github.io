@@ -4,69 +4,37 @@ title:  Tarieven
 
 ---
 
-TARIEVEN 2014
+## TARIEVEN 2014
+
+|         | Zomer      | Winter     | Waarborg |
+|---------|------------|------------|----------|
+| Weekend | 1.800,00 € | 1.650,00 € | 500,00 € |
+| Week    | 2.500,00 € | 2.400,00 € | 500,00 € | 
+| Midweek | 1.780,00 € | 1.580,00 € | 500,00 € |
 
 
+Indien minder dan 12 personen wordt er 8 € per nacht per persoon in mindering gebracht.
 
-Weekend
-Week
-Midweek
-Zomer
-1.800,00 €
-2.500,00 €
-1.780,00 €
-Winter
-1.650,00 €
-2.400,00 €
-1.580,00 €
-Waarborg
-500,00 €
-500,00 €
-500,00 €
+       | Periode
+-------|-------------
+Zomer  |  1 april - 31 oktober  & alle schoolvakanties            
+Winter |  1 november – 31 maart, uitgezonderd de schoolvakanties 
 
-Indien minder dan 12 personen wordt er 8 € per nacht in mindering gebracht.
+Formule | # nachten | aankomst                         | vertrek
+--------|-----------|----------------------------------|-----------------------------------
+Weekend | 3 nachten | vrijdag vanaf 16.00 u            | maandag voor 10.00 u
+Midweek | 4 nachten | maandag vanaf 16.00 u            | vrijdag voor 10.00 u
+Week    | 7 nachten | maandag of vrijdag vanaf 16.00 u | maandag of vrijdag voor 10.00 u
 
 
-Zomer
-Winter
-1 april - 31 oktober
-alle schoolvakanties
-1 november – 31 maart
-uitgezonderd de schoolvakanties
+## Speciale periodes 2014
 
-
-Weekend
-3 nachten
-aankomst op vrijdag vanaf 16.00 u
-vertrek op maandag voor 10.00 u
-Midweek
-4 nachten
-aankomst op maandag vanaf 16.00 u
-vertrek op vrijdag voor 10.00 u
-Week
-7 nachten
-aankomst op maandag of vrijdag vanaf 16.00 u
-vertrek op maandag of vrijdag voor 10.00 u
-
-
-Speciale periodes 2014
-
-Weekend 1 mei
-aankomst woensdag 30 april vanaf 16.00 u
-vertrek maandag 5 mei voor 10.00 u
-2250 € / 5 nachten
-Hemelvaart
-aankomst woensdag 28 mei vanaf 16.00 u
-vertrek maandag 2 juni voor 10.00 u
-2250 € / 5 nachten
-Pinksteren
-aankomst vrijdag 6 juni vanaf 16.00 u
-vertrek dinsdag 10 juni voor 10.00 u
-2000 € / 4 nachten
-Weekend 11 november
-aankomst vrijdag 7 november vanaf 16.00 u
-vertrek woensdag 12 november voor 10.00 u
-2150 € / 5 nachten
+Periode             | aankomst                         | vertrek                           | prijs  | # nachten
+--------------------|----------------------------------|-----------------------------------|--------|-----------
+Weekend 1 mei       | woensdag 30 april vanaf 16.00 u  | maandag 5 mei voor 10.00 u        | 2250 € | 5 nachten
+Hemelvaart          | woensdag 28 mei vanaf 16.00 u    | maandag 2 juni voor 10.00 u       | 2250 € | 5 nachten
+Pinksteren          | vrijdag 6 juni vanaf 16.00 u     | dinsdag 10 juni voor 10.00 u      | 2000 € | 4 nachten
+Weekend 11 november | vrijdag 7 november vanaf 16.00 u | woensdag 12 november voor 10.00 u | 2150 € | 5 nachten
 
 Herfstvakantie 2014 (is toch geen speciale periode? Volgt de regel schoolvakantie = zomerperiode = prijs 2500 € / week – zou dit niet apart vermelden) – of wil je dan enkel de volledige week verhuren en is het niet mogelijk voor weekend of midweek? Wat doe je dan met de kerstvakantie?
 aankomst vrijdag 31 oktober vanaf 16.00 u
