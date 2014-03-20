@@ -100,10 +100,18 @@ body.greenstyle {
   letter-spacing: 0.35em;
   color: white!important;
 }
-#nav_sections > div {
+#nav_sections .choice {
+  padding: 1em 0 1em 0;
+  width: 100%;
+  background-color: rgba(256,256,256, 0.8);
+  display: table-cell;
+  vertical-align: middle;
   opacity: 0.8;
 }
-#nav_sections > div:hover {
+#nav_sections .choice .caption {
+  min-height: 72px;
+}
+#nav_sections .choice:hover {
   opacity: 1;
 }
 #nav_sections .redstyle {

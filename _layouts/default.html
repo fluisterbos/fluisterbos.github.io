@@ -101,20 +101,20 @@
         <div class="container">
           {% assign sections = site.data.navigation.sections[page_lang] %}
           {% if sections %}
-          <div id="nav_sections" class="row">
+          <div id="nav_sections" class="row"><div class="col-md-10 col-md-offset-1">
             {% for section in sections %}
-            <div class="col-md-4 col-md-offset-1"><div class="row choice {{ section.style }}">
-              <div class="col-md-12">
+            <div class="col-md-6 {{ section.style }}"><div class="choice row">
+              <div class="col-md-12 caption">
                 <a class="silent" 
                    href="/{{ page_lang }}/{{ section.path }}">{{ section.label }}</a>
               </div>
-              <div class="col-md-12">
+              <div class="col-md-12 ">
                 <a class="silent" 
                    href="/{{ page_lang }}/{{ section.path }}"><img src="{{ section.logo }}"></a>
               </div>
             </div></div>
             {% endfor %}
-          </div>
+          </div></div>
           {% endif %}
           <!-- no {-{- content -}-} -->
         </div>
