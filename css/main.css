@@ -104,8 +104,6 @@ body.greenstyle {
   padding: 1em 0 1em 0;
   width: 100%;
   background-color: rgba(256,256,256, 0.8);
-  display: table-cell;
-  vertical-align: middle;
   opacity: 0.8;
 }
 #nav_sections .choice .caption {
