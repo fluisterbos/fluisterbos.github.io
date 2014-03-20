@@ -8,6 +8,7 @@
       , $hideToTop =  $(".hide-top")
       , $hideToFade =  $(".hide-fade")
       , animopts = {duration: 400, queue: false}
+      , tglHeightStr = $tgl.height() + "px"
     ;
     function completeOpts( fn) {
       fn = fn || function(){};
@@ -24,7 +25,10 @@
 
       function hideElements () {
         $tgl.rotate({animateTo:-90});
-        $hideToRight.animate({width: "toggle"}, completeHide);
+        $hideToRight.animate({width: "toggle", height: tglHeightStr }, completeOpts(function() {
+          $(this).css('display', 'none');
+          $(this).css('height', tglHeightStr);
+        }));
         $hideToTop.slideUp( completeHide);
         $hideToFade.fadeOut( completeHide);
       }
@@ -34,6 +38,7 @@
         $hideToRight.animate({width: "toggle"}, completeOpts( function() {  
           $(this).css('display', 'block');
           $(this).css('width', 'none');
+          $(this).css('height', 'none');
         }));
         $hideToTop.slideDown( completeOpts( function() {
           $(this).css('display', 'block');
