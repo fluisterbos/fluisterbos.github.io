@@ -31,10 +31,6 @@ body {
   margin-bottom: 50px;
 }
 
-#header div.row:first-child {
-  min-height: 64px!important;
-}
-
 #footer {
   position: absolute;
   bottom: 0;
@@ -48,6 +44,13 @@ body {
 }
 .greenstyle #footer, .greenstyle body {
   background-color: #a0b130;
+}
+
+
+/* Keep the space for the language flags 
+-------------------------------------------------- */
+#header div.row:first-child {
+  min-height: 64px!important;
 }
 
 
@@ -110,9 +113,6 @@ body.greenstyle {
   color: #a0b130!important;
 }
 
-/* Style the content 
--------------------------------------------------- */
-
 
 /* Customise the footer-style
 -------------------------------------------------- */
@@ -139,10 +139,6 @@ body.greenstyle {
   background-color: rgba( 256, 256, 256, 0.5);
   min-height: 48px!important;
   font-size: 1.3em;
-  /*
-  margin-left: 48px;
-  margin-right: 48px;
-  */
 }
 
 #contact span,
@@ -191,9 +187,6 @@ body.greenstyle {
 }
 #nav_menu_toggle,
 #nav_menu_home {
-  /*
-  margin-left: -48px;
-  */
   height: 48px!important;
   width: 48px!important;
 }
