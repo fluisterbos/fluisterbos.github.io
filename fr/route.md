@@ -2,6 +2,7 @@
 layout: default
 title: Wegbeschrijving
 ---
+TODO:: vertaling FR
 
 Bereken je route on-line met behulp van [google maps]
 {% include gmap.html %}

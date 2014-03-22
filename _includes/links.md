@@ -3,6 +3,9 @@
 [salle-de-fetes]:     /fr/salle-de-fetes/
 [maison-de-vacances]: /fr/maison-de-vacances/
 
+[route-nl]:     /nl/route.html
+[route-fl]:     /fr/route.html
+
 [vakantie-arrangementen]: /nl/vakantiewoning/arrangementen.html
 [vakantie-tarieven]:      /nl/vakantiewoning/tarieven.html
 [vakantie-accommodatie]:  /nl/vakantiewoning/accommodatie.html
