@@ -256,6 +256,9 @@ body.greenstyle {
   color: #ddf;
   border-bottom: 1px dashed #ddf;
 }
+#content .glyphicon {
+  font-size: 0.6em;
+}
 
 
 

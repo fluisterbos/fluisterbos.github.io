@@ -1,6 +1,8 @@
 (function ($){
   /* wait for the page to be loaded */
   $(function(){
+
+
     /* Enable the toggle effect 
     --------------------------------------------------------- */
     var $tgl = $("#nav_menu_toggle")
@@ -90,6 +92,16 @@
     /* Enable the custom scrollbar
     --------------------------------------------------------- */
     $content.mCustomScrollbar(); 
+
+
+    /* Make external links go _blank
+    --------------------------------------------------------- */
+    var $extLinks = $content.find("a[href^='http']");
+    ;
+    $extLinks.attr('target', '_blank');
+    $extLinks.each(function(){
+      $(this).append(' <span class="glyphicon glyphicon-new-window"></span>');
+    });
 
 
     /* Style Content elements using bootstrap
