@@ -43,8 +43,6 @@ menu:
       label: Omgeving
   nl/feestzaal:
     - path:  index
-    - path:  verwacht
-      label: Verwacht
   fr/maison-de-vacances:
   fr/salle-de-fetes:
 
