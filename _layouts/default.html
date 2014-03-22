@@ -6,6 +6,7 @@
 {% assign page_bg =  site.data.slides.default %}
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
 {% assign segments = page.url | replace:'.html','' | split:'/' %}
+{% assign maxloop = 0 %}
 {% for segm in segments limit:3 offset:1 %}
   {% assign maxloop = forloop.index %}
   {% case forloop.index %}
@@ -14,7 +15,14 @@
     {% when 3 %} {% assign page_menu  = segm %}
   {% endcase %}
 {% endfor %}
-{% if maxloop < 3 %}<!-- -->{% assign page_menu = page_section %}{% assign page_section = null %}{% endif %}
+{% if maxloop < 2 %}<!-- -->
+  {% assign page_lang = 'nl' %}
+  {% assign page_section = 'index' %}
+{% endif %}
+{% if maxloop < 3 %}<!-- -->
+  {% assign page_menu = page_section %}
+  {% assign page_section = null %}
+{% endif %}
 {% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
 {% if page.section %} {%assign page_section = page.section %} {% endif %}
 {% if page.menu %}    {%assign page_menu = page.menu %} {% endif %}
@@ -23,6 +31,7 @@
 {% if page.bg %}      {%assign page_bg = page.bg %} {% endif %}
 {% capture page_section_key %}{{ page_lang }}/{{ page_section }}{% endcapture %}
 <!-- TODO: remove debugging : 
+     maxloop = {{ maxloop }} :: 
      lang = {{ page_lang }} :: 
      section = {{ page_section}} :: 
      menu = {{ page_menu }} ::
