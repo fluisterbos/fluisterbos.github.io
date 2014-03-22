@@ -139,7 +139,7 @@ body.greenstyle {
 }
 
 
-/* Looks for the menu
+/* Looks for the menu, and the contacts
 -------------------------------------------------- */
 #nav_menu_section {
   background-color: rgba( 256, 256, 256, 0.5);
@@ -178,6 +178,18 @@ body.greenstyle {
 #contact span:last-child,
 #nav_menu_section span:last-child {
   border-right: none;
+}
+#route-link.active a {
+  background-color: white!important;
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 3px;
+}
+.redstyle #route-link.active a {
+  color: #ac2e24!important;
+}
+.greenstyle #route-link.active a {
+  color: #a0b130!important;
 }
 
 
