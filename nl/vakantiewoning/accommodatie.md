@@ -4,7 +4,7 @@ title: Accommodatie
 bg: ost_sep
 ---
 
-Onze ruime vakantiewoning (   m²) biedt plaats aan maximum 12 personen.
+Onze ruime vakantiewoning (215 m²) biedt plaats aan maximum 12 personen.
 
 De benedenverdieping staat volledig ter beschikking van onze gasten. De ideale ruimte om samen te kokkerellen in de modern ingerichte keuken, bij te kletsen in de comfortabele zithoek met houtkachel, een spelletje te spelen,... Daarnaast is er ook tv met digibox, dvd-speler, muziekinstallatie, bibliotheek, draadloos internet en toilet aanwezig. 
 Elke ochtend vind je hier een royaal ontbijt.
