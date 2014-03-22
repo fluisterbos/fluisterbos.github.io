@@ -7,12 +7,14 @@
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
 {% assign segments = page.url | replace:'.html','' | replace:'/index','/' | split:'/' %}
 {% for segm in segments limit:3 offset:1 %}
+  {% assign maxloop = forloop.index %}
   {% case forloop.index %}
     {% when 1 %} {% assign page_lang = segm  %}
     {% when 2 %} {% assign page_section = segm  %}
     {% when 3 %} {% assign page_menu  = segm %}
   {% endcase %}
 {% endfor %}
+{% if maxloop < 3 %}<!-- -->{% assign page_menu = page_section %}{% assign page_section = null %}{% endif %}
 {% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
 {% if page.section %} {%assign page_section = page.section %} {% endif %}
 {% if page.menu %}    {%assign page_menu = page.menu %} {% endif %}
@@ -88,7 +90,7 @@
     </header>
 
     <article>
-      {% if page_section %}
+      {% if page_section or page_menu != 'index' %}
         <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5">
           <div class="row wrap-parent"><div class="col-md-12 wrap-child">
             <div id="content" class="content">
@@ -127,6 +129,7 @@
           <a href="http://www.photographyadriaan.be" target="_blank"><img src="/img/logo-adriaanhuys.png"/></a>
         </div>
         <div id="contact">
+          <span><a href="/{{ page_lang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
           <span class="hidden-xs">Filip Van Maestrichtplein 6</span>
           <span class="hidden-sm hidden-xs hidden-md">8400 Oostende</span>
           <span>+32 472 84 17 15</span>
