@@ -154,8 +154,8 @@ body.greenstyle {
 
 #contact span,
 #nav_menu_section span {
-  padding-left: 1em;
-  padding-right: 0.95em;
+  padding: 0 0 0 3px;
+  border-left: 1px solid transparent;
   border-right: 1px solid black;
 }
 #contact span,
@@ -163,12 +163,14 @@ body.greenstyle {
   margin-left: 2px;
   margin-right: 2px;
 }
+#contact span,
 #nav_menu_section a {
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: 1em;
+  padding-right: 1em;
 }
-#nav_menu_section a:first-child {
+#nav_menu_section > a:first-child {
   padding-left: 0;
+  padding-right: 0;
   margin-left: 0;
 }
 .redstyle #nav_menu_section span {
@@ -277,9 +279,15 @@ a {
 a:hover,
 .active a {
   border-radius: 8px;
+  color: #fff;
+}
+
+#nav_menu a:hover,
+#nav_menu .active a,
+#footer a:hover,
+#footer .active a {
   padding-top: 5px;
   padding-bottom: 3px;
-  color: #fff;
 }
 
 #nav_langs a:hover,
