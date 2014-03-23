@@ -39,10 +39,10 @@ body {
   height: 50px;
   padding-top: 1em;
 }
-.redstyle #footer, .redstyle body {
+.redstyle #footer {
   background-color: #ac2e24;
 }
-.greenstyle #footer, .greenstyle body {
+.greenstyle #footer {
   background-color: #a0b130;
 }
 
@@ -98,7 +98,7 @@ body.greenstyle {
   text-align: center;
   font-weight: bold;
   letter-spacing: 0.35em;
-  color: white!important;
+  color: white;
 }
 #nav_sections .choice {
   padding: 1em 0 1em 0;
@@ -113,10 +113,10 @@ body.greenstyle {
   opacity: 1;
 }
 #nav_sections .redstyle {
-  color: #ac2e24!important;
+  color: #ac2e24;
 }
 #nav_sections .greenstyle {
-  color: #a0b130!important;
+  color: #a0b130;
 }
 
 
@@ -126,7 +126,7 @@ body.greenstyle {
   color: white;
 }
 #footer .pull-right {
-  padding-right: 2em;
+  margin-right: 2em;
 }
 
 
@@ -179,18 +179,6 @@ body.greenstyle {
 #nav_menu_section span:last-child {
   border-right: none;
 }
-#route-link.active a {
-  background-color: white!important;
-  border-radius: 8px;
-  padding-top: 5px;
-  padding-bottom: 3px;
-}
-.redstyle #route-link.active a {
-  color: #ac2e24!important;
-}
-.greenstyle #route-link.active a {
-  color: #a0b130!important;
-}
 
 
 /* Looks for the buttons in the menu
@@ -217,11 +205,11 @@ body.greenstyle {
 
 .redstyle #nav_menu_section, 
 .redstyle #nav_langs {
-  color: #ac2e24!important;
+  color: #ac2e24;
 }
 .greenstyle #nav_menu_section, 
 .greenstyle #nav_langs {
-  color: #a0b130!important;
+  color: #a0b130;
 }
 
 /* Style the content 
@@ -252,10 +240,6 @@ body.greenstyle {
 #content th:empty {
   display: none;
 }
-#content a {
-  color: #ddf;
-  border-bottom: 1px dashed #ddf;
-}
 #content .glyphicon {
   font-size: 0.6em;
 }
@@ -268,25 +252,58 @@ a:hover,
 a {
   text-decoration: none;
 }
-#contact a,
-#nav_menu_section a,
-#nav_sections a,
-#nav_langs a {
-  color: inherit;
+.redstyle a {
+  color: #ac2e24;
+}
+.greenstyle a {
+  color: #a0b130;
+}
+#content a {
+  color: #ddf;
+  border-bottom: 1px dashed #ddf;
+}
+#footer a {
+  color: #fff;
 }
 
 
-/* Make active selections stand out
+/* Make active and hovered selections stand out
 -------------------------------------------------- */
+a:hover,
+.active a {
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 3px;
+  color: #fff;
+}
+
+#nav_langs a:hover,
+#nav_langs a {
+  border-radius: 0px;
+}
+
 .redstyle a:hover,
+.redstyle #nav_langs .active a,
 .redstyle .active a {
-  background-color: #ac2e24!important;
-  color: #fff!important;
+  background-color: rgba( 172, 46, 36, 0.8);
 }
 .greenstyle a:hover,
+.greenstyle #nav_langs .active a,
 .greenstyle .active a {
-  background-color: #a0b130!important;
-  color: #fff!important;
+  background-color: rgba( 160, 177, 48, 0.8);
+}
+
+#footer a:hover,
+#footer .active a {
+  background-color: rgba(255,255,255,0.8);
+}
+.redstyle #footer a:hover,
+.redstyle #footer .active a {
+  color: #ac2e24;
+}
+.greenstyle #footer a:hover,
+.greenstyle #footer .active a {
+  color: #a0b130;
 }
 a.silent:hover {
   background-color: transparent!important;
