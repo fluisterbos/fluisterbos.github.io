@@ -2,6 +2,7 @@
 layout: default
 title: Van kolenkot tot vakantieverblijf
 menu: accommodatie
+bg: geschiedenis
 ---
 Het Fluisterbos, een vakantiewoning met een verhaal...
 

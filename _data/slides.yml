@@ -1,20 +1,26 @@
-default: "ost_klr"
-ost_klr:
-  - /img/bg/ost-klr/wapenplein.jpg
-  - /img/bg/ost-klr/thoofd-avond.jpg
-  - /img/bg/ost-klr/strandcabines.jpg
-  - /img/bg/ost-klr/casino-strand.jpg
-  - /img/bg/ost-klr/strand-west.jpg
-  - /img/bg/ost-klr/mercator.jpg
-  - /img/bg/ost-klr/duinen.jpg
-  - /img/bg/ost-klr/visnetten.jpg
-  - /img/bg/ost-klr/den-hof.jpg
-ost_sep:
-  - /img/bg/ost-sep/t-koptsje-van-t-hoofd.jpg
-  - /img/bg/ost-sep/de-zaiker.jpg
-  - /img/bg/ost-sep/pier-en-pol.jpg
-  - /img/bg/ost-sep/den-oede-woatertorre.jpg
-  - /img/bg/ost-sep/stratsje-zoender-ende.jpg
-  - /img/bg/ost-sep/dikke-matille.jpg
-vakwon:
-fstzl:
+default: "oostende"
+oostende:
+  - /img/bg/oostende/wapenplein.jpg
+  - /img/bg/oostende/thoofd-avond.jpg
+  - /img/bg/oostende/strandcabines.jpg
+  - /img/bg/oostende/casino-strand.jpg
+  - /img/bg/oostende/strand-west.jpg
+  - /img/bg/oostende/mercator.jpg
+  - /img/bg/oostende/duinen.jpg
+  - /img/bg/oostende/visnetten.jpg
+  - /img/bg/oostende/den-hof.jpg
+oortjes:
+  - /img/bg/oortjes/fluister-plataan.jpg
+  - /img/bg/oortjes/fluister-oor.jpg
+  - /img/bg/oortjes/fluister-plein.jpg
+welkom:
+genieten:
+geschiedenis:
+  - /img/bg/geschiedenis/slaapkamer.jpg
+  - /img/bg/geschiedenis/slaapkamer-2.jpg
+  - /img/bg/geschiedenis/keuken.jpg
+  - /img/bg/geschiedenis/woonkamer-2.jpg
+  - /img/bg/geschiedenis/dressoir.jpg
+  - /img/bg/geschiedenis/fvanmaestrichtplein-1970.jpg
+  - /img/bg/geschiedenis/woonkamer.jpg
+accommodatie:

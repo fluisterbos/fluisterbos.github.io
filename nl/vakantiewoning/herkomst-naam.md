@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  De naam Fluisterbos
+bg: oortjes
 ---
 De naam 'Fluisterbos' is een eigen vertaling van het kunstwerk 'Whisper trees' van [Yves Velter]. Het kunstwerk van deze in Oostende wonende en werkende hedendaagse kunstenaar bevindt zich tegenover onze vakantiewoning.  
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Accommodatie
-bg: ost_sep
 ---
 
 Onze ruime vakantiewoning (215 m²) biedt plaats aan maximum 12 personen.
