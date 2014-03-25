@@ -1,5 +1,6 @@
 @import url("bootstrap.min.css");
 @import url("//fonts.googleapis.com/css?family=EB+Garamond"));
+@import url("print.css") print;
 
 /* 2 dominant styles for the 2 sections of the website 
 
@@ -295,13 +296,15 @@ a:hover,
   border-radius: 0px;
 }
 
-.redstyle a:hover,
+.redstyle #nav_langs a:hover,
 .redstyle #nav_langs .active a,
+.redstyle a:hover,
 .redstyle .active a {
   background-color: rgba( 172, 46, 36, 0.8);
 }
-.greenstyle a:hover,
+.greenstyle #nav_langs a:hover,
 .greenstyle #nav_langs .active a,
+.greenstyle a:hover,
 .greenstyle .active a {
   background-color: rgba( 160, 177, 48, 0.8);
 }

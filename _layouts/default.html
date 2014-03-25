@@ -57,7 +57,7 @@
   <body class="{{ page_style }}" data-bg='{{ site.data.slides[page_bg] | jsonify }}' >
     <header>
       <nav>
-        <div id="header" class="container">
+        <div id="header" class="container hidden-print">
           <div class="row"><div class="col-md-12">
             {% if page_section %}
               <div id="nav_home_logo" class="hide-fade hidden-sm hidden-xs">
@@ -134,16 +134,16 @@
 
     <footer>
       <div id="footer">
-        <div class="pull-right hidden-sm hidden-xs">
+        <div class="pull-right hidden-sm hidden-xs hidden-print">
           <a class="silent" href="http://www.photographyadriaan.be" target="_blank"><img src="/img/logo-adriaanhuys.png"/></a>
         </div>
         <div id="contact">
-          <span id="route-link" class="{% if page_menu == 'route' %}active{% endif %}"><a title="route" href="/{{ page_lang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
-          <span class="hidden-xs">Filip Van Maestrichtplein 6</span>
-          <span class="hidden-sm hidden-xs hidden-md">8400 Oostende</span>
-          <span>+32 472 84 17 15</span>
-          <a title="email" target="_blank" href="mailto:info@fuilsterbos.be"><span>info@fluisterbos.be</span></a>
-          <div class="fb-follow hidden-sm hidden-xs" data-href="https://www.facebook.com/fluisterbos" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
+          <span id="route-link" class="hidden-print {% if page_menu == 'route' %}active{% endif %}"><a title="route" href="/{{ page_lang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
+          <span class="hidden-xs show-print">Filip Van Maestrichtplein 6</span>
+          <span class="hidden-sm hidden-xs hidden-md show-print">8400 Oostende</span>
+          <span class="show-print">+32 472 84 17 15</span>
+          <a class="show-print" title="email" target="_blank" href="mailto:info@fuilsterbos.be"><span>info@fluisterbos.be</span></a>
+          <div class="fb-follow hidden-sm hidden-xs hidden-print" data-href="https://www.facebook.com/fluisterbos" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
       </div>
     </footer>
 
