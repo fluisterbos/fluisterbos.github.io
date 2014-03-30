@@ -57,7 +57,7 @@ supplement per extra persoon: 195 € / persoon
 WEEKARRANGEMENTEN
 
 Voe hèèl 't menoage
-Het allerleukste is natuurlijk om met groot én klein samen iets te ondernemen. Trek er dus samen op uit om nadien na te kaarten over de dag bij een ijsje of lekker stukje taart.
+Het allerleukste is natuurlijk om met groot én klein samen iets te ondernemen. Trek er dus samen op uit en geniet dan nog even na bij een lekker ijsje of heerlijk stukje taart.
 
 Inbegrepen:
 7 overnachtingen in het Fluisterbos
