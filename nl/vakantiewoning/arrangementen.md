@@ -85,14 +85,5 @@ Prijs:
 - winterarrangement (cinema) voor 12 personen: 2495&nbsp;€
 - winterarrangement (zwembad) voor 12 personen: 2420&nbsp;€
 
-### HUUR FIETSEN
-Gedurende het hele jaar kun je door ons fietsen aan de vakantiewoning laten bezorgen. 
-
-Prijs:
-
-- eerste dag: 15 € / dag
-  - elektrische fiets: 30 € / dag
-- vanaf de tweede dag: 5 € / dag
-  - elektrische fiets: 10 € / dag
 
 {% include links.md %}
