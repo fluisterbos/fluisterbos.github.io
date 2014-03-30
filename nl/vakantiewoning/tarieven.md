@@ -11,13 +11,13 @@ title:  Tarieven 2014
 |Midweek | 1.780,00&nbsp;€ | 1.580,00&nbsp;€ | 500,00&nbsp;€ 
 
 
-|Periode||
-|-------|-------------
-|Zomer  |  1 april - 31 oktober  & alle schoolvakanties            
-|Winter |  1 november – 31 maart, uitgezonderd de schoolvakanties 
+|Periode ||
+|------- |-------------
+|Zomer   |  1 april - 31 oktober  & alle schoolvakanties            
+|Winter  |  1 november – 31 maart, uitgezonderd de schoolvakanties 
 
-|Formule | nachten | aankomst                         | vertrek
-|--------|---------|----------------------------------|-----------------------------------
+|Formule | nachten | aankomst                      | vertrek
+|--------|---------|-------------------------------|-----------------------------------
 |Weekend | 3 n     | vrijdag vanaf 16 u            | maandag voor 10 u
 |Midweek | 4 n     | maandag vanaf 16 u            | vrijdag voor 10 u
 |Week    | 7 n     | maandag of vrijdag vanaf 16 u | maandag of vrijdag voor 10 u
