@@ -231,6 +231,7 @@ body.greenstyle {
   text-shadow: 0.1em 0.1em 0.2em black;
   text-transform: uppercase;
   padding-bottom: 10px;
+  padding-top: 15px;
 }
 #content h1, 
 #content h2 {
