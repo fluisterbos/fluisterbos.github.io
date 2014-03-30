@@ -86,7 +86,7 @@ Prijs:
 - winterarrangement (zwembad) voor 12 personen: 2420&nbsp;€
 
 ### HUUR FIETSEN
-Het hele jaar door kun je door ons fietsen aan de vakantiewoning laten bezorgen. 
+Gedurende het hele jaar kun je door ons fietsen aan de vakantiewoning laten bezorgen. 
 
 Prijs:
 
