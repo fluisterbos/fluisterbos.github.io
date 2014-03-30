@@ -69,7 +69,7 @@ Inbegrepen:
 - 7 overnachtingen in het Fluisterbos
 - 7 x ontbijt 
 - zomer: gocarts voor 2 uur en ijsje voor iedereeen
-- winter: keuze tussen tickets voor cinema of zwembad en taart voor iedereen
+- winter: keuze tussen tickets voor cinema of zwembad - taart voor iedereen
 - zak hout voor de kachel of houtskool voor de barbecue
 - parking voor max 5 auto's
 - eindschoonmaak
