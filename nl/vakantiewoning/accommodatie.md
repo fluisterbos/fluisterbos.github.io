@@ -19,5 +19,5 @@ In de derde kamer zijn er twee éénpersoons bedden (90x200) met eigen douche en
 
 Kinderbed en kinderstoeltje zijn beschikbaar.
 
-Huisdieren zijn niet toegelaten, roken mag niet in de vakantiewoning en kamers maar enkel buiten.
+Huisdieren zijn niet toegelaten. Rokers kunnen buiten terecht, in de kamers en gemeenschappelijke ruimte mag niet gerookt worden.
 
