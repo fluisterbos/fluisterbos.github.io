@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Beschikbaarheid
+menu: reserveren
 ---
 
-Zo zou beschikbaarheid er kunnen uitzien
 {% include gcal.html %}
 
 

@@ -231,8 +231,12 @@ body.greenstyle {
   text-shadow: 0.1em 0.1em 0.2em black;
   text-transform: uppercase;
   padding-bottom: 10px;
+}
+#content h1, 
+#content h2 {
   border-bottom: 1px groove white;
 }
+
 #content ol, 
 #content ul {
   padding-left: 40px;
