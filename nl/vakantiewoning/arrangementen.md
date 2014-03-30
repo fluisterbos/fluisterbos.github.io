@@ -62,7 +62,7 @@ Prijs:
 ### WEEKARRANGEMENTEN
 
 ####  Voe hèèl 't menoage
-Het allerleukste is natuurlijk om met groot én klein samen iets te ondernemen. Trek er dus samen op uit en geniet dan nog even na bij een lekker ijsje of heerlijk stukje taart.
+Het allerleukste is natuurlijk om met groot en klein samen iets te ondernemen. Trek er dus samen op uit en geniet dan nog even na bij een lekker ijsje of heerlijk stukje taart.
 
 Inbegrepen:
 
