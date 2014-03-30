@@ -12,7 +12,7 @@ Hun zaak bloeide tot ook zij geconfronteerd werden met de nieuwe realiteit. De s
 
 In die overgangsjaren raakte dit architecturaal mooie pand in verval. Wij vonden hierin de ideale locatie voor onze nieuwe droom: een vakantiewoning in hartje Oostende waar we groepen tot 12 personen kunnen verwelkomen.
 
-Tussen droom en daad lagen 4 jaren van hard en gedreven werk. De stijlvolle gevel werd vakkundig gerenoveerd en de achterbouw gesloopt en heropgebouwd tot een modern, comfortabel en gezellig vakantiehuis. 
+Tussen droom en daad lagen 6 jaren van hard en gedreven werk. De stijlvolle gevel werd vakkundig gerenoveerd en de achterbouw gesloopt en heropgebouwd tot een modern, comfortabel en gezellig vakantiehuis. 
 
 We kijken er naar uit om onze droom met jullie te delen!
 
