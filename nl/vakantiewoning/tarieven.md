@@ -18,19 +18,19 @@ title:  Tarieven 2014
 
 |Formule | nachten | aankomst                      | vertrek
 |--------|---------|-------------------------------|-----------------------------------
-|Weekend | 3 n     | vrijdag vanaf 16 u            | maandag voor 10 u
-|Midweek | 4 n     | maandag vanaf 16 u            | vrijdag voor 10 u
-|Week    | 7 n     | maandag of vrijdag vanaf 16 u | maandag of vrijdag voor 10 u
+|Weekend | 3 n     | vrijdag vanaf&nbsp;16&nbsp;u            | maandag voor&nbsp;10&nbsp;u
+|Midweek | 4 n     | maandag vanaf&nbsp;16&nbsp;u            | vrijdag voor&nbsp;10&nbsp;u
+|Week    | 7 n     | maandag of vrijdag vanaf&nbsp;16&nbsp;u | maandag of vrijdag voor&nbsp;10&nbsp;u
 
 
 ## Speciale periodes 2014
 
 |Periode             | aankomst                         | vertrek                           | prijs           | nachten
 |--------------------|----------------------------------|-----------------------------------|-----------------|-----------
-|Weekend 1 mei       | woensdag 30 april vanaf 16 u  | maandag&nbsp;5&nbsp;mei voor&nbsp;10&nbsp;u        | 2.250,00&nbsp;€ | 5 n
-|Hemelvaart          | woensdag 28 mei vanaf 16 u    | maandag&nbsp;2&nbsp;juni voor&nbsp;10&nbsp;u       | 2.250,00&nbsp;€ | 5 n
-|Pinksteren          | vrijdag 6 juni vanaf 16 u     | dinsdag&nbsp;10&nbsp;juni voor&nbsp;10&nbsp;u      | 2.000,00&nbsp;€ | 4 n
-|Weekend 11 november | vrijdag 7 november vanaf 16 u | woensdag&nbsp;12&nbsp;november voor&nbsp;10&nbsp;u | 2.150,00&nbsp;€ | 5 n
+|Weekend 1 mei       | woensdag&nbsp;30&nbsp;april vanaf&nbsp;16&nbsp;u  | maandag&nbsp;5&nbsp;mei voor&nbsp;10&nbsp;u        | 2.250,00&nbsp;€ | 5 n
+|Hemelvaart          | woensdag&nbsp;28&nbsp;mei vanaf&nbsp;16&nbsp;u    | maandag&nbsp;2&nbsp;juni voor&nbsp;10&nbsp;u       | 2.250,00&nbsp;€ | 5 n
+|Pinksteren          | vrijdag&nbsp;6&nbsp;juni vanaf&nbsp;16&nbsp;u     | dinsdag&nbsp;10&nbsp;juni voor&nbsp;10&nbsp;u      | 2.000,00&nbsp;€ | 4 n
+|Weekend 11 november | vrijdag&nbsp;7&nbsp;november vanaf&nbsp;16&nbsp;u | woensdag&nbsp;12&nbsp;november voor&nbsp;10&nbsp;u | 2.150,00&nbsp;€ | 5 n
 
 
 
