@@ -11,8 +11,6 @@ title:  Tarieven 2014
 |Midweek | 1.780,00&nbsp;€ | 1.580,00&nbsp;€ | 500,00&nbsp;€ 
 
 
-Indien minder dan 12 personen wordt er 8 € per nacht per persoon in mindering gebracht.
-
 |Periode||
 |-------|-------------
 |Zomer  |  1 april - 31 oktober  & alle schoolvakanties            
