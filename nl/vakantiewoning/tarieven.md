@@ -34,8 +34,8 @@ title:  Tarieven 2014
 
 
 
-> **Inbegrepen in de prijs** - verblijf voor maximum 12 personen - opgemaakte bedden bij aankomst - handdoeken en keukenhanddoeken - ontbijt die u samen met ons kan samenstellen - parking voor 5 wagens - keuze tussen zak hout voor de kachel of houtskool voor de barbecue - gratis wifi - digibox - eindschoonmaak
+> **Inbegrepen in de prijs**: verblijf voor maximum 12 personen - opgemaakte bedden bij aankomst - handdoeken en keukenhanddoeken - ontbijt die u samen met ons kan samenstellen - parking voor 5 wagens - keuze tussen zak hout voor de kachel of houtskool voor de barbecue - gratis wifi - digibox - eindschoonmaak
 
-> **Niet inbegrepen** - verbruik van elektriciteit,gas en water - waarborg 500,00 €
+> **Niet inbegrepen**: verbruik van elektriciteit,gas en water - waarborg 500,00 €
 
 {% include links.md %}
