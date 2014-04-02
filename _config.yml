@@ -1,8 +1,16 @@
-name: Fluisterbos - Vakantiewoning en Gelegenheidsadres in Oostende
+name: Fluisterbos
+
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 pygments: true
+
+description: Vakantiewoning en Gelegenheidsadres in Oostende
+url: http://www.fluisterbos.be
 keywords:
   - Oostende
   - vakantiewoning
+  - Familie
+  - Arrangement
+  - Verblijf
+  - Vakantie aan Zee
