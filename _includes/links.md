@@ -17,7 +17,7 @@
 [vakantie-reserveren]:      /nl/vakantiewoning/reserveren.html
 
 [google maps]:     https://goo.gl/maps/k9TXi
-[facebook]:        http://www.fluisterbos.be/
+[facebook]:        http://facebook.com/Fluisterbos
 [oostende]:        http://www.visitoostende.be/
 [muzee]:           http://www.muzee.be/
 [de grote post]:   http://www.degrotepost.be/

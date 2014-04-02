@@ -1,4 +1,9 @@
-default: "oostende"
+default: "fluisterbos"
+fluisterbos:
+  - /img/bg/fluisterbos/an-franky-sepia.jpg
+  - /img/bg/fluisterbos/keuken.jpg
+  - /img/bg/fluisterbos/zithoek.jpg
+  - /img/bg/fluisterbos/welkom.jpg
 oostende:
   - /img/bg/oostende/wapenplein.jpg
   - /img/bg/oostende/thoofd-avond.jpg
@@ -15,12 +20,4 @@ oortjes:
   - /img/bg/oortjes/fluister-plein.jpg
 welkom:
 genieten:
-geschiedenis:
-  - /img/bg/geschiedenis/slaapkamer.jpg
-  - /img/bg/geschiedenis/slaapkamer-2.jpg
-  - /img/bg/geschiedenis/keuken.jpg
-  - /img/bg/geschiedenis/woonkamer-2.jpg
-  - /img/bg/geschiedenis/dressoir.jpg
-  - /img/bg/geschiedenis/fvanmaestrichtplein-1970.jpg
-  - /img/bg/geschiedenis/woonkamer.jpg
 accommodatie:

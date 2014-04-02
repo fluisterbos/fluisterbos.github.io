@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Oostende en Omgeving
+bg: oostende
 ---
 [Oostende] en omgeving kan zowat iedereen bekoren. 
  
