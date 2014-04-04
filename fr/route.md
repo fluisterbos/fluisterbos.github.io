@@ -1,32 +1,30 @@
 ---
 layout: default
-title: Wegbeschrijving
+title: Itinéraire
 ---
-TODO:: vertaling FR
 
-Bereken je route on-line met behulp van [google maps]
+Calculez votre itinéraire en ligne avec [google maps]
 {% include gmap.html %}
 
-### Met de wagen
-Vanop het «Rondpunt Kennedy» (einde van de E40/A10 en samenkomst van de belangrijkste invalswegen) in Oostende volg je richting «centrum | ferry | haven».
-Via de Verenigde Natieslaan kom je op het volgende rondpunt (Vuurkruisenplein) nabij de Stadhuis en Zeilschip «Mercator».
+### En voiture
+Depuis le rond-point Kennedy (fin de la E40/A10 et jonction des routes principales) à Ostende, suivez la direction « centrum | ferry | haven ».
+En suivant la Verenigde Natieslaan, vous arrivez au rond-point suivant (Vuurkruisenplein) près de l'hôtel de ville et du bateau-musée « Mercator ».
 
-Neem de 3de afslag op de rotonde (Leopold II laan) aan de lichten linksaf in de Alfons Pieterslaan.
+Prenez la 3e sortie du rond-point (Leopold II laan) au feu à gauche dans l'Alfons Pieterslaan.
 
-De 4de straat aan de linkerkant (Antwerpenstraat) brengt je naar het pleintje met bomen (Filip Van Maestricht) achter de kerk.  
+La 4e rue à gauche (Antwerpenstraat) vous amène à une petite place arborée (Filip Van Maestrichtplein) derrière l'église.  
 
-Het fluisterbos vind je op nummer 6 aan de rechterkant.
+« Het fluisterbos » se trouve au numéro 6 du côté droit.
 
 
 
-### Met het openbaar vervoer
+### En transports en commun
 
-Het fluisterbos ligt op 15 minuten wandelen van het Station Oostende.
+« Het fluisterbos » se trouve à 15 minutes à pied de la Gare d'Ostende.
 
-De dichtste bushalte «Sint Jozefskerk» (150m) bereik je met één van de vele bussen (6, 50, 51, 52, 53, 68, 69, 81, 86) van De Lijn.
+Pour arriver à l'arrêt de bus le plus proche « Sint Jozefskerk » (150 m), il suffit de prendre l'un des nombreux bus De Lijn (6, 50, 51, 52, 53, 68, 69, 81, 86).
 
-Het fluisterbos vind je op nummer 6 aan de rechterkant op het fijne Filip Van Maestrichtplein achter de kerk.
-
+« Het fluisterbos » se trouve au numéro 6 du côté droit de la belle Filip Van Maestrichtplein derrière l'église.
 
 
 {% include links.md %}
