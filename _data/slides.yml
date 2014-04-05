@@ -5,6 +5,32 @@ fluisterbos:
   - /img/bg/fluisterbos/zithoek-s2000-q90.jpg
   - /img/bg/fluisterbos/welkom-s2000-q90.jpg
 oostende:
+  - /img/bg/oostende2/casino-s2000-q90.jpg
+  - /img/bg/oostende2/gaanderijen-s2000-q90.jpg
+  - /img/bg/oostende2/langenelle-s2000-q90.jpg
+  - /img/bg/oostende2/strandcabines-s2000-q90.jpg
+  - /img/bg/oostende2/wapenplein-s2000-q90.jpg
+  - /img/bg/oostende2/mercator-s2000-q90.jpg
+  - /img/bg/oostende2/dijk-s2000-q90.jpg
+  - /img/bg/oostende2/thoofd-s2000-q90.jpg
+  - /img/bg/oostende2/langenelle2-s2000-q90.jpg
+  - /img/bg/oostende2/visnetten-s2000-q90.jpg
+  - /img/bg/oostende2/centrum-s2000-q90.jpg
+  - /img/bg/oostende2/denhof-s2000-q90.jpg
+oostendefull:
+  - /img/bg/oostende2/casino.jpg
+  - /img/bg/oostende2/gaanderijen.jpg
+  - /img/bg/oostende2/langenelle.jpg
+  - /img/bg/oostende2/strandcabines.jpg
+  - /img/bg/oostende2/wapenplein.jpg
+  - /img/bg/oostende2/mercator.jpg
+  - /img/bg/oostende2/dijk.jpg
+  - /img/bg/oostende2/thoofd.jpg
+  - /img/bg/oostende2/langenelle2.jpg
+  - /img/bg/oostende2/visnetten.jpg
+  - /img/bg/oostende2/centrum.jpg
+  - /img/bg/oostende2/denhof.jpg
+oostende-old:
   - /img/bg/oostende/wapenplein-s2000-q90.jpg
   - /img/bg/oostende/thoofd-avond-s2000-q90.jpg
   - /img/bg/oostende/strandcabines-s2000-q90.jpg
