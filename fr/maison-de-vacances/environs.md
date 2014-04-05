@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Ostende et ses environs
-bg: oostendefull
+bg: oostende
 ---
 [Ostende][oostende] et ses environs saura répondre aux envies de chacun. 
 
