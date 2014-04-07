@@ -183,7 +183,6 @@ body.greenstyle {
 #contact span.item {
   border-right-color: white;
 }
-#contact span:last-child,
 #nav_menu_section span:last-child {
   border-right: none;
 }
