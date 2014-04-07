@@ -153,18 +153,18 @@ body.greenstyle {
   font-size: 1.3em;
 }
 
-#contact span,
+#contact span.item,
 #nav_menu_section span {
   padding: 0 0 0 3px;
   border-left: 1px solid transparent;
   border-right: 1px solid black;
 }
-#contact span,
+#contact span.item,
 #nav_menu_section a {
   margin-left: 2px;
   margin-right: 2px;
 }
-#contact span,
+#contact span.item,
 #nav_menu_section a {
   padding-left: 1em;
   padding-right: 1em;
@@ -180,7 +180,7 @@ body.greenstyle {
 .greenstyle #nav_menu_section span {
   border-right-color: #a0b130;
 }
-#contact span {
+#contact span.item {
   border-right-color: white;
 }
 #contact span:last-child,
