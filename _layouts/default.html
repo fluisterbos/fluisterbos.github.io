@@ -156,7 +156,7 @@
           <meta itemprop="description" content="{{ site:description }}" />
           <meta itemprop="url"         content="{{ site:url }}" />
           <span id="route-link" class="item hidden-print {% if page_menu == 'route' %}active{% endif %}"><a itemprop="map" title="route" href="/{{ page_lang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
-          <span itemprop="address"  itemtype="http://schema.org/PostalAddress">
+          <span itemprop="address"  itemscope itemtype="http://schema.org/PostalAddress">
             <span itemprop="streetAddress" class="item hidden-xs show-print">Filip Van Maestrichtplein 6</span>
             <span class="item hidden-sm hidden-xs hidden-md show-print">
               <span itemprop="postalCode">8400</span> <span itemprop="addressLocality">Oostende</span>
@@ -168,7 +168,9 @@
             <meta itemprop="longitude" content="2.9137846" />
           </span>
           <span itemprop="telephone" class="item show-print">+32 472 84 17 15</span>
-          <a itemprop="email" title="email" target="_blank" href="mailto:info@fluisterbos.be"><span class="item show-print">info@fluisterbos.be</span></a>
+          <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <a itemprop="email" title="email" target="_blank" href="mailto:info@fluisterbos.be"><span class="item show-print">info@fluisterbos.be</span></a>
+          </span>
           <div class="fb-follow hidden-sm hidden-xs hidden-print" data-href="https://www.facebook.com/fluisterbos" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
       </div>
     </footer>
