@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Tarieven 2014
-
+bg: genieten
 ---
 
 |&nbsp;  | Zomer           | Winter          | Waarborg 

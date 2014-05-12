@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reserveren
+bg: genieten
 ---
 Check online wanneer het Fluisterbos [vrij][vakantie-beschikbaarheid] is.
 

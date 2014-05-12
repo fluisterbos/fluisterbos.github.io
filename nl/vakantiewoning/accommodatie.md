@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accommodatie
+bg: accommodatie
 ---
 
 Onze ruime vakantiewoning (215 m²) biedt plaats aan maximum 12 personen.

@@ -1,9 +1,28 @@
 default: "fluisterbos"
 fluisterbos:
   - /img/bg/fluisterbos/an-franky-sepia-s2000-q90.jpg
+  - /img/bg/welkom/infomap-fluisterbos-s2000-q90.jpg
+  - /img/bg/welkom/ruime-kamers-s2000-q90.jpg
+  - /img/bg/welkom/visschotel-eetkamer-s2000-q90.jpg
+  - /img/bg/welkom/kamer-open-deur-s2000-q90.jpg
+  - /img/bg/welkom/kamer-cava-s2000-q90.jpg
+  - /img/bg/welkom/kamer-zicht-s2000-q90.jpg
+  - /img/bg/welkom/kamer-welkom-s2000-q90.jpg
   - /img/bg/fluisterbos/keuken-s2000-q90.jpg
   - /img/bg/fluisterbos/zithoek-s2000-q90.jpg
   - /img/bg/fluisterbos/welkom-s2000-q90.jpg
+  - /img/bg/overzicht/kamer-met-terras-s2000-q90.jpg
+  - /img/bg/overzicht/zithoek-s2000-q90.jpg
+  - /img/bg/overzicht/slaapkamer-s2000-q90.jpg
+  - /img/bg/overzicht/badkamer-2-s2000-q90.jpg
+  - /img/bg/overzicht/badkamer-s2000-q90.jpg
+  - /img/bg/overzicht/achtergevel-s2000-q90.jpg
+  - /img/bg/overzicht/zicht-op-pleintje-s2000-q90.jpg
+  - /img/bg/overzicht/kamer-zicht-op-boom-s2000-q90.jpg
+  - /img/bg/overzicht/eetkamer-zithoek-s2000-q90.jpg
+  - /img/bg/overzicht/terrasverdieping-s2000-q90.jpg
+  - /img/bg/overzicht/terras-s2000-q90.jpg
+  - /img/bg/overzicht/leeshoek-s2000-q90.jpg
 oostende:
   - /img/bg/oostende/casino-s2000-q90.jpg
   - /img/bg/oostende/gaanderijen-s2000-q90.jpg
@@ -21,6 +40,47 @@ oortjes:
   - /img/bg/oortjes/fluister-plataan-s2000-q90.jpg
   - /img/bg/oortjes/fluister-oor-s2000-q90.jpg
   - /img/bg/oortjes/fluister-plein-s2000-q90.jpg
-welkom:
 genieten:
+  - /img/bg/details/handdoek-kamer-kerk-s2000-q90.jpg
+  - /img/bg/details/douche-badkamer-s2000-q90.jpg
+  - /img/bg/details/nachttafel-boek-s2000-q90.jpg
+  - /img/bg/details/kaasschotel-rodewijn-eetkamer-s2000-q90.jpg
+  - /img/bg/details/leeshoek-boek-s2000-q90.jpg
+  - /img/bg/details/visschotel-wittewijn-eetkamer-s2000-q90.jpg
+  - /img/bg/details/bloem-terras-s2000-q90.jpg
+  - /img/bg/sfeer/leeshoek-sfeer-s2000-q90.jpg
+  - /img/bg/sfeer/gedekte_tafel-s2000-q90.jpg
+  - /img/bg/sfeer/fluisterbos-kamer-s2000-q90.jpg
+  - /img/bg/sfeer/eetkamer-keuken-terras-s2000-q90.jpg
+  - /img/bg/sfeer/kamer-handdoek-s2000-q90.jpg
+  - /img/bg/sfeer/zithoek-schaak-s2000-q90.jpg
+  - /img/bg/sfeer/kamer-kerk-boom-s2000-q90.jpg
+  - /img/bg/sfeer/tafel-s2000-q90.jpg
+  - /img/bg/sfeer/douche-kamer-boom-s2000-q90.jpg
 accommodatie:
+  - /img/bg/kamers/kamers-009-s2000-q90.jpg
+  - /img/bg/kamers/kamers-010-s2000-q90.jpg
+  - /img/bg/kamers/kamers-000-s2000-q90.jpg
+  - /img/bg/kamers/kamers-008-s2000-q90.jpg
+  - /img/bg/kamers/kamers-007-s2000-q90.jpg
+  - /img/bg/kamers/kamers-001-s2000-q90.jpg
+  - /img/bg/kamers/kamers-003-s2000-q90.jpg
+  - /img/bg/kamers/kamers-013-s2000-q90.jpg
+  - /img/bg/kamers/kamers-004-s2000-q90.jpg
+  - /img/bg/kamers/kamers-005-s2000-q90.jpg
+  - /img/bg/kamers/kamers-002-s2000-q90.jpg
+  - /img/bg/kamers/kamers-011-s2000-q90.jpg
+  - /img/bg/kamers/kamers-006-s2000-q90.jpg
+  - /img/bg/kamers/kamers-012-s2000-q90.jpg
+  - /img/bg/overzicht/kamer-met-terras-s2000-q90.jpg
+  - /img/bg/overzicht/zithoek-s2000-q90.jpg
+  - /img/bg/overzicht/slaapkamer-s2000-q90.jpg
+  - /img/bg/overzicht/badkamer-2-s2000-q90.jpg
+  - /img/bg/overzicht/badkamer-s2000-q90.jpg
+  - /img/bg/overzicht/achtergevel-s2000-q90.jpg
+  - /img/bg/overzicht/zicht-op-pleintje-s2000-q90.jpg
+  - /img/bg/overzicht/kamer-zicht-op-boom-s2000-q90.jpg
+  - /img/bg/overzicht/eetkamer-zithoek-s2000-q90.jpg
+  - /img/bg/overzicht/terrasverdieping-s2000-q90.jpg
+  - /img/bg/overzicht/terras-s2000-q90.jpg
+  - /img/bg/overzicht/leeshoek-s2000-q90.jpg

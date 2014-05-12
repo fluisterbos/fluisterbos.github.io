@@ -2,6 +2,7 @@
 layout: default
 title:  Arrangementen
 menu: tarieven
+bg: genieten
 ---
 
 ### MIDWEEKARRANGEMENTEN
