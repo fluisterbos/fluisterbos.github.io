@@ -20,7 +20,7 @@ Inbegrepen:
 - 4 x ontbijt van onze eigen bakkerij
 - bierproeverij in café ['t Botteltje], het gezelligste biercafé van Oostende
 - kaasplank met bier-en broodmand op de dag van aankomst
-- handdoeken, keukenhanddoeken, en opgemaakte bedden bij aankomst
+- handdoeken, keukenhanddoeken, en opgemaakte bedden (gratis bedlinnen) bij aankomst
 - zak hout voor de kachel of houtskool voor de barbecue
 - parking voor max. 5 auto's
 - eindschoonmaak
@@ -28,12 +28,12 @@ Inbegrepen:
 Niet inbegrepen:
 
 - verbruik van elektriciteit, gas en water
-- waarborg: 500 €
+- waarborg: 700,00&nbsp;€
 
 Prijs: 
 
-- arrangement voor 6 personen: 1770&nbsp;€
-- supplement per extra persoon: 185&nbsp;€ / persoon
+- arrangement voor 6 personen: 1700,00&nbsp;€
+- supplement per extra persoon: 105,00&nbsp;€ / persoon
 
 
 ####  Tusjhn hoarienk én kabbeljow
@@ -45,7 +45,7 @@ Inbegrepen:
 - 4 x ontbijt van onze eigen bakkerij
 - gidsbeurt met Oostendekenner
 - visschotel met wijn en broodmand (niet mogelijk op maandag)
-- handdoeken, keukenhanddoeken, en opgemaakte bedden bij aankomst
+- handdoeken, keukenhanddoeken, en opgemaakte bedden (gratis bedlinnen) bij aankomst
 - zak hout voor de kachel of houtskool voor de barbecue
 - parking voor max. 5 auto's
 - eindschoonmaak
@@ -53,12 +53,12 @@ Inbegrepen:
 Niet inbegrepen:
 
 - verbruik van elektriciteit, gas en water
-- waarborg: 500 €
+- waarborg: 700,00&nbsp;€
 
 Prijs: 
 
-- arrangement voor 6 personen: 1800 €
-- supplement per extra persoon: 195 € / persoon
+- arrangement voor 6 personen: 1800,00&nbsp;€
+- supplement per extra persoon: 115,00&nbsp;€ / persoon
 
 ### WEEKARRANGEMENTEN
 
@@ -72,7 +72,7 @@ Inbegrepen:
 - zomer: gocarts voor 1 uur en ijsje voor iedereeen
 - winter: keuze tussen arrangement met cinema of arrangement met zwembad 
 - taart voor iedereen
-- handdoeken, keukenhanddoeken, en opgemaakte bedden bij aankomst
+- handdoeken, keukenhanddoeken, en opgemaakte bedden (gratis bedlinnen) bij aankomst
 - zak hout voor de kachel of houtskool voor de barbecue
 - parking voor max. 5 auto's
 - eindschoonmaak
@@ -80,13 +80,13 @@ Inbegrepen:
 Niet inbegrepen:
 
 - verbruik van elektriciteit, gas en water
-- waarborg: 500 €
+- waarborg: 700,00&nbsp;€
 
 Prijs: 
 
-- zomerarrangement voor 12 personen: 2620&nbsp;€
-- winterarrangement (cinema) voor 12 personen: 2495&nbsp;€
-- winterarrangement (zwembad) voor 12 personen: 2420&nbsp;€
+- zomerarrangement voor 12 personen: 2620,00&nbsp;€
+- winterarrangement (cinema) voor 12 personen: 2495,00&nbsp;€
+- winterarrangement (zwembad) voor 12 personen: 2420,00&nbsp;€
 
 
 {% include links.md %}
