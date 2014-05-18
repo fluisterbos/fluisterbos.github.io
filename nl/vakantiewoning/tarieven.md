@@ -42,7 +42,7 @@ De waarborg bedraagt 700,00&nbsp;€
 
 > **Inbegrepen in de prijs**: - Gratis parking voor 5 wagens - Handdoeken en keukenhanddoeken - Houtskool voor de barbecue of hout voor de houtkachel - Gratis Wifi
 
-> **Niet inbegrepen**: - Verplichte eind schoonmaak 150,00&nbsp;€ - Verplichte lakenparket aan 8,00&nbsp;€ per persoon - Elektriciteit, gas en water
+> **Niet inbegrepen**: - Verplichte eind schoonmaak 150,00&nbsp;€ - Verplicht lakenparket aan 8,00&nbsp;€ per persoon - Elektriciteit, gas en water
 
 (*)Bij een mindering van personen worden kamers afgesloten.
 
