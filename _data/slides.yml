@@ -1,6 +1,7 @@
 default: "fluisterbos"
 fluisterbos:
   - /img/bg/fluisterbos/an-franky-sepia-s2000-q90.jpg
+#  - /img/bg/fluisterbos/fluisterbos-gevel-s2000-q90.jpg
   - /img/bg/welkom/infomap-fluisterbos-s2000-q90.jpg
   - /img/bg/welkom/ruime-kamers-s2000-q90.jpg
   - /img/bg/welkom/visschotel-eetkamer-s2000-q90.jpg
@@ -42,6 +43,7 @@ oortjes:
   - /img/bg/oortjes/fluister-plein-s2000-q90.jpg
 genieten:
   - /img/bg/details/handdoek-kamer-kerk-s2000-q90.jpg
+  - /img/bg/details/terras-tafel-s2000-q90.jpg
   - /img/bg/details/douche-badkamer-s2000-q90.jpg
   - /img/bg/details/nachttafel-boek-s2000-q90.jpg
   - /img/bg/details/kaasschotel-rodewijn-eetkamer-s2000-q90.jpg
@@ -71,6 +73,7 @@ accommodatie:
   - /img/bg/kamers/kamers-006-s2000-q90.jpg
   - /img/bg/kamers/kamers-012-s2000-q90.jpg
   - /img/bg/overzicht/kamer-met-terras-s2000-q90.jpg
+  - /img/bg/overzicht/zithoek-keuken-s2000-q90.jpg
   - /img/bg/overzicht/zithoek-s2000-q90.jpg
   - /img/bg/overzicht/slaapkamer-s2000-q90.jpg
   - /img/bg/overzicht/badkamer-2-s2000-q90.jpg
