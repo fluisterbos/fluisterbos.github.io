@@ -51,5 +51,8 @@ Tous les frais sont facturés avec la garantie le dernier jour.
 
 Pour toute question spécifique, veuillez contacter info@fluisterbos.be :  nous vous proposerons une formule sur mesure !
 
+## Conditions Générales
+
+Télécharger les [Conditions générales][maison-conditions]
 
 {% include links.md %}

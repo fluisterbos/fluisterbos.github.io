@@ -14,6 +14,7 @@
 [vakantie-herkomst-naam]:   /nl/vakantiewoning/herkomst-naam.html
 [vakantie-omgeving]:        /nl/vakantiewoning/omgeving.html
 [vakantie-reserveren]:      /nl/vakantiewoning/reserveren.html
+[vakantie-voorwaarden]:     /nl/vakantiewoning/fluisterbos-algemene-voorwaarden.pdf
 
 [maison-arrangements]:      /fr/maison-de-vacances/arrangements.html
 [maison-disponibilités]:    /fr/maison-de-vacances/disponibilités.html
@@ -23,6 +24,7 @@
 [maison-nom-origine]:       /fr/maison-de-vacances/origine-de-nom.html
 [maison-environs]:          /fr/maison-de-vacances/environs.html
 [maison-réservation]:       /fr/maison-de-vacances/réservation.html
+[maison-conditions]:        /fr/maison-de-vacances/fluisterbos-conditions-generales.pdf
 
 [google maps]:       https://goo.gl/maps/k9TXi
 [facebook]:          http://facebook.com/Fluisterbos

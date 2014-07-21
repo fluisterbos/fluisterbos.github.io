@@ -52,5 +52,7 @@ Alle kosten worden op de laatste dag verrekend met de borg.
 
 Voor specifieke vragen contacteer info@fluisterbos.be: we kunnen iets uitwerken op maat !
 
+## Algemene voorwaarden
+Download de [Algemene Voorwaarden][vakantie-voorwaarden]
 
 {% include links.md %}
