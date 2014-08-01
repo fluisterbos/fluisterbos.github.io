@@ -46,7 +46,7 @@ De waarborg bedraagt 700,00&nbsp;€
 
 (*)Bij een mindering van personen worden kamers afgesloten.
 
-Er is een mogelijkheid om een een ontbijt bij te boeken aan 7,00&nbsp;€ per persoon per dag .
+Er is een mogelijkheid om een een ontbijt bij te boeken aan 9,00&nbsp;€ per persoon per dag .
 
 Alle kosten worden op de laatste dag verrekend met de borg.
 

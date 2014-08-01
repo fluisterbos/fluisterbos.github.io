@@ -45,7 +45,7 @@ La garantie s'élève à 700,00&nbsp;€
 
 (*) S'il y a des personnes en moins, les chambres sont fermées.
 
-Il est possible de réserver un petit-déjeuner supplémentaire à 7,00&nbsp;€ par personne par jour.
+Il est possible de réserver un petit-déjeuner supplémentaire à 9,00&nbsp;€ par personne par jour.
 
 Tous les frais sont facturés avec la garantie le dernier jour.
 
