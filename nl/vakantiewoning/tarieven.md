@@ -6,22 +6,23 @@ bg: genieten
 
 |  Zomer  | Prijs voor 12 personen | Per persoon in mindering(*)
 |---------|------------------------|----------------------------
-| Weekend | 1350,00&nbsp;€  | -40,00&nbsp;€
-| Week    | 1850,00&nbsp;€  | -90,00&nbsp;€
-| Midweek | 1350,00&nbsp;€  | -40,00&nbsp;€
+| Weekend | 1350,00&nbsp;€         | -40,00&nbsp;€
+| Week    | 1850,00&nbsp;€         | -90,00&nbsp;€
+| Midweek | 1350,00&nbsp;€         | -40,00&nbsp;€
 
-| Winter  | Prijs voor 12 personen | Per persoon in mindering(*)
-|---------|------------------------|----------------------------
-| Weekend | 1250,00&nbsp;€  | -40,00&nbsp;€
-| Week    | 1750,00&nbsp;€  | -90,00&nbsp;€
-| Midweek | 1250,00&nbsp;€  | -40,00&nbsp;€
+| Winter     | Prijs voor 12 personen | Per persoon in mindering(*)
+|------------|------------------------|----------------------------
+| Weekend 2n |  990,00&nbsp;€         | -25,00&nbsp;€
+| Weekend 3n | 1250,00&nbsp;€         | -40,00&nbsp;€
+| Week       | 1750,00&nbsp;€         | -90,00&nbsp;€
+| Midweek    | 1250,00&nbsp;€         | -40,00&nbsp;€
 
 Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikbaarheid][vakantie-beschikbaarheid]
 
 |Periode ||
 |------- |-------------
-|Zomer   |  1 april - 31 oktober  & alle schoolvakanties            
-|Winter  |  1 november – 31 maart, uitgezonderd de schoolvakanties 
+|Zomer   |  1 april - 30 september  & alle schoolvakanties            
+|Winter  |  1 oktober – 31 maart, uitgezonderd de schoolvakanties 
 
 |Formule | nachten | aankomst                                | vertrek
 |--------|---------|-----------------------------------------|-----------------------------------

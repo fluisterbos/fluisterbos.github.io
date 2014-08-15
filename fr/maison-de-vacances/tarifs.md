@@ -9,18 +9,19 @@ title:  Tarifs 2014
 | Semaine  | 1850,00&nbsp;€         | -90,00&nbsp;€
 | Mid-week | 1350,00&nbsp;€         | -40,00&nbsp;€
 
-|  Hiver   | Prix pour 12 personnes | Par personne en moins(*)
-|----------|------------------------|----------------------------
-| Week-end | 1250,00&nbsp;€         | -40,00&nbsp;€
-| Semaine  | 1750,00&nbsp;€         | -90,00&nbsp;€
-| Mid-week | 1250,00&nbsp;€         | -40,00&nbsp;€
+|  Hiver      | Prix pour 12 personnes | Par personne en moins(*)
+|-------------|------------------------|----------------------------
+| Week-end 2n |  990,00&nbsp;€         | -25,00&nbsp;€
+| Week-end 3n | 1250,00&nbsp;€         | -40,00&nbsp;€
+| Semaine     | 1750,00&nbsp;€         | -90,00&nbsp;€
+| Mid-week    | 1250,00&nbsp;€         | -40,00&nbsp;€
 
 Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
 
 |Période ||
 |------- |-------------
-|Été     |  1er avril - 31 octobre  et toutes les vacances scolaires            
-|Hiver   |  1er novembre - 31 mars, à l'exception des vacances scolaires 
+|Été     |  1er avril - 30 septembre  et toutes les vacances scolaires            
+|Hiver   |  1er octobre - 31 mars, à l'exception des vacances scolaires 
 
 |Formule  | nuits   | arrivée                                      | départ
 |---------|---------|----------------------------------------------|-----------------------------------
