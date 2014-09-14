@@ -84,9 +84,9 @@ Niet inbegrepen:
 
 Prijs: 
 
-- zomerarrangement voor 12 personen: 2620,00&nbsp;€
-- winterarrangement (cinema) voor 12 personen: 2495,00&nbsp;€
-- winterarrangement (zwembad) voor 12 personen: 2420,00&nbsp;€
+- zomerarrangement voor 14 personen: 2620,00&nbsp;€
+- winterarrangement (cinema) voor 14 personen: 2495,00&nbsp;€
+- winterarrangement (zwembad) voor 14 personen: 2420,00&nbsp;€
 
 
 {% include links.md %}

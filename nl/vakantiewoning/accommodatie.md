@@ -4,7 +4,7 @@ title: Accommodatie
 bg: accommodatie
 ---
 
-Onze ruime vakantiewoning (215 m²) biedt plaats aan maximum 12 personen.
+Onze ruime vakantiewoning (215 m²) biedt plaats aan maximum 14 personen.
 
 De benedenverdieping staat volledig ter beschikking van onze gasten. Het is de ideale ruimte om samen te kokkerellen, bij te kletsen in de comfortabele zithoek met houtkachel, een spelletje te spelen,... Daarnaast is er ook tv met dvd-speler, muziekinstallatie, bibliotheek, draadloos internet en toilet aanwezig. 
 Elke ochtend vind je hier een royaal ontbijt van onze eigen bakkerij.

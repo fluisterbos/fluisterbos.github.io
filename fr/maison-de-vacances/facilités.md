@@ -3,7 +3,7 @@ layout: default
 title: Facilités
 ---
 
-Notre vaste maison de vacances (215 m²) peut accueillir maximum 12 personnes.
+Notre vaste maison de vacances (215 m²) peut accueillir maximum 14 personnes.
 
 Le rez-de-chaussée est mis entièrement à la disposition de nos hôtes. C'est l'endroit idéal pour cuisiner ensemble, bavarder dans le salon confortable au coin du poêle à bois, faire un jeu de société. Il y a aussi une télévision avec lecteur de DVD, une chaîne hi-fi, une bibliothèque, l'Internet sans fil et des toilettes. 
 Chaque matin, vous pouvez y déguster un petit-déjeuner royal.

@@ -83,9 +83,9 @@ Non compris :
 
 Prix : 
 
-- formule estivale pour 12 personnes : 2620,00&nbsp;€
-- formule hivernale (cinéma) pour 12 personnes : 2495,00&nbsp;€
-- formule hivernale (piscine) pour 12 personnes : 2420,00&nbsp;€
+- formule estivale pour 14 personnes : 2620,00&nbsp;€
+- formule hivernale (cinéma) pour 14 personnes : 2495,00&nbsp;€
+- formule hivernale (piscine) pour 14 personnes : 2420,00&nbsp;€
 
 
 {% include links.md %}

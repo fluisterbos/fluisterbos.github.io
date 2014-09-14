@@ -3,13 +3,13 @@ layout: default
 title:  Tarifs 2014
 ---
 
-|  Été     | Prix pour 12 personnes | Par personne en moins(*)
+|  Été     | Prix pour 14 personnes | Par personne en moins(*)
 |----------|------------------------|----------------------------
 | Week-end | 1350,00&nbsp;€         | -40,00&nbsp;€
 | Semaine  | 1850,00&nbsp;€         | -90,00&nbsp;€
 | Mid-week | 1350,00&nbsp;€         | -40,00&nbsp;€
 
-|  Hiver      | Prix pour 12 personnes | Par personne en moins(*)
+|  Hiver      | Prix pour 14 personnes | Par personne en moins(*)
 |-------------|------------------------|----------------------------
 | Week-end 2n |  990,00&nbsp;€         | -25,00&nbsp;€
 | Week-end 3n | 1250,00&nbsp;€         | -40,00&nbsp;€
@@ -32,11 +32,11 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 ## Périodes spéciales
 
-|  Week-ends spéciaux       | Prix pour 12 personnes                  | Par personne en moins(*)
+|  Week-ends spéciaux       | Prix pour 14 personnes                  | Par personne en moins(*)
 |---------------------------|-----------------------------------------|-----------------------------------
 | Week-end de l'Ascension (du mercredi 28 mai 16 h au lundi 2 juin 10 h)          | 1650,00&nbsp;€ | -45,00&nbsp;€ 
 | Pentecôte (du vendredi 6 juin 16 h au mardi 10 juin 10 h)                       | 1450,00&nbsp;€ | -42,00&nbsp;€    
-| Week-end 11 novembre (du vendredi 7 novembre 16 h au mercredi 12 novembre 10 h) | 1650,00&nbsp;€ | -45,00&nbsp;€   
+| Week-end 11 novembre (du vendredi 7 novembre 16 h au mercredi 14 novembre 10 h) | 1650,00&nbsp;€ | -45,00&nbsp;€   
 
 La garantie s'élève à 700,00&nbsp;€
 
