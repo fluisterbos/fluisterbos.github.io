@@ -11,10 +11,10 @@ title:  Tarifs 2014
 
 |  Hiver      | Prix pour 14 personnes | Par personne en moins(*)
 |-------------|------------------------|----------------------------
-| Week-end 2n |  990,00&nbsp;€         | -25,00&nbsp;€
-| Week-end 3n | 1250,00&nbsp;€         | -40,00&nbsp;€
-| Semaine     | 1750,00&nbsp;€         | -60,00&nbsp;€
-| Mid-week    | 1250,00&nbsp;€         | -40,00&nbsp;€
+| Week-end 2n |  920,00&nbsp;€         | -25,00&nbsp;€
+| Week-end 3n | 1190,00&nbsp;€         | -40,00&nbsp;€
+| Semaine     | 1690,00&nbsp;€         | -60,00&nbsp;€
+| Mid-week    | 1190,00&nbsp;€         | -40,00&nbsp;€
 
 Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
 
@@ -25,6 +25,7 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Formule  | nuits   | arrivée                                      | départ
 |---------|---------|----------------------------------------------|-----------------------------------
+|Week-end | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
 |Week-end | 3 n     | vendredi à partir de&nbsp;16&nbsp;h          | lundi avant&nbsp;10&nbsp;h
 |Mid-week | 4 n     | lundi à partir de&nbsp;16&nbsp;h             | vendredi avant&nbsp;10&nbsp;h
 |Semaine  | 7 n     | lundi ou vendredi à partir de&nbsp;16&nbsp;h | lundi ou vendredi avant&nbsp;10&nbsp;h
