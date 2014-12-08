@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarifs 2014
+title:  Tarifs 2015
 ---
 
 |  Été     | Prix pour 14 personnes | Par personne en moins(*)
@@ -25,7 +25,8 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Formule  | nuits   | arrivée                                      | départ
 |---------|---------|----------------------------------------------|-----------------------------------
-|Week-end | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
+|Week-end(hiver) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
+|Week-end(été) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;12&nbsp;h
 |Week-end | 3 n     | vendredi à partir de&nbsp;16&nbsp;h          | lundi avant&nbsp;10&nbsp;h
 |Mid-week | 4 n     | lundi à partir de&nbsp;16&nbsp;h             | vendredi avant&nbsp;10&nbsp;h
 |Semaine  | 7 n     | lundi ou vendredi à partir de&nbsp;16&nbsp;h | lundi ou vendredi avant&nbsp;10&nbsp;h
@@ -35,10 +36,10 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |  Week-ends spéciaux       | Prix pour 14 personnes                  | Par personne en moins(*)
 |---------------------------|-----------------------------------------|-----------------------------------
-| Week-end de l'Ascension (du mercredi 28 mai 16 h au lundi 2 juin 10 h)          | 1650,00&nbsp;€ | -45,00&nbsp;€ 
-| Pentecôte (du vendredi 6 juin 16 h au mardi 10 juin 10 h)                       | 1450,00&nbsp;€ | -42,00&nbsp;€    
-| Week-end 11 novembre (du vendredi 7 novembre 16 h au mercredi 14 novembre 10 h) | 1650,00&nbsp;€ | -45,00&nbsp;€   
-
+| 1 mai-week-end (du jeudi 30 avril 16&nbsp;h au lundi 3 mai 10&nbsp;h)               | 1650,00&nbsp;€ | -45,00&nbsp;€
+| Week-end de l'Ascension (du mercredi 13 mai 16&nbsp;h au lundi 17 mai 10&nbsp;h)    | 1650,00&nbsp;€ | -45,00&nbsp;€ 
+| Pentecôte (du vendredi 22 mai 16 h au mardi 25 mai 10&nbsp;h)                       | 1450,00&nbsp;€ | -42,00&nbsp;€    
+ 
 La garantie s'élève à 700,00&nbsp;€
 
 > **Compris dans le prix** : - Parking gratuit pour 5 voitures - Linge de bain et de cuisine - Charbon de bois pour le barbecue ou bois pour le poêle - Wifi gratuit
