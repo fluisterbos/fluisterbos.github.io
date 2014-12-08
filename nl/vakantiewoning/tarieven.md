@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Tarieven 2015
-bg: genieten
+bg: genieten 
 ---
 
 |  Zomer  | Prijs voor 14 personen | Per persoon in mindering(*)
