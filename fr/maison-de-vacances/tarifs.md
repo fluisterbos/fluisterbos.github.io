@@ -25,8 +25,8 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Formule  | nuits   | arrivée                                      | départ
 |---------|---------|----------------------------------------------|-----------------------------------
-|Week-end(hiver) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
-|Week-end(été) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;12&nbsp;h
+|Week-end (hiver) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
+|Week-end (été) | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;12&nbsp;h
 |Week-end | 3 n     | vendredi à partir de&nbsp;16&nbsp;h          | lundi avant&nbsp;10&nbsp;h
 |Mid-week | 4 n     | lundi à partir de&nbsp;16&nbsp;h             | vendredi avant&nbsp;10&nbsp;h
 |Semaine  | 7 n     | lundi ou vendredi à partir de&nbsp;16&nbsp;h | lundi ou vendredi avant&nbsp;10&nbsp;h
