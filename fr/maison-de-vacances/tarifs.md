@@ -5,17 +5,17 @@ title:  Tarifs 2015
 
 |  Été        | Prix pour 14 personnes | Par personne en moins(*)
 |-------------|------------------------|----------------------------
-| Week-end 2n |  990,00&nbsp;€         | -25,00&nbsp;€
+| Week-end 2n | &nbsp;990,00&nbsp;€         | -25,00&nbsp;€
 | Week-end 3n | 1350,00&nbsp;€         | -40,00&nbsp;€
 | Semaine     | 1850,00&nbsp;€         | -60,00&nbsp;€
 | Mid-week    | 1090,00&nbsp;€         | -30,00&nbsp;€
 
 |  Hiver      | Prix pour 14 personnes | Par personne en moins(*)
 |-------------|------------------------|----------------------------
-| Week-end 2n |  920,00&nbsp;€         | -25,00&nbsp;€
+| Week-end 2n | &nbsp;920,00&nbsp;€         | -25,00&nbsp;€
 | Week-end 3n | 1190,00&nbsp;€         | -40,00&nbsp;€
 | Semaine     | 1690,00&nbsp;€         | -60,00&nbsp;€
-| Mid-week    |  890,00&nbsp;€         | -30,00&nbsp;€
+| Mid-week    | &nbsp;890,00&nbsp;€         | -30,00&nbsp;€
 
 Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
 
