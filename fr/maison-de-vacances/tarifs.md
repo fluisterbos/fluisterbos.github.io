@@ -39,7 +39,7 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 |---------------------------|-----------------------------------------|-----------------------------------
 | 1 mai-week-end (du jeudi 30 avril 16&nbsp;h au lundi 3 mai 10&nbsp;h)               | 1650,00&nbsp;€ | -45,00&nbsp;€
 | Week-end de l'Ascension (du mercredi 13 mai 16&nbsp;h au lundi 17 mai 10&nbsp;h)    | 1650,00&nbsp;€ | -45,00&nbsp;€ 
-| Pentecôte (du vendredi 22 mai 16 h au mardi 25 mai 10&nbsp;h)                       | 1450,00&nbsp;€ | -42,00&nbsp;€    
+| Pentecôte (du vendredi 22 mai 16 h au mardi 26 mai 10&nbsp;h)                       | 1450,00&nbsp;€ | -42,00&nbsp;€    
  
 La garantie s'élève à 700,00&nbsp;€
 

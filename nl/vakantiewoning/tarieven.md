@@ -40,7 +40,7 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 |---------------------------|-----------------------------------------|-----------------------------------
 | 1 mei-weekend (van donderdag 30 april 16&nbsp;u tot maandag 4 mei 10&nbsp;u)               | 1650,00&nbsp;€ | -45,00&nbsp;€
 | Hemelvaart weekend (van woensdag 28 mei 16&nbsp;u tot maandag 2 juni 10&nbsp;u)            | 1650,00&nbsp;€ | -45,00&nbsp;€
-| Pinksteren (van vrijdag 22 mei 16&nbsp;u tot dinsdag 25 mei 10&nbsp;u)                     | 1450,00&nbsp;€ | -42,00&nbsp;€    
+| Pinksteren (van vrijdag 22 mei 16&nbsp;u tot dinsdag 26 mei 10&nbsp;u)                     | 1450,00&nbsp;€ | -42,00&nbsp;€    
 
 
 De waarborg bedraagt 700,00&nbsp;€
