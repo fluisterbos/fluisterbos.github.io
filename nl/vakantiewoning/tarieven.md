@@ -4,12 +4,12 @@ title:  Tarieven 2015
 bg: genieten 
 ---
 
-|  Zomer     | Prijs voor 14 personen | Per persoon in mindering(*)
-|------------|------------------------|----------------------------
-| Weekend 2n | &nbsp;990,00&nbsp;€         | -25,00&nbsp;€
-| Weekend 3n | 1350,00&nbsp;€         | -40,00&nbsp;€
-| Week       | 1850,00&nbsp;€         | -60,00&nbsp;€
-| Midweek    | 1090,00&nbsp;€         | -30,00&nbsp;€
+|  Zomer     | Prijs voor 14 personen | Per persoon in mindering(*)|
+|------------|-----------------------:|---------------------------:|
+| Weekend 2n | &nbsp;990,00&nbsp;€    | -25,00&nbsp;€              |
+| Weekend 3n | 1350,00&nbsp;€         | -40,00&nbsp;€              |
+| Week       | 1850,00&nbsp;€         | -60,00&nbsp;€              |
+| Midweek    | 1090,00&nbsp;€         | -30,00&nbsp;€              |
 
 | Winter     | Prijs voor 14 personen | Per persoon in mindering(*)
 |------------|------------------------|----------------------------
