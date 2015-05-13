@@ -9,7 +9,7 @@ bg: genieten
 | Weekend 2n |   990,00&nbsp;€        | -25,00&nbsp;€
 | Weekend 3n |  1350,00&nbsp;€        | -40,00&nbsp;€
 | Week       |  1850,00&nbsp;€        | -60,00&nbsp;€
-| Midweek    |  1090,00&nbsp;€        | -30,00&nbsp;€
+| Midweek    |   992,00&nbsp;€        | -30,00&nbsp;€
 
 | Winter     | Prijs voor 14 personen | Per persoon in mindering(*)
 |------------|-----------------------:|---------------------------:
