@@ -2,7 +2,7 @@
 layout: default
 title: Réservation
 ---
-Informez-vous en ligne des [disponibilités][maison-disponibilités] de Het Fluisterbos.
+Informez-vous en ligne des [disponibilités][maison-disponibilités] de &laquo;Het Fluisterbos&raquo;.
 
 Vous avez encore des questions ou des souhaits ? Faites-les-nous parvenir, nous nous ferons un plaisir de vous aider. 
 

@@ -3,7 +3,7 @@ layout: default
 title:  De Feestzaal
 ---
 
-Vanaf 2015 kan onze spiksplinternieuwe feestzaal afgehuurd worden.
+Vanaf 2016 kan onze spiksplinternieuwe feestzaal afgehuurd worden.
 
 Dit gezellige zaaltje tot 40 personen kan gehuurd worden voor allerhande gelegenheden zoals communiefeesten, verjaardagen, vergaderingen,...
 
