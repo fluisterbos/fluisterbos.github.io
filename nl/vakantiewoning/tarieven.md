@@ -73,7 +73,3 @@ Voor specifieke vragen contacteer info@fluisterbos.be: we kunnen iets uitw
 Download de [Algemene Voorwaarden][vakantie-voorwaarden]
 
 {% include links.md %}
-
-Été	Prix pour 14 personnes	 Par chambre de moins
- Week-end 2n	990,00 €	  -50,00 €
- 
