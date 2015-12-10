@@ -38,4 +38,4 @@
 [Flanders Fields]:   http://flandersfields.be/
 [kustplaatsen]:      http://dekust.be/
 [yves velter]:       http://www.yvesvelter.com/
-['t Botteltje]:      http://www.hotelmarion.be/cafe-botteltje/
+['t Botteltje]:      http://www.cafebotteltje.be/

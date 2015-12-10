@@ -54,6 +54,13 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 |Pentecôte 2016 (du vendredi le 13 mai 16&nbsp;u au lundi le 16 mai 12&nbsp;u)                     | 1350,00&nbsp;€ |  -50,00&nbsp;€
 |Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au dimanche le 6 novembre 18&nbsp;u) | 1520,00&nbsp;€ | -100,00&nbsp;€
 |Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au vendredi le 4 november 10&nbsp;u) |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Noël 2016 (du vendredi le 23 décembre 16&nbsp;u au mardi le 27 décembre 10&nbsp;u)                | 1495,00&nbsp;€ |  -50,00&nbsp;€
+|Saint-Sylvestre 2016-17 (du vendredi le 30 décembre 16&nbsp;u au mardi 3 janvier 2017 10&nbsp;u)  | 1495,00&nbsp;€ |  -50,00&nbsp;€
+|&nbsp;&nbsp; ou (du vendredi le 30 décembre 16&nbsp;u au vendredi le 6 janvier 2017 10&nbsp;u)    | 1850,00&nbsp;€ |  -50,00&nbsp;€
+|&nbsp;&nbsp; ou (du mardi le 3 janvier 2017 16u au dimanche le 8 janvier 2017 18&nbsp;u)          | 1090,00&nbsp;€ | -50,00&nbsp;€
+
+
+
 
 La garantie s'élève à 700,00&nbsp;€
 
