@@ -56,6 +56,15 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 |Vacances de neige 2016 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
 
 
+## Week-ends de promotion
+
+* 870,00&nbsp;€ pour 2 nuits
+* -50,00&nbsp;€ par chambre de moins
+* Week-ends:
+  * 2016: le 3 juin, le 18, 25 novembre, le 2, 9, 16 decembre
+  * 2017: le 6, 13, 20, 27 janvier, le 17 février
+
+
 
 La garantie s'élève à 700,00&nbsp;€
 

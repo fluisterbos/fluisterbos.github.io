@@ -56,6 +56,13 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 |Krokusvakantie 2017 (van vrijdag 24 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    | 1520,00&nbsp;€ | -100,00&nbsp;€
 |Krokusvakantie 2017 (van maandag 27 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    |  920,00&nbsp;€ |  -50,00&nbsp;€
 
+## Promotie weekends
+
+* 870,00&nbsp;€ voor 2 nachten
+* -50,00&nbsp;€ per afgesloten kamer in mindering
+* Weekends:
+  * 2016: 3 juni, 18, 25 november, 2, 9, 16 december
+  * 2017: 6, 13, 20, 27 januari, 17 februari
 
 
 De waarborg bedraagt 700,00&nbsp;€
