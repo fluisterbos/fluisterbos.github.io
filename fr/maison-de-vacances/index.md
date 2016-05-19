@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  Bienvenue !
-menu: index
 ---
 Le début de notre histoire remonte à 2008. À travers ce site, nous allons vous faire découvrir [l'histoire][maison-histoire] du bâtiment, [l'origine du nom][maison-nom-origine] et vous présenter les possibilités de séjour et [formules][maison-arrangements] proposées dans notre luxueuse maison de vacances.
 
