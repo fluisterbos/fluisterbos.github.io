@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarieven 2015-2016
+title:  Tarieven 2016-2017
 bg: genieten 
 ---
 
@@ -47,16 +47,15 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 
 |Speciale Weekends         | Prijs voor 14 personen                                       | Per afgesloten kamer in mindering
 |--------------------------|-------------------------------------------------------------:|----------------------------------:
-|Krokusvakantie 2016 (van maandag 8 februari 16&nbsp;u tot zondag 14 februari 18&nbsp;u)  | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Krokusvakantie 2016 (van maandag 8 februari 16&nbsp;u tot vrijdag 12 februari 10&nbsp;u) |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Hemelvaart 2016 (van woensdag 4 mei 16&nbsp;u tot zondag 8 mei 18&nbsp;u)                | 1450,00&nbsp;€ |  -50,00&nbsp;€
-|Pinksteren 2016 (van vrijdag 13 mei 16&nbsp;u tot maandag 16 mei 12&nbsp;u)              | 1350,00&nbsp;€ |  -50,00&nbsp;€
 |Herstvakantie 2016 (van maandag 31 oktober 16&nbsp;u tot zondag 6 november 18&nbsp;u)    | 1520,00&nbsp;€ | -100,00&nbsp;€
 |Herstvakantie 2016 (van maandag 31 oktober 16&nbsp;u tot vrijdag 4 november 10&nbsp;u)   |  920,00&nbsp;€ |  -50,00&nbsp;€
 |Kerst 2016 (van vrijdag 23 december 16&nbsp;u tot dinsdag 27 december 10&nbsp;u)         | 1495,00&nbsp;€ |  -50,00&nbsp;€
-|Oudejaar 2016-17 (van vrijdag 30 december 16&nbsp;u tot dinsdag 3 januari 2017 10&nbsp;u)|1495,00&nbsp;€  |  -50,00&nbsp;€
-|&nbsp;&nbsp; of (van vrijdag 30 december 16&nbsp;u tot vrijdag 6 januari 2017 10&nbsp;u) |1850,00&nbsp;€  |  -50,00&nbsp;€
-|&nbsp;&nbsp; of (van dinsdag 3 januari 2017 16u tot zondag 8 januari 2017 18&nbsp;u)     |1090,00&nbsp;€  |  -50,00&nbsp;€
+|Oudejaar 2016-17 (van vrijdag 30 december 16&nbsp;u tot dinsdag 3 januari 2017 10&nbsp;u)| 1495,00&nbsp;€ |  -50,00&nbsp;€
+|&nbsp;&nbsp; of (van vrijdag 30 december 16&nbsp;u tot vrijdag 6 januari 2017 10&nbsp;u) | 1850,00&nbsp;€ |  -50,00&nbsp;€
+|&nbsp;&nbsp; of (van dinsdag 3 januari 2017 16u tot zondag 8 januari 2017 18&nbsp;u)     | 1090,00&nbsp;€ |  -50,00&nbsp;€
+|Krokusvakantie 2017 (van vrijdag 24 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    | 1520,00&nbsp;€ | -100,00&nbsp;€
+|Krokusvakantie 2017 (van maandag 27 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    |  920,00&nbsp;€ |  -50,00&nbsp;€
+
 
 
 De waarborg bedraagt 700,00&nbsp;€

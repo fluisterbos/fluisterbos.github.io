@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarifs 2015-2016
+title:  Tarifs 2016-2017
 ---
 
 ### Nouveau: formules pour Mid-week!
@@ -46,19 +46,14 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Week-ends spéciaux                                       | Prix pour 14 personnes                 | Par chambre de moins
 |---------------------------------------------------------|---------------------------------------:|----------------------------------:
-|Vacances de Toussaint 2015 (du lundi le 2 novembre 16&nbsp;u au dimanche le 8 novembre 18&nbsp;u) | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de Toussaint 2015 (du lundi le 2 novembre 16&nbsp;u au vendredi le 6 novembre 10&nbsp;u) |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Vacances de neige 2016 (du lundi le 8 février 16&nbsp;u au dimanche le 14 février 18&nbsp;u)      | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de neige 2016 (du lundi le 8 février 16&nbsp;u au vendredi le 12 février 10&nbsp;u)      |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end de l'Ascension 2016 (du mercredi le 4 mai 16&nbsp;u au dimanche le 8 mai 18&nbsp;u)      | 1450,00&nbsp;€ |  -50,00&nbsp;€
-|Pentecôte 2016 (du vendredi le 13 mai 16&nbsp;u au lundi le 16 mai 12&nbsp;u)                     | 1350,00&nbsp;€ |  -50,00&nbsp;€
 |Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au dimanche le 6 novembre 18&nbsp;u) | 1520,00&nbsp;€ | -100,00&nbsp;€
 |Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au vendredi le 4 november 10&nbsp;u) |  920,00&nbsp;€ |  -50,00&nbsp;€
 |Noël 2016 (du vendredi le 23 décembre 16&nbsp;u au mardi le 27 décembre 10&nbsp;u)                | 1495,00&nbsp;€ |  -50,00&nbsp;€
 |Saint-Sylvestre 2016-17 (du vendredi le 30 décembre 16&nbsp;u au mardi 3 janvier 2017 10&nbsp;u)  | 1495,00&nbsp;€ |  -50,00&nbsp;€
 |&nbsp;&nbsp; ou (du vendredi le 30 décembre 16&nbsp;u au vendredi le 6 janvier 2017 10&nbsp;u)    | 1850,00&nbsp;€ |  -50,00&nbsp;€
 |&nbsp;&nbsp; ou (du mardi le 3 janvier 2017 16u au dimanche le 8 janvier 2017 18&nbsp;u)          | 1090,00&nbsp;€ | -50,00&nbsp;€
-
+|Vacances de neige 2016 (du vendredi le 24 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)      | 1520,00&nbsp;€ | -100,00&nbsp;€
+|Vacances de neige 2016 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
 
 
 
