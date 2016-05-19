@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Welkom!
+menu: index
 ---
 
 
