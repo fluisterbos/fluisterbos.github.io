@@ -4,7 +4,7 @@ title:  Tarieven 2015-2016
 bg: genieten 
 ---
 
-###Nieuw: Aangepaste Midweekformules!
+### Nieuw: Aangepaste Midweekformules!
 
 
 |Zomer      | Prijs voor 14 personen | Per afgesloten kamer in mindering

@@ -3,7 +3,7 @@ layout: default
 title:  Tarifs 2015-2016
 ---
 
-###Nouveau: formules pour Mid-week!
+### Nouveau: formules pour Mid-week!
 
 
 | Été        | Prix pour 14 personnes | Par chambre de moins
