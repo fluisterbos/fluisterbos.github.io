@@ -5,6 +5,7 @@
 {% assign page_menu = 'index' %}
 {% assign page_bg =  site.data.slides.default %}
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
+<!-- page.url = {{page.url}} -->
 {% assign segments = page.url | replace:'.html','' | split:'/' %}
 {% assign maxloop = 0 %}
 {% for segm in segments limit:3 offset:1 %}
