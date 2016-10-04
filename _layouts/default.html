@@ -9,6 +9,7 @@
 {% assign maxloop = 0 %}
 {% for segm in segments limit:3 offset:1 %}
   {% assign maxloop = forloop.index %}
+  <!-- loop {{forloop.index}} -- segm {{segm}} -- maxloop {{maxloop}} -->
   {% case forloop.index %}
     {% when 1 %} {% assign page_lang = segm  %}
     {% when 2 %} {% assign page_section = segm  %}
