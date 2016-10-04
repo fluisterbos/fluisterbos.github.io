@@ -21,9 +21,7 @@
 {% endif %}
 {% if maxloop < 3 %}<!-- -->
   {% assign page_menu = page_section %}
-  {% if page_section == 'index' %}
-    {% assign page_section = null %}
-  {% endif %}
+  {% assign page_section = null %}
 {% endif %}
 {% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
 {% if page.section %} {%assign page_section = page.section %} {% endif %}
