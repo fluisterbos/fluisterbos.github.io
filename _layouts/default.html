@@ -12,7 +12,7 @@
 {% if lastchar == "/" %}{% capture page_url %}{{ page_url }}index.html{% endcapture %}{% endif %}
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
 <!-- page.url = {{page_url}} -->
-{% assign segments = page.url | replace:'.html','' | split:'/' %}
+{% assign segments = page_url | replace:'.html','' | split:'/' %}
 {% assign maxloop = 0 %}
 {% for segm in segments limit:3 offset:1 %}
   {% assign maxloop = forloop.index %}
