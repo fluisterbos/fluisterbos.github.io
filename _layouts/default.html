@@ -4,8 +4,14 @@
 {% assign page_style = 'redstyle' %}
 {% assign page_menu = 'index' %}
 {% assign page_bg =  site.data.slides.default %}
+{% comment %} <!-- some platforms have page.url end in / rather then /index.html --> {% endcomment %}
+{% assign page_url = page.url %}
+{% assign page_url_size = some_string | size %}
+{% assign lastpos = page_url | size | minus: 1 %}
+{% assign lastchar = page_url | slice: lastpos, 1 %}
+{% if lastchar == "/" %}{% capture page_url %}{{ page_url }}index.html{% endcapture %}{% endif %}
 {% comment %} <!-- parse path segments into meaning --> {% endcomment %}
-<!-- page.url = {{page.url}} -->
+<!-- page.url = {{page_url}} -->
 {% assign segments = page.url | replace:'.html','' | split:'/' %}
 {% assign maxloop = 0 %}
 {% for segm in segments limit:3 offset:1 %}
