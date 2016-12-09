@@ -22,7 +22,7 @@ title:  Tarifs 2016-2017
 
 |Vacances scolaires | Prix pour 14 personnes | Par chambre de moins
 |------------|-----------------------:|---------------------------:
-|Week-end 2n |   pas disponible       | 
+|Week-end 2n |   pas disponible       |
 |Week-end 3n |  1350,00&nbsp;€        |  -50,00&nbsp;€
 |Mid-week 4n |   990,00&nbsp;€        |  -50,00&nbsp;€
 |Semaine 7n  |  1850,00&nbsp;€        | -100,00&nbsp;€
@@ -31,8 +31,8 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Période ||
 |------- |-------------
-|Été     |  1er avril - 30 septembre, à l'exception des vacances scolaires 
-|Hiver   |  1er octobre - 31 mars, à l'exception des vacances scolaires 
+|Été     |  1er avril - 30 septembre, à l'exception des vacances scolaires
+|Hiver   |  1er octobre - 31 mars, à l'exception des vacances scolaires
 
 |Formule          | nuits   | arrivée                                      | départ
 |-----------------|---------|----------------------------------------------|-----------------------------------
@@ -46,14 +46,15 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Week-ends spéciaux                                       | Prix pour 14 personnes                 | Par chambre de moins
 |---------------------------------------------------------|---------------------------------------:|----------------------------------:
-|Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au dimanche le 6 novembre 18&nbsp;u) | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de Toussaint 2016 (du lundi le 31 octobre 16&nbsp;u au vendredi le 4 november 10&nbsp;u) |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Noël 2016 (du vendredi le 23 décembre 16&nbsp;u au mardi le 27 décembre 10&nbsp;u)                | 1495,00&nbsp;€ |  -50,00&nbsp;€
-|Saint-Sylvestre 2016-17 (du vendredi le 30 décembre 16&nbsp;u au mardi 3 janvier 2017 10&nbsp;u)  | 1495,00&nbsp;€ |  -50,00&nbsp;€
-|&nbsp;&nbsp; ou (du vendredi le 30 décembre 16&nbsp;u au vendredi le 6 janvier 2017 10&nbsp;u)    | 1850,00&nbsp;€ |  -50,00&nbsp;€
-|&nbsp;&nbsp; ou (du mardi le 3 janvier 2017 16u au dimanche le 8 janvier 2017 18&nbsp;u)          | 1090,00&nbsp;€ | -50,00&nbsp;€
-|Vacances de neige 2016 (du vendredi le 24 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)      | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de neige 2016 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Vacances de neige 2017 (du vendredi le 24 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)      | 1520,00&nbsp;€ | -100,00&nbsp;€
+|Vacances de neige 2017 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Vacances de Pâques 2017 (du vendredi le 31 mars 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)       | 1620,00&nbsp;€ | -100,00&nbsp;€
+|  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au lundi le 10 avril 10&nbsp;u)                        | 1620,00&nbsp;€ | -100,00&nbsp;€
+|  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)                      |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Week-end de l'ascension  2017 (du mercredi le 24 mai 16&nbsp;u au dimanche le 28 mai 18&nbsp;u)   | 1450,00&nbsp;€ |  -50,00&nbsp;€
+|Week-end de Pentecôte 2017 (du vendredi le 2 juin 16&nbsp;u au lundi le 5 juin 10&nbsp;u)         | 1350,00&nbsp;€ |  -50,00&nbsp;€
+|Promo d'Été 2017 (du lundi le 31 juillet 16&nbsp;u au mercredi le 9 août 10&nbsp;u)               | 1950,00&nbsp;€ | -100,00&nbsp;€
+
 
 
 ## Week-ends de promotion
@@ -61,8 +62,7 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 * 870,00&nbsp;€ pour 2 nuits
 * -50,00&nbsp;€ par chambre de moins
 * Week-ends:
-  * 2016: le 3 juin, le 18, 25 novembre, le 2, 9, 16 decembre
-  * 2017: le 6, 13, 20, 27 janvier, le 17 février
+  * 2017: le 13, 27 janvier, 3, 10, 17 février, 1, 8, 15 decembre
 
 
 

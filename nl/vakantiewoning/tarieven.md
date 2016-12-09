@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Tarieven 2016-2017
-bg: genieten 
+bg: genieten
 ---
 
 ### Nieuw: Aangepaste Midweekformules!
@@ -23,7 +23,7 @@ bg: genieten
 
 |Schoolvakanties | Prijs voor 14 personen | Per afgesloten kamer in mindering
 |-----------|-----------------------:|---------------------------:
-|Weekend 2n |   niet beschikbaar     | 
+|Weekend 2n |   niet beschikbaar     |
 |Weekend 3n |  1350,00&nbsp;€        |  -50,00&nbsp;€
 |Midweek 4n |   990,00&nbsp;€        |  -50,00&nbsp;€
 |Week 7n    |  1850,00&nbsp;€        | -100,00&nbsp;€
@@ -33,7 +33,7 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 |Periode ||
 |------- |-------------
 |Zomer   |  1 april - 30 september, uitgzonderd de schoolvakanties            
-|Winter  |  1 oktober – 31 maart, uitgezonderd de schoolvakanties 
+|Winter  |  1 oktober – 31 maart, uitgezonderd de schoolvakanties
 
 |Formule          | nachten | aankomst                                | vertrek
 |-----------------|---------|-----------------------------------------|-----------------------------------
@@ -47,22 +47,22 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 
 |Speciale Weekends         | Prijs voor 14 personen                                       | Per afgesloten kamer in mindering
 |--------------------------|-------------------------------------------------------------:|----------------------------------:
-|Herstvakantie 2016 (van maandag 31 oktober 16&nbsp;u tot zondag 6 november 18&nbsp;u)    | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Herstvakantie 2016 (van maandag 31 oktober 16&nbsp;u tot vrijdag 4 november 10&nbsp;u)   |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Kerst 2016 (van vrijdag 23 december 16&nbsp;u tot dinsdag 27 december 10&nbsp;u)         | 1495,00&nbsp;€ |  -50,00&nbsp;€
-|Oudejaar 2016-17 (van vrijdag 30 december 16&nbsp;u tot dinsdag 3 januari 2017 10&nbsp;u)| 1495,00&nbsp;€ |  -50,00&nbsp;€
-|&nbsp;&nbsp; of (van vrijdag 30 december 16&nbsp;u tot vrijdag 6 januari 2017 10&nbsp;u) | 1850,00&nbsp;€ |  -50,00&nbsp;€
-|&nbsp;&nbsp; of (van dinsdag 3 januari 2017 16u tot zondag 8 januari 2017 18&nbsp;u)     | 1090,00&nbsp;€ |  -50,00&nbsp;€
 |Krokusvakantie 2017 (van vrijdag 24 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    | 1520,00&nbsp;€ | -100,00&nbsp;€
-|Krokusvakantie 2017 (van maandag 27 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Krokusvakantie 2017 (van maandag 27 februari 16&nbsp;u tot vrijdag 3 maart 10&nbsp;u)    |  770,00&nbsp;€ |  -50,00&nbsp;€
+|Paasvakantie 2017 (van vrijdag 31 maart 16&nbsp;u tot vrijdag 7 april 10&nbsp;u)         | 1620,00&nbsp;€ | -100,00&nbsp;€
+|  &nbsp; of (van maandag 3 april 16&nbsp;u tot maandag 10 april 10&nbsp;u)               | 1620,00&nbsp;€ | -100,00&nbsp;€
+|  &nbsp; of (van maandag 3 april 16&nbsp;u tot vrijdag 7 april 10&nbsp;u)                |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Hemelvaart 2017 (van woensdag 24 mei 16&nbsp;u tot zondag 28 mei 18&nbsp;u)              | 1450,00&nbsp;€ |  -50,00&nbsp;€
+|Pinksteren 2017 (van vrijdag 2 juni 16&nbsp;u tot maandag 5 juni 10&nbsp;u)              | 1350,00&nbsp;€ |  -50,00&nbsp;€
+|Zomerpromo 2017 (van maandag 31 juli 16&nbsp;u tot woensdag 9 augustus 10&nbsp;u)        | 1950,00&nbsp;€ | -100,00&nbsp;€
+
 
 ## Promotie weekends
 
 * 870,00&nbsp;€ voor 2 nachten
 * -50,00&nbsp;€ per afgesloten kamer in mindering
 * Weekends:
-  * 2016: 3 juni, 18, 25 november, 2, 9, 16 december
-  * 2017: 6, 13, 20, 27 januari, 17 februari
+  * 2017: 13, 27 januari, 3, 10, 17 februari, 1, 8, 15 december
 
 
 De waarborg bedraagt 700,00&nbsp;€
