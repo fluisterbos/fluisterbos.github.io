@@ -46,14 +46,17 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Week-ends spéciaux                                       | Prix pour 14 personnes                 | Par chambre de moins
 |---------------------------------------------------------|---------------------------------------:|----------------------------------:
-|Vacances de neige 2017 (du vendredi le 24 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)      | 1520,00&nbsp;€ | -100,00&nbsp;€
+|Vacances de neige 2017 (du lundi le 27 février 16&nbsp;u au dimanche le 5 mars 18&nbsp;u)         | 1420,00&nbsp;€ | -100,00&nbsp;€
 |Vacances de neige 2017 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
 |Vacances de Pâques 2017 (du vendredi le 31 mars 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)       | 1620,00&nbsp;€ | -100,00&nbsp;€
 |  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au lundi le 10 avril 10&nbsp;u)                        | 1620,00&nbsp;€ | -100,00&nbsp;€
 |  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)                      |  920,00&nbsp;€ |  -50,00&nbsp;€
 |Week-end de l'ascension  2017 (du mercredi le 24 mai 16&nbsp;u au dimanche le 28 mai 18&nbsp;u)   | 1450,00&nbsp;€ |  -50,00&nbsp;€
 |Week-end de Pentecôte 2017 (du vendredi le 2 juin 16&nbsp;u au lundi le 5 juin 10&nbsp;u)         | 1350,00&nbsp;€ |  -50,00&nbsp;€
+|Semaine de 21 juillet 2017 (du lundi le 17 juillet 16&nbsp;u au lundi le 24 juillet 10&nbsp;u)    | 1620,00&nbsp;€ | -100,00&nbsp;€
 |Promo d'Été 2017 (du lundi le 31 juillet 16&nbsp;u au mercredi le 9 août 10&nbsp;u)               | 1950,00&nbsp;€ | -100,00&nbsp;€
+|Noël (du vendredi le 22 décembre 16&nbsp;u au mardi le 26 décembre 18&nbsp;u)                     | 1495,00&nbsp;€ | -100,00&nbsp;€
+|Nouvel An 2018 (du mercredi le 3 janvier 16&nbsp;u au dimanche le 7 janvier 18&nbsp;u)            | 1090,00&nbsp;€ | -100,00&nbsp;€
 
 
 
