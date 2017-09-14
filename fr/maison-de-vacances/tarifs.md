@@ -73,7 +73,7 @@ La garantie s'élève à 700,00&nbsp;€
 
 > **Compris dans le prix** : - Parking gratuit pour 5 voitures - Linge de bain et de cuisine - Charbon de bois pour le barbecue ou bois pour le poêle - Wifi gratuit
 
-> **Non compris** : - Nettoyage de fin de séjour obligatoire 150,00&nbsp;€ - Ensemble de draps obligatoire 8,00&nbsp;€ par personne - Électricité, gaz et eau
+> **Non compris** : - Nettoyage de fin de séjour obligatoire 200,00&nbsp;€ - Ensemble de draps obligatoire 8,00&nbsp;€ par personne - Électricité, gaz et eau
 
 Il est possible de réserver un petit-déjeuner supplémentaire à 9,50&nbsp;€ par personne par jour. À réserver au min. deux semaines à l'avance.
 
