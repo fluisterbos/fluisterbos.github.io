@@ -36,8 +36,8 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Formule          | nuits   | arrivée                                      | départ
 |-----------------|---------|----------------------------------------------|-----------------------------------
-|Week-end         | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;18&nbsp;h
-|Week-end         | 3 n     | vendredi à partir de&nbsp;16&nbsp;h          | lundi avant&nbsp;12&nbsp;h
+|Week-end         | 2 n     | vendredi à partir de&nbsp;16&nbsp;h          | dimanche avant&nbsp;11&nbsp;h
+|Week-end         | 3 n     | vendredi à partir de&nbsp;16&nbsp;h          | lundi avant&nbsp;10&nbsp;h
 |Mid-week         | 4 n     | lundi à partir de&nbsp;16&nbsp;h             | vendredi avant&nbsp;10&nbsp;h
 |Semaine          | 7 n     | lundi ou vendredi à partir de&nbsp;16&nbsp;h | lundi ou vendredi avant&nbsp;10&nbsp;h
 
@@ -46,18 +46,15 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Week-ends spéciaux                                       | Prix pour 14 personnes                 | Par chambre de moins
 |---------------------------------------------------------|---------------------------------------:|----------------------------------:
-|Vacances de neige 2017 (du lundi le 27 février 16&nbsp;u au dimanche le 5 mars 18&nbsp;u)         | 1420,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de neige 2017 (du lundi le 27 février 16&nbsp;u au vendredi le 3 mars 10&nbsp;u)         |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Vacances de Pâques 2017 (du vendredi le 31 mars 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)       | 1620,00&nbsp;€ | -100,00&nbsp;€
-|  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au lundi le 10 avril 10&nbsp;u)                        | 1620,00&nbsp;€ | -100,00&nbsp;€
-|  &nbsp; ou (du lundi le 3 avril 16&nbsp;u au vendredi le 7 avril 10&nbsp;u)                      |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end de l'ascension  2017 (du mercredi le 24 mai 16&nbsp;u au dimanche le 28 mai 18&nbsp;u)   | 1450,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end de Pentecôte 2017 (du vendredi le 2 juin 16&nbsp;u au lundi le 5 juin 10&nbsp;u)         | 1350,00&nbsp;€ |  -50,00&nbsp;€
-|Semaine de 21 juillet 2017 (du lundi le 17 juillet 16&nbsp;u au lundi le 24 juillet 10&nbsp;u)    | 1620,00&nbsp;€ | -100,00&nbsp;€
-|Promo d'Été 2017 (du lundi le 31 juillet 16&nbsp;u au mercredi le 9 août 10&nbsp;u)               | 1950,00&nbsp;€ | -100,00&nbsp;€
-|Noël (du vendredi le 22 décembre 16&nbsp;u au mardi le 26 décembre 18&nbsp;u)                     | 1495,00&nbsp;€ | -100,00&nbsp;€
+|Noël (du vendredi le 22 décembre 16&nbsp;u au mardi le 26 décembre 10&nbsp;u)                     | 1495,00&nbsp;€ | -100,00&nbsp;€
 |Nouvel An 2018 (du mercredi le 3 janvier 16&nbsp;u au dimanche le 7 janvier 18&nbsp;u)            | 1090,00&nbsp;€ | -100,00&nbsp;€
-
+|Vacances de neige 2018 (du lundi le 12 février 16&nbsp;u au dimanche le 18 février 18&nbsp;u)     | 1420,00&nbsp;€ | -100,00&nbsp;€
+|Vacances de neige 2017 (du lundi le 12 février 16&nbsp;u au vendredi le 16 février 10&nbsp;u)     |  920,00&nbsp;€ |  -50,00&nbsp;€
+|Vacances de Pâques 2018 (du lundi le 2 avril 16&nbsp;u au lundi le 9 avril 10&nbsp;u)             | 1650,00&nbsp;€ | -100,00&nbsp;€
+|  &nbsp; ou (du lundi le 2 avril 16&nbsp;u au vendredi le 6 avril 10&nbsp;u)                      |  990,00&nbsp;€ |  -50,00&nbsp;€
+|Week-end 1 Mai 2018 (du vendredi le 27 avril 16&nbsp;u au mardi le 1 mai 10&nbsp;u)               | 1450,00&nbsp;€ |  -50,00&nbsp;€
+|Week-end de l'ascension 2018 (du mercredi le 9 mai 16&nbsp;u au dimanche le 13 mai 18&nbsp;u)     | 1450,00&nbsp;€ |  -50,00&nbsp;€
+|Week-end de Pentecôte 2017 (du vendredi le 18 mai 16&nbsp;u au lundi le 21 mai 10&nbsp;u)         | 1350,00&nbsp;€ |  -50,00&nbsp;€
 
 
 ## Week-ends de promotion
@@ -65,7 +62,8 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 * 870,00&nbsp;€ pour 2 nuits
 * -50,00&nbsp;€ par chambre de moins
 * Week-ends:
-  * 2017: le 13, 27 janvier, 3, 10, 17 février, 1, 8, 15 decembre
+  * 2017: 1, 8, 15 decembre
+  * 2018: 12, 19 janvier, 2, 9, 23 février
 
 
 
@@ -75,7 +73,7 @@ La garantie s'élève à 700,00&nbsp;€
 
 > **Non compris** : - Nettoyage de fin de séjour obligatoire 200,00&nbsp;€ - Ensemble de draps obligatoire 8,00&nbsp;€ par personne - Électricité, gaz et eau
 
-Il est possible de réserver un petit-déjeuner supplémentaire à 9,50&nbsp;€ par personne par jour. À réserver au min. deux semaines à l'avance.
+Il est possible de réserver un petit-déjeuner supplémentaire à 12,00&nbsp;€ par personne par jour. À réserver au min. deux semaines à l'avance.
 
 Tous les frais sont facturés avec la garantie. Le solde sera remboursé une semaine apres le départ.
 
