@@ -73,11 +73,11 @@ Afhandelijk van de dag van vertrek vragen we je op een ander uur het fluisterbos
 |zondag|11 u
 |alle andere dagen|10 u
 
-De waarborg bedraagt 1000,00&nbsp;€ voor meer en 700,00&nbsp;€ voor minder dan 14p.
+De waarborg bedraagt 1000,00&nbsp;€ (of 700,00&nbsp;€ voor 14p of minder).
 
 > **Inbegrepen in de prijs**: - Gratis parking voor 5 wagens - Handdoeken en keukenhanddoeken - Houtskool voor de barbecue of hout voor de houtkachel - Gratis Wifi
 
-> **Niet inbegrepen**: - Verplichte eind schoonmaak 200,00&nbsp;€ - Verplicht lakenparket aan 8,00&nbsp;€ per persoon - Elektriciteit, gas en water
+> **Niet inbegrepen**: - Verplichte eind schoonmaak 300,00&nbsp;€ (of 200,00&nbsp;€ voor 14p of minder) - Verplicht lakenparket aan 8,00&nbsp;€ per persoon - Elektriciteit, gas en water
 
 Er is een mogelijkheid tot ontbijt aan 12,00&nbsp;€ per persoon per dag. Te reserveren minimum twee weken voor aankomst.
 
