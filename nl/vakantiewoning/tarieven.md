@@ -73,6 +73,8 @@ Afhandelijk van de dag van vertrek vragen we je op een ander uur het fluisterbos
 |zondag|11 u
 |alle andere dagen|10 u
 
+> ⚠ Afhankelijk van onze planning kunnen we de checkout mogelijks verlengen - dit kunnen we meestal echter pas concreet bevestigen op het moment van de aankomst.
+
 De waarborg bedraagt 1000,00&nbsp;€ (of 700,00&nbsp;€ voor 14p of minder).
 
 > **Inbegrepen in de prijs**: - Gratis parking voor 5 wagens - Handdoeken en keukenhanddoeken - Houtskool voor de barbecue of hout voor de houtkachel - Gratis Wifi

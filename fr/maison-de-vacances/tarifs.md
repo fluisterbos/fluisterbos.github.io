@@ -3,31 +3,35 @@ layout: default
 title:  Tarifs 2016-2017
 ---
 
-### Nouveau: formules pour Mid-week!
-
-
-| Été        | Prix pour 14 personnes | Par chambre de moins
-|------------|-----------------------:|---------------------------:
-|Week-end 2n |   990,00&nbsp;€        |  -50,00&nbsp;€
-|Week-end 3n |  1090,00&nbsp;€        |  -50,00&nbsp;€
-|Mid-week 4n |   770,00&nbsp;€        |  -50,00&nbsp;€
-|Semaine 7n  |  1690,00&nbsp;€        | -100,00&nbsp;€
-
-|Hiver       | Prix pour 14 personnes | Par chambre de moins
-|------------|-----------------------:|---------------------------:
-|Week-end 2n |   920,00&nbsp;€        |  -50,00&nbsp;€
-|Week-end 3n |  1020,00&nbsp;€        |  -50,00&nbsp;€
-|Mid-week 4n |   770,00&nbsp;€        |  -50,00&nbsp;€
-|Semaine 7n  |  1620,00&nbsp;€        | -100,00&nbsp;€
-
-|Vacances scolaires | Prix pour 14 personnes | Par chambre de moins
-|------------|-----------------------:|---------------------------:
-|Week-end 2n |   pas disponible       |
-|Week-end 3n |  1350,00&nbsp;€        |  -50,00&nbsp;€
-|Mid-week 4n |   990,00&nbsp;€        |  -50,00&nbsp;€
-|Semaine 7n  |  1850,00&nbsp;€        | -100,00&nbsp;€
+### Bientot disponible pour 19 personnes!
 
 Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
+
+|Été|Prix 19p|Prix 14p
+|---|---:|---:
+|Week-end 2n|€ 1.590,00|€ 990,00
+|Week-end 3n|€ 1.690,00|€ 1.090,00
+|Mid-week 4n|€ 1.490,00|€ 890,00
+|Semaine 7n|€ 2.290,00|€ 1.690,00
+
+|Hiver|Prix 19p|Prix 14p
+|---|---:|---:
+|Week-end 2n|€ 1.520,00|€ 920,00
+|Week-end 3n|€ 1.620,00|€ 1.020.00
+|Mid-week 4n|€ 1.420.00|€ 820,00
+|Semaine 7n|€ 2.220,00|€ 1.620,00
+
+|Vacances Scolaires|Prix 19p|Prix 14p
+|---|---:|---:
+|Week-end 2n|pas disponible|
+|Week-end 3n|€ 1.650,00|€ 1.350,00
+|Mid-week 4n|€ 1.590,00|€ 990,00
+|Semaine 7n|€ 2.450,00|€ 1.850,00
+
+
+> ⚠ Pour des groupes plus petits nous offrons une réduction par chambre non utilisée
+
+> ⚠ Disponibilité pour 21 personnes, mais seulement sur rendez-vous
 
 |Période ||
 |------- |-------------
@@ -44,43 +48,52 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 ## Périodes spéciales
 
-|Week-ends spéciaux                                       | Prix pour 14 personnes                 | Par chambre de moins
-|---------------------------------------------------------|---------------------------------------:|----------------------------------:
-|Noël (du vendredi le 22 décembre 16&nbsp;u au mardi le 26 décembre 10&nbsp;u)                     | 1495,00&nbsp;€ | -100,00&nbsp;€
-|Nouvel An 2018 (du mercredi le 3 janvier 16&nbsp;u au dimanche le 7 janvier 18&nbsp;u)            | 1090,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de neige 2018 (du lundi le 12 février 16&nbsp;u au dimanche le 18 février 18&nbsp;u)     | 1420,00&nbsp;€ | -100,00&nbsp;€
-|Vacances de neige 2017 (du lundi le 12 février 16&nbsp;u au vendredi le 16 février 10&nbsp;u)     |  920,00&nbsp;€ |  -50,00&nbsp;€
-|Vacances de Pâques 2018 (du lundi le 2 avril 16&nbsp;u au lundi le 9 avril 10&nbsp;u)             | 1650,00&nbsp;€ | -100,00&nbsp;€
-|  &nbsp; ou (du lundi le 2 avril 16&nbsp;u au vendredi le 6 avril 10&nbsp;u)                      |  990,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end 1 Mai 2018 (du vendredi le 27 avril 16&nbsp;u au mardi le 1 mai 10&nbsp;u)               | 1450,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end de l'ascension 2018 (du mercredi le 9 mai 16&nbsp;u au dimanche le 13 mai 18&nbsp;u)     | 1450,00&nbsp;€ |  -50,00&nbsp;€
-|Week-end de Pentecôte 2017 (du vendredi le 18 mai 16&nbsp;u au lundi le 21 mai 10&nbsp;u)         | 1350,00&nbsp;€ |  -50,00&nbsp;€
+|Jaar|Periode (naam)|van-tot|Prijs 19p|Prijs 14p
+|---:|:---:|:---:|---:|---:
+|2018|Nouvel An|3/1 - 7/1|N / A|€ 1.090,00
+||*** LAST MINUTES ***|9/2-11/2|N / A|€ 870,00
+||*** LAST MINUTES ***|16/2-18/2|N / A|€ 870,00
+||*** LAST MINUTES ***|23/2-25/2|N / A|€ 870,00
+||Vacances de neige (long)|12/2 - 18/2|N / A|€ 1.420,00
+||Vacances de neige (court)|12/2 - 16/2|N / A|€ 770,00
+||Pâques (court)|2/4 - 6/4|N / A|€ 990,00
+||Jours fériés 3 nuits ||N / A|€ 1.350,00
+||Jours fériés 4 nuits ||N / A|€ 1.450,00
 
 
-## Week-ends de promotion
+## Arrivée et départ
 
-* 870,00&nbsp;€ pour 2 nuits
-* -50,00&nbsp;€ par chambre de moins
-* Week-ends:
-  * 2017: 1, 8, 15 decembre
-  * 2018: 12, 19 janvier, 2, 9, 23 février
+Arrivée : à partir de 16h	
+
+Départ: Selon le jour de départ, nous vous prions de quitter Fluisterbos à l'heure indiquée.	
+
+|Depart | Checkout au plus tard à:
+|---|---
+|Dimanche|11 u
+|Tous les autres jours|10 u
+
+
+> ⚠ Selon notre planning il est éventuellement possible de prolonger les départs, mais nous ne pouvons vous le confirmer définitivement qu'au moment de votre arrivée.	
 
 
 
-La garantie s'élève à 700,00&nbsp;€
+La garantie s’élève à 1000,00 € (soit 700,00 €  pour au moins 14 personnes).
 
-> **Compris dans le prix** : - Parking gratuit pour 5 voitures - Linge de bain et de cuisine - Charbon de bois pour le barbecue ou bois pour le poêle - Wifi gratuit
+> **Compris dans le prix** : - Parking gratuit pour max 5 voitures - Serviettes et draps de bain et serviettes de cuisine - Charbon de bois pour le barbecue ou bois pour le poêle - Wifi 
 
-> **Non compris** : - Nettoyage de fin de séjour obligatoire 200,00&nbsp;€ - Ensemble de draps obligatoire 8,00&nbsp;€ par personne - Électricité, gaz et eau
+> **Non compris** : - Nettoyage de fin de séjour obligatoire 300,00 € (soit 200,00 € pour 14p ou moins) - Ensemble de draps obligatoire 8,00 € par personne - Électricité, gaz et eau
 
-Il est possible de réserver un petit-déjeuner supplémentaire à 12,00&nbsp;€ par personne par jour. À réserver au min. deux semaines à l'avance.
+Il est possible de réserver un petit-déjeuner en payant un supplément de 12,00 € par personne par jour. À réserver min. deux semaines à l’avance.
 
-Tous les frais sont facturés avec la garantie. Le solde sera remboursé une semaine apres le départ.
+Tous les frais seront déduits de la garantie. Le solde vous sera remboursé une semaine après le départ.
 
-Pour toute question spécifique, veuillez contacter info@fluisterbos.be :  nous vous proposerons une formule sur mesure !
+Pour toute question spécifique ou renseignement complémentaire, veuillez contacter info@fluisterbos.be :  nous vous proposerons une formule sur mesure !
+
 
 ## Conditions Générales
 
 Télécharger les [Conditions générales][maison-conditions]
+
+Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
 
 {% include links.md %}
