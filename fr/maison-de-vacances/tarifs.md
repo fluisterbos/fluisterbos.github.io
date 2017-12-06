@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarifs 2016-2017
+title:  Tarifs 2017-2018
 ---
 
 ### Bientot disponible pour 19 personnes!
