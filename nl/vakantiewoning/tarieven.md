@@ -10,17 +10,17 @@ Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikb
 
 |Zomer|Prijs 19p|Prijs 14p
 |---|---:|---:
-|Weekend 2n|€ 1.590,00|€ 990,00
-|Weekend 3n|€ 1.690,00|€ 1.090,00
-|Midweek 4n|€ 1.490,00|€ 890,00
-|Week 7n|€ 2.290,00|€ 1.690,00
+|Weekend 2n|€ 1.490,00|€ 990,00
+|Weekend 3n|€ 1.590,00|€ 1.090,00
+|Midweek 4n|€ 1.390,00|€ 890,00
+|Week 7n|€ 2.190,00|€ 1.690,00
 
 |Winter|Prijs 19p|Prijs 14p
 |---|---:|---:
-|Weekend 2n|€ 1.520,00|€ 920,00
-|Weekend 3n|€ 1.620,00|€ 1.020.00
-|Midweek 4n|€ 1.420.00|€ 820,00
-|Week 7n|€ 2.220,00|€ 1.620,00
+|Weekend 2n|€ 1.420,00|€ 920,00
+|Weekend 3n|€ 1.520,00|€ 1.020.00
+|Midweek 4n|€ 1.320.00|€ 820,00
+|Week 7n|€ 2.120,00|€ 1.620,00
 
 |Schoolvakanties|Prijs 19p|Prijs 14p
 |---|---:|---:

@@ -9,17 +9,17 @@ Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponib
 
 |Été|Prix 19p|Prix 14p
 |---|---:|---:
-|Week-end 2n|€ 1.590,00|€ 990,00
-|Week-end 3n|€ 1.690,00|€ 1.090,00
-|Mid-week 4n|€ 1.490,00|€ 890,00
-|Semaine 7n|€ 2.290,00|€ 1.690,00
+|Week-end 2n|€ 1.490,00|€ 990,00
+|Week-end 3n|€ 1.590,00|€ 1.090,00
+|Mid-week 4n|€ 1.390,00|€ 890,00
+|Semaine 7n|€ 2.190,00|€ 1.690,00
 
 |Hiver|Prix 19p|Prix 14p
 |---|---:|---:
-|Week-end 2n|€ 1.520,00|€ 920,00
-|Week-end 3n|€ 1.620,00|€ 1.020.00
-|Mid-week 4n|€ 1.420.00|€ 820,00
-|Semaine 7n|€ 2.220,00|€ 1.620,00
+|Week-end 2n|€ 1.420,00|€ 920,00
+|Week-end 3n|€ 1.520,00|€ 1.020.00
+|Mid-week 4n|€ 1.320.00|€ 820,00
+|Semaine 7n|€ 2.120,00|€ 1.620,00
 
 |Vacances Scolaires|Prix 19p|Prix 14p
 |---|---:|---:
