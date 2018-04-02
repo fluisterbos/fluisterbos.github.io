@@ -6,7 +6,7 @@ bg: genieten
 
 ### Binnenkort Fluisterbos voor 19 personen!
 
-Ontdek ook onze speciale [arrangementen][vakantie-arrangementen] en de [beschikbaarheid][vakantie-beschikbaarheid]
+Ontdek ook onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaarheid][vkwng.beschikbaarheid.nl]
 
 |Zomer|Prijs 19p|Prijs 14p
 |---|---:|---:
@@ -88,8 +88,8 @@ Alle kosten worden verrekend met de borg. Het saldo wordt een week na verb
 Voor specifieke vragen contacteer info@fluisterbos.be: we kunnen iets uitwerken op maat !
 
 ## Algemene voorwaarden
-Download de [Algemene Voorwaarden][vakantie-voorwaarden]
+Download de [Algemene Voorwaarden][vkwng.voorwaarden.nl]
 
-Kijk hier voor onze speciale [arrangementen][vakantie-arrangementen] en de [beschikbaarheid][vakantie-beschikbaarheid]
+Kijk hier voor onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaarheid][vkwng.beschikbaarheid.nl]
 
 {% include links.md %}

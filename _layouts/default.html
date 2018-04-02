@@ -1,137 +1,57 @@
 <!DOCTYPE html>
-{% comment %} <!-- set defaults --> {% endcomment %}
-{% assign page_lang = 'nl' %}
-{% assign page_style = 'redstyle' %}
-{% assign page_menu = 'index' %}
-{% assign page_bg =  site.data.slides.default %}
-{% comment %} <!-- some platforms have page.url end in / rather then /index.html --> {% endcomment %}
-{% assign page_url = page.url %}
-{% assign page_url_size = some_string | size %}
-{% assign lastpos = page_url | size | minus: 1 %}
-{% assign lastchar = page_url | slice: lastpos, 1 %}
-{% if lastchar == "/" %}{% capture page_url %}{{ page_url }}index.html{% endcapture %}{% endif %}
-{% comment %} <!-- parse path segments into meaning --> {% endcomment %}
-<!-- page.url = {{page_url}} -->
-{% assign segments = page_url | replace:'.html','' | split:'/' %}
-{% assign maxloop = 0 %}
-{% for segm in segments limit:3 offset:1 %}
-  {% assign maxloop = forloop.index %}
-  <!-- loop {{forloop.index}} -- segm {{segm}} -- maxloop {{maxloop}} -- segments {{segments | size}} -->
-  {% case forloop.index %}
-    {% when 1 %} {% assign page_lang = segm  %}
-    {% when 2 %} {% assign page_section = segm  %}
-    {% when 3 %} {% assign page_menu  = segm %}
-  {% endcase %}
-{% endfor %}
-{% if maxloop < 2 %}<!-- -->
-  {% assign page_lang = 'nl' %}
-  {% assign page_section = 'index' %}
-{% endif %}
-{% if maxloop < 3 %}<!-- -->
-  {% assign page_menu = page_section %}
-  {% assign page_section = null %}
-{% endif %}
-{% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
-{% if page.section %} {%assign page_section = page.section %} {% endif %}
-{% if page.menu %}    {%assign page_menu = page.menu %} {% endif %}
-{% if page_section and page_section != '' %} {% assign page_style =  site.data.navigation.style[page_section] %} {% endif %}
-{% if page.style %}   {%assign page_style = page.style %} {% endif %}
-{% if page.bg %}      {%assign page_bg = page.bg %} {% endif %}
-{% capture page_section_key %}{{ page_lang }}/{{ page_section }}{% endcapture %}
-<html>
+{% include layout-prelude.html %}
+<html lang="{{ page_lang }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width">
-
-    <!-- for Google -->
-    <meta name="description" content="{{ site.description }}" />
-    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords | join: ',' }}">
-    {% endif %}
-
-    <meta name="author" content="Fluisterbos" />
-    <meta name="copyright" content="Fluisterbos" />
-    <!-- google+ direct link -->
-    <link href="https://plus.google.com/+FluisterbosBe-vakantiewoning-oostende" rel="author" />
-    <link href="https://plus.google.com/+FluisterbosBe-vakantiewoning-oostende" rel="publisher" />
-
-    <!-- for Facebook -->          
-    <meta property="og:title" content="{{ site.name }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="{{ site.url }}{{ site.data.slides[site.data.slides.default][0]  }}" />
-    <meta property="og:url" content="{{ site.url }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-
-    <!-- for Twitter -->          
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ site.name }}" />
-    <meta name="twitter:description" content="{{ site.description }}" />
-    <meta name="twitter:image" content="{{ site.url }}{{ site.data.slides[site.data.slides.default][0] }}" />
-
-
+    <!-- meta-data -->
+{% include meta.html %}
     <!-- Custom CSS -->
     <link type="text/css" rel="stylesheet" href="/css/supersized.css">
     <link type="text/css" rel="stylesheet" href="/css/jquery.mCustomScrollbar.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" type="image/png" href="/img/fluisterbos-ico-48.png">
-
   </head>
   <body class="{{ page_style }}" data-bg='{{ site.data.slides[page_bg] | jsonify }}' >
-    <!--
-    <pre>
-      maxloop = {{maxloop}}
-      page.url = {{page.url}}
-      segments = {{segments}}
-      page_section = {{page_section}}
-      page_section_key = {{page_section_key}}
-    </pre>
-    -->
     <header>
       <nav>
         <div id="header" class="container hidden-print">
           <div class="row"><div class="col-md-12">
-            {% if page_section %}
+{% if lvl1 %}
+            <a href="/{{ page_lang }}/" class="silent">
               <div id="nav_home_logo" class="hide-fade hidden-sm hidden-xs">
-                <a href="/{{ page_lang }}/" class="silent">
-                  <img src="{{ site.data.navigation.homelogo[page_section_key] }}">
-                </a>
+                <img src="{{ lvl1.homelogo }}">
               </div>
-            {% endif %}
+            </a>
+{% endif %}
             <div id="nav_langs" class="hide-top pull-right">
-              {% for lang in site.data.navigation.langs %}
-                <span {% if page_lang == lang %} class="active" {% endif %} > 
-                  <a href="/{{ lang }}" 
-                  >{{ lang }}</a>
-                </span>
-              {% endfor %}
+{% for lang in site.data.langs %}
+              <span {% if page_lang == lang %} class="active" {% endif %} >
+                <a href="{% if lvl1 %}{{ site.data.linkcode[page_linkcode][lang] }}{% else %}/{{lang}}/{% endif %}">{{ lang }}</a>
+              </span>
+{% endfor %}
             </div>
           </div></div>
           <div class="row "><div class="col-md-12">
-            {% if page_section %}
+{% if lvl1 %}
               <img id="nav_menu_toggle" src="/img/nav-menu-toggle.png" alt="menu toggle" class="pull-right hidden-sm hidden-xs"/>
               <div id="nav_menu_section" class="hide-right pull-right">
-                {% for menu in site.data.navigation.menu[page_section_key] %}
-                  {% if menu.path == 'index' %}
-                    <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html" class="silent">
-                      <img id="nav_menu_home" src="/img/fluisterbos-home.png" alt="FluisterBos" />
-                    </a>
-                  {% else %}
-                    <span {% if page_menu == menu.path %} class="active" {% endif %} >
-                      <a href="/{{ page_lang }}/{{ page_section }}/{{ menu.path }}.html"
-                      >{{ menu.label }}</a>
+                <a href="{{ site.data.linkcode[lvl1.linkcode][page_lang] }}" class="silent">
+                  <img id="nav_menu_home" src="/img/fluisterbos-home.png" alt="FluisterBos" />
+                </a>
+    {% for menu in lvl1.submenu %}{% if menu.menutekst[page_lang] %}
+                    <span {% if lvl2.linkcode == menu.linkcode %} class="active" {% endif %} >
+                      <a href="{{ site.data.linkcode[menu.linkcode][page_lang] }}"
+                      >{{ menu.menutekst[page_lang] }}</a>
                     </span>
-                  {% endif %}
-                {% endfor %}
+    {% endif %}{% endfor %}
               </div>
-            {% endif %}
+{% endif %}
           </div></div>
         </div>
       </nav>
     </header>
 
     <article>
-      {% if page_section or page_menu != 'index' %}
+{% if lvl1 %}
         <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5">
           <div class="row wrap-parent"><div class="col-md-12 wrap-child">
             <div id="content" class="content">
@@ -140,28 +60,28 @@
             </div>
           </div></div>
         </div></div></div>
-      {% else %}
+{% else %}
         <div class="container">
-          {% assign sections = site.data.navigation.sections[page_lang] %}
-          {% if sections %}
           <div id="nav_sections" class="row"><div class="col-md-10 col-md-offset-1">
-            {% for section in sections %}
-            <div class="col-md-6 {{ section.style }}"><div class="choice row">
-              <div class="col-md-12 caption">
-                <a class="silent" 
-                   href="/{{ page_lang }}/{{ section.path }}">{{ section.label }}</a>
-              </div>
-              <div class="col-md-12 ">
-                <a class="silent" 
-                   href="/{{ page_lang }}/{{ section.path }}"><img src="{{ section.logo }}"></a>
-              </div>
-            </div></div>
-            {% endfor %}
+      {% for section in site.data.menu %}
+            <div class="col-md-6 {{ section.style }}">
+              <a class="silent"
+                   href="{{ site.data.linkcode[section.linkcode][page_lang] }}">
+                <div class="choice row">
+                  <div class="col-md-12 caption">
+                   {{ section.menutekst[page_lang] }}
+                  </div>
+                  <div class="col-md-12 ">
+                   <img src="{{ section.logo }}">
+                  </div>
+                </div>
+              </a>
+            </div>
+      {% endfor %}
           </div></div>
-          {% endif %}
           <!-- no {-{- content -}-} -->
         </div>
-      {% endif %}
+{% endif %}
     </article>  
 
     <footer>

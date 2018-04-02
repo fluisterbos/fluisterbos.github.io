@@ -33,7 +33,7 @@ Kan ook door enkele onderlijning met - (eentje is genoeg)
 Links
 -----
 
-Voor links in een tekst gaan we typisch voor de combinatie met [ en ] waarbij een [woord][vakantiewoning] verwijst naar een beheerde referentie (zie _includes/links.md).
+Voor links in een tekst gaan we typisch voor de combinatie met [ en ] waarbij een [woord][vkwng.nl] verwijst naar een beheerde referentie (zie _data/linkcodes.yml).
 
 Daarnaast kun je ook terplekke linken naar een niet centraal beheerd adres door de ( en ) te gebruiken zoals bij deze [link](http://google.com/). 
 

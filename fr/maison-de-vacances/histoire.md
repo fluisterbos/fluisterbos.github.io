@@ -1,7 +1,6 @@
 ---
 layout: default
 title: L'histoire d'un entrepôt de charbon devenu maison de vacances
-menu : facilités
 ---
 Het Fluisterbos, une maison de vacances chargée d'histoire.
 

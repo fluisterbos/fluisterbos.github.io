@@ -1,5 +1,20 @@
 ---
-layout: default
 title: FluisterBos, Oostende - Vakantiewoning en Gelegenheidsadres aan Zee
 ---
-{% comment %}Alle inhoud zonder section-context wordt genegeerd.{% endcomment %}
+{% comment %}Automatic language switching.{% endcomment %}
+
+<html>
+    <head>
+        <title>{{page.title}}</title>
+        <!-- redirect default language -->
+        <script type="text/javascript">
+            var hl = navigator.language || navigator.userLanguage,
+                supported_langs = {{site.data.langs | jsonify }};
+            hl = hl.slice(0, 2);
+            if (supported_langs.indexOf(hl) === -1) {
+                hl = supported_langs[0];
+            }
+            window.location="/" + hl + "/";
+        </script>
+    </head>
+</html>

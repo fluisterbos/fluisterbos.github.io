@@ -3,7 +3,7 @@ layout: default
 title: Reserveren
 bg: genieten
 ---
-Check online wanneer het Fluisterbos [vrij][vkwng.beschikbaarheid.nl] is.
+Check online wanneer het Fluisterbos [vrij][fstzl.beschikbaarheid.nl] is.
 
 Heb je nog extra vragen of wensen? Laat het ons zeker weten, we helpen je graag verder. 
 

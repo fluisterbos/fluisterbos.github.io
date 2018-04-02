@@ -1,0 +1,47 @@
+{% comment %} <!-- set defaults --> {% endcomment %}
+{% assign page_lang = 'nl' %}{% assign page_style = 'redstyle' %}{% assign page_bg =  site.data.slides.default %}
+{% comment %} <!-- some platforms have page.url end in / rather then /index.html --> {% endcomment %}
+{% assign page_url = page.url %}{% assign lastpos = page_url | size | minus: 1 %}{% assign lastchar = page_url | slice: lastpos, 1 %}{% if lastchar == "/" %}{% capture page_url %}{{ page_url }}index.html{% endcapture %}{% endif %}{% assign segments = page_url | split:'/' %}
+{% comment %} <!-- get language from path --> {% endcomment %}
+
+{% assign maxloop = 0 %}{% for segm in segments limit:3 offset:1 %}
+  {% assign maxloop = forloop.index %}
+  {% case forloop.index %}{% when 1 %}{% assign page_lang = segm  %}{% endcase %}
+{% endfor %}{% unless site.data.langs contains page_lang %}{% assign page_lang = 'nl' %}{% endunless %}
+{% comment %}<!-- menuinfo data -->{% endcomment %}
+{% for lnk in site.data.linkcode %}{% capture lnk_url %}{{lnk[1][page_lang] | uri_escape}}{% endcapture %}{% if lnk_url == page_url %}{% assign page_linkcode = lnk[0] %}{% endif %}{% endfor %}
+{% for m1 in site.data.menu %}
+    {% if page_linkcode == m1.linkcode %}{% assign lvl1 = m1 %}{% assign page_style = lvl1.style %}{% endif %}
+    {% for m2 in m1.submenu %}
+        {% if page_linkcode == m2.linkcode %}{% assign lvl1 = m1 %}{% assign page_style = lvl1.style %}{% assign lvl2 = m2 %}{% endif %}
+        {% for m3 in m2.submenu %}
+            {% if page_linkcode == m3.linkcode %}{% assign lvl1 = m1 %}{% assign page_style = lvl1.style %}{% assign lvl2 = m2 %}{% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+{% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
+{% if lvl1 %}{% assign page_style =  lvl1.style %}{% endif %}
+{% if page.bg %}{%assign page_bg = page.bg %} {% endif %}
+{% comment %}<!-- page meta data defaults-->{% endcomment %}
+{% assign ogTitle  = site.name %}{% assign ogType   = 'website' %}{% assign ogImgUrl = site.data.slides[site.data.slides.default][0] %}{% assign ogUrl = '' %}{% assign ogDescr = site.description %}
+{% comment %}<!-- specific overrules -->{% endcomment %}
+{%if page.title %}{%assign ogTitle  = page.title %}{%endif%}{%if page.ogType %}{%assign ogType = page.ogType %}{%endif%}{%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0] %}{%endif%}{%if page.url %}{%assign ogUrl = page.url %}{%endif%}{%if page.description %}{%assign ogDescr = page.description %}{%endif%}
+
+{%comment%}
+<!-- debug prelude settings:
+    | page_url         = {{page_url}}
+    | page_lang        = {{page_lang}}
+    | page_style       = {{page_style}}
+    | page_bg          = {{page_bg}}
+    | page_linkcode    = {{page_linkcode}}
+    | lvl1.ĺinkcode    = {{lvl1.linkcode}}
+    | lvl2.linkcode    = {{lvl2.linkcode}}
+    | lvl1             = {{lvl1 | jsonify}}
+    | lvl2             = {{lvl2 | jsonify}}
+    | ogTitle          = {{ogTitle}}
+    | ogType           = {{ogType}}
+    | ogImgUrl         = {{ogImgUrl}}
+    | ogUrl            = {{ogUrl}}
+    | ogDescr          = {{ogDescr}}
+     -->
+{%endcomment%}

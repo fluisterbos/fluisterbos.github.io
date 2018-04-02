@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  Formules
-menu: tarifs
 ---
 
 ### FORMULES MID-WEEK

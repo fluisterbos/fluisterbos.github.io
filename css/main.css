@@ -148,7 +148,7 @@ body.greenstyle {
 /* Looks for the menu, and the contacts
 -------------------------------------------------- */
 #nav_menu_section {
-  background-color: rgba( 256, 256, 256, 0.5);
+  background-color: rgba( 256, 256, 256, 0.8);
   min-height: 48px!important;
   font-size: 1.3em;
 }

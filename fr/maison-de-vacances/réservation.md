@@ -2,7 +2,7 @@
 layout: default
 title: Réservation
 ---
-Informez-vous en ligne des [disponibilités][maison-disponibilités] de &laquo;Het Fluisterbos&raquo;.
+Informez-vous en ligne des [disponibilités][vkwng.beschikbaarheid.fr] de &laquo;Het Fluisterbos&raquo;.
 
 Vous avez encore des questions ou des souhaits ? Faites-les-nous parvenir, nous nous ferons un plaisir de vous aider. 
 
@@ -15,6 +15,6 @@ Vous avez encore des questions ou des souhaits ? Faites-les-nous parvenir, nous
 **Fluisterbos**  
 Filip van Maestrichtplein 6  
 8400 Ostende  
-[itinéraire][route-fr]
+[itinéraire][route.fr]
 
 {% include links.md %}

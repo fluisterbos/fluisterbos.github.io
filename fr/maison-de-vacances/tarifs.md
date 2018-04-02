@@ -5,7 +5,7 @@ title:  Tarifs 2017-2018
 
 ### Bientot disponible pour 19 personnes!
 
-Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
+Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponibilités][vkwng.beschikbaarheid.fr]
 
 |Été|Prix 19p|Prix 14p
 |---|---:|---:
@@ -92,8 +92,8 @@ Pour toute question spécifique ou renseignement complémentaire, veuillez conta
 
 ## Conditions Générales
 
-Télécharger les [Conditions générales][maison-conditions]
+Télécharger les [Conditions générales][vkwng.voorwaarden.fr]
 
-Découvrez aussi nos [formules spéciales][maison-arrangements] et les [disponibilités][maison-disponibilités]
+Découvrez aussi nos [formules spéciales][vkwng.arrrangement.fr] et les [disponibilités][vkwng.beschikbaarheid.fr]
 
 {% include links.md %}

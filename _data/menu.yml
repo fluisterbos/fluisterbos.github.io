@@ -1,0 +1,61 @@
+- linkcode: vkwng
+  logo: /img/fb-vakantiewoning-red.png
+  homelogo: /img/logo-fluisterbos-vakantiewoning.png
+  style: redstyle
+  menutekst:
+    nl: Vakantiewoning
+    fr: Maison de vacances
+  submenu:
+    - linkcode: naam
+    - linkcode: vkwng.accomodatie
+      menutekst:
+        nl: Accommodatie
+        fr: Facilités
+      submenu:
+        - linkcode: geschiedenis
+    - linkcode: vkwng.tarief
+      menutekst:
+        nl: Tarieven
+        fr: Tarifs
+      submenu:
+        - linkcode: vkwng.arrangement
+    - linkcode: vkwng.reservatie
+      menutekst:
+        nl: Reserveren
+        fr: Réservation
+      submenu:
+        - linkcode: vkwng.beschikbaarheid
+    - linkcode: omgeving
+      menutekst:
+        nl: Omgeving
+        fr: Environs
+
+- linkcode: fstzl
+  logo: /img/fb-feestzaal-green.png
+  homelogo: /img/logo-fluisterbos-feestzaal.png
+  style: greenstyle
+  menutekst:
+    nl: Feestzaal
+    fr: Salle de Fêtes
+  submenu:
+    - linkcode: fstzl.aanbod
+      menutekst:
+        nl: Aanbod
+        fr:
+
+    - linkcode: fstzl.arrangement
+      menutekst:
+        nl: Arrangementen
+        fr:
+
+    - linkcode: rouwmaaltijd
+      menutekst:
+        nl: Rouwmaaltijden
+        fr:
+
+    - linkcode: fstzl.reservatie
+      menutekst:
+        nl: Reserveren
+        fr:
+      submenu:
+        - linkcode: fstzl.beschikbaarheid
