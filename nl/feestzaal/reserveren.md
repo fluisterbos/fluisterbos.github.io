@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reserveren
-bg: genieten
+bg: catering
 ---
 Check online wanneer het Fluisterbos [vrij][fstzl.beschikbaarheid.nl] is.
 
@@ -19,7 +19,7 @@ Filip van Maestrichtplein 6
 [wegbeschrijving][route.nl]
 
 
-
+Download hier de [huurovereenkomst][fstzl.voorwaarden.nl]
 
 
 {%include links.md%}
