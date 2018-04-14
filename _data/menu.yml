@@ -46,25 +46,25 @@
     - linkcode: fstzl.aanbod
       menutekst:
         nl: Aanbod
-        fr:
+        fr: Offre
         en:
 
     - linkcode: fstzl.arrangement
       menutekst:
         nl: Arrangementen
-        fr:
+        fr: Formules
         en:
 
     - linkcode: rouwmaaltijd
       menutekst:
         nl: Rouwmaaltijden
-        fr:
+        fr: Repas funéraires
         en:
 
     - linkcode: fstzl.reservatie
       menutekst:
         nl: Reserveren
-        fr:
+        fr: Réservation
         en:
       submenu:
         - linkcode: fstzl.beschikbaarheid

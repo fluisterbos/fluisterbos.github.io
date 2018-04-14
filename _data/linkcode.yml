@@ -1,7 +1,7 @@
 # [0] gelinkt vanuit site-code...
 route:
-    nl:  /nl/route.html
-    fr:  /fr/route.html
+    nl: /nl/route.html
+    fr: /fr/itinéraire.html
     en:
 
 # [1] menu
@@ -30,7 +30,7 @@ vkwng.tarief:
     en:
 vkwng.arrangement:
     nl: /nl/vakantiewoning/arrangementen.html
-    fr: /fr/maison-de-vacances/arrangements.html
+    fr: /fr/maison-de-vacances/formules.html
     en:
 ### reservatie
 vkwng.reservatie:
@@ -55,22 +55,22 @@ fstzl:
 ### aanbod
 fstzl.aanbod:
     nl: /nl/feestzaal/aanbod.html
-    fr:
+    fr: /fr/salle-de-fetes/offre.html
     en:
 ### arrangement
 fstzl.arrangement:
     nl: /nl/feestzaal/arrangementen.html
-    fr:
+    fr: /fr/salle-de-fetes/formules.html
     en:
 ### rouwmaaltijd
 rouwmaaltijd:
     nl: /nl/feestzaal/rouwmaaltijden.html
-    fr:
+    fr: /fr/salle-de-fetes/repas-funeraires.html
     en:
 ### reservatie
 fstzl.reservatie:
     nl: /nl/feestzaal/reserveren.html
-    fr:
+    fr: /fr/salle-de-fetes/réservation.html
     en:
 fstzl.beschikbaarheid:
     nl: /nl/feestzaal/beschikbaarheid.html
@@ -85,7 +85,7 @@ vkwng.voorwaarden:
     en:
 fstzl.voorwaarden:
     nl: /nl/feestzaal/fluisterzaal-algemene-voorwaarden.pdf
-    fr:
+    fr: /fr/salle-de-fetes/fluisterzaal-conditions-generales.pdf
     en:
 
 # [3] externe links
