@@ -38,6 +38,7 @@
   logo: /img/fb-feestzaal-green.png
   homelogo: /img/logo-fluisterbos-feestzaal.png
   style: greenstyle
+  bg: catering
   menutekst:
     nl: Feestzaal
     fr: Salle de Fêtes

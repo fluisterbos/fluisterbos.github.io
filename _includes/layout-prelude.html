@@ -22,6 +22,7 @@
 {% endfor %}
 {% comment %} <!-- derived page-style plus overrides/settings from page own prelude --> {% endcomment %}
 {% if lvl1 %}{% assign page_style =  lvl1.style %}{% endif %}
+{% if lvl1 %}{% assign page_bg =  lvl1.bg %}{% endif %}
 {% if page.bg %}{%assign page_bg = page.bg %} {% endif %}
 {% comment %}<!-- page meta data defaults-->{% endcomment %}
 {% assign ogTitle  = site.name %}{% assign ogType   = 'website' %}{% assign ogImgUrl = site.data.slides[site.data.slides.default][0] %}{% assign ogUrl = '' %}{% assign ogDescr = site.description %}
