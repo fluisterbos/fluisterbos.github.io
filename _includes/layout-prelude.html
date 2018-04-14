@@ -9,7 +9,8 @@
   {% case forloop.index %}{% when 1 %}{% assign page_lang = segm  %}{% endcase %}
 {% endfor %}{% unless site.data.langs contains page_lang %}{% assign page_lang = 'nl' %}{% endunless %}
 {% comment %}<!-- menuinfo data -->{% endcomment %}
-{% for lnk in site.data.linkcode %}{% capture lnk_url %}{{lnk[1][page_lang] | uri_escape}}{% endcapture %}{% if lnk_url == page_url %}{% assign page_linkcode = lnk[0] %}{% endif %}{% endfor %}
+{% for lnk in site.data.linkcode %}{% capture lnk_url %}{{lnk[1][page_lang] | uri_escape}}{% endcapture %}
+<!-- {{lnk_url}} ?? {{page_url}}--> {% if lnk_url == page_url %}<!-- yes-->{% assign page_linkcode = lnk[0] %}{% endif %}{% endfor %}
 {% for m1 in site.data.menu %}
     {% if page_linkcode == m1.linkcode %}{% assign lvl1 = m1 %}{% assign page_style = lvl1.style %}{% endif %}
     {% for m2 in m1.submenu %}
@@ -28,6 +29,7 @@
 {%if page.title %}{%assign ogTitle  = page.title %}{%endif%}{%if page.ogType %}{%assign ogType = page.ogType %}{%endif%}{%if page.images |size > 0 %}{%assign ogImgUrl = page.images[0] %}{%endif%}{%if page.url %}{%assign ogUrl = page.url %}{%endif%}{%if page.description %}{%assign ogDescr = page.description %}{%endif%}
 
 {%comment%}
+{%endcomment%}
 <!-- debug prelude settings:
     | page_url         = {{page_url}}
     | page_lang        = {{page_lang}}
@@ -44,4 +46,3 @@
     | ogUrl            = {{ogUrl}}
     | ogDescr          = {{ogDescr}}
      -->
-{%endcomment%}

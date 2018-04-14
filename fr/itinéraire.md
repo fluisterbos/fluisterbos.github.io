@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Itinéraire
+show: 'content'
 ---
 
 Calculez votre itinéraire en ligne avec [google maps]

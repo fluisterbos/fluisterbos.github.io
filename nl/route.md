@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wegbeschrijving
+show: 'content'
 ---
 
 Bereken je route on-line met behulp van [google maps]

@@ -15,17 +15,17 @@
       <nav>
         <div id="header" class="container hidden-print">
           <div class="row"><div class="col-md-12">
-{% if lvl1 %}
+{% if lvl1 or page.show == 'content' %}{% assign logo_url = lvl1.homelogo%}{% unless lvl1 %}{% assign logo_url = site.data.menu[0].homelogo %}{% endunless %}
             <a href="/{{ page_lang }}/" class="silent">
               <div id="nav_home_logo" class="hide-fade hidden-sm hidden-xs">
-                <img src="{{ lvl1.homelogo }}">
+                <img src="{{ logo_url }}">
               </div>
             </a>
 {% endif %}
             <div id="nav_langs" class="hide-top pull-right">
 {% for lang in site.data.langs %}
               <span {% if page_lang == lang %} class="active" {% endif %} >
-                <a href="{% if lvl1 %}{{ site.data.linkcode[page_linkcode][lang] }}{% else %}/{{lang}}/{% endif %}">{{ lang }}</a>
+                <a href="{% if page_linkcode %}{{ site.data.linkcode[page_linkcode][lang] }}{% else %}/{{lang}}/{% endif %}">{{ lang }}</a>
               </span>
 {% endfor %}
             </div>
@@ -51,7 +51,7 @@
     </header>
 
     <article>
-{% if lvl1 %}
+{% if lvl1 or page.show == 'content'%}
         <div class="container hide-fade"><div class="row"><div class="col-md-7 col-md-offset-5">
           <div class="row wrap-parent"><div class="col-md-12 wrap-child">
             <div id="content" class="content">
@@ -93,7 +93,7 @@
           <meta itemprop="name"        content="{{ site.name }}" />
           <meta itemprop="description" content="{{ site.description }}" />
           <meta itemprop="url"         content="{{ site.url }}" />
-          <span id="route-link" class="item hidden-print {% if page_menu == 'route' %}active{% endif %}"><a itemprop="map" title="route" href="/{{ page_lang }}/route.html"><span class="glyphicon glyphicon-map-marker"></span></a></span>
+          <span id="route-link" class="item hidden-print {% if page_menu == 'route' %}active{% endif %}"><a itemprop="map" title="route" href="{{ site.data.linkcode['route'][page_lang] }}"><span class="glyphicon glyphicon-map-marker"></span></a></span>
           <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
             <span itemprop="streetAddress" class="item hidden-xs show-print">Filip Van Maestrichtplein 6</span>
             <span class="item hidden-sm hidden-xs hidden-md show-print">
