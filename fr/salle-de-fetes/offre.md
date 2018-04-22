@@ -6,6 +6,7 @@ title:  Offre
 L’histoire de notre établissement nous a amenés à donner un nom caractéristique à notre salle de fêtes : la « Fluisterzaal » (salle où l’on chuchote). 
  
 La Fluisterzaal a une superficie de 103 m2, assez pour accueillir 40 places assises et 60 places debout. 
+
 ## Atouts
 
 - Disponible tous les jours

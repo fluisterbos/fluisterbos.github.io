@@ -5,14 +5,14 @@
   menutekst:
     nl: Vakantiewoning
     fr: Maison de vacances
-    en:
+    en: Holiday home
   submenu:
     - linkcode: naam
     - linkcode: vkwng.accomodatie
       menutekst:
         nl: Accommodatie
         fr: Facilités
-        en:
+        en: Accommodation
       submenu:
         - linkcode: geschiedenis
         - linkcode: omgeving
@@ -20,17 +20,17 @@
       menutekst:
         nl: Tarieven
         fr: Tarifs
-        en:
+        en: Prices
     - linkcode: vkwng.arrangement
       menutekst:
         nl: Arrangementen
         fr: Formules
-        en:
+        en: Packages
     - linkcode: vkwng.reservatie
       menutekst:
         nl: Reserveren
         fr: Réservation
-        en:
+        en: Bookings
       submenu:
         - linkcode: vkwng.beschikbaarheid
 
@@ -42,30 +42,30 @@
   menutekst:
     nl: Feestzaal
     fr: Salle de Fêtes
-    en:
+    en: Function room
   submenu:
     - linkcode: fstzl.aanbod
       menutekst:
         nl: Aanbod
         fr: Offre
-        en:
+        en: Accommodation
 
     - linkcode: fstzl.arrangement
       menutekst:
         nl: Arrangementen
         fr: Formules
-        en:
+        en: Packages
 
     - linkcode: rouwmaaltijd
       menutekst:
         nl: Rouwmaaltijden
         fr: Repas funéraires
-        en:
+        en: Sympathy meals
 
     - linkcode: fstzl.reservatie
       menutekst:
         nl: Reserveren
         fr: Réservation
-        en:
+        en: Bookings
       submenu:
         - linkcode: fstzl.beschikbaarheid

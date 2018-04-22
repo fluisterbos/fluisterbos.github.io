@@ -2,91 +2,91 @@
 route:
     nl: /nl/route.html
     fr: /fr/itinéraire.html
-    en:
+    en: /en/route.html
 
 # [1] menu
 ## vkwng
 vkwng:
     nl: /nl/vakantiewoning/index.html
     fr: /fr/maison-de-vacances/index.html
-    en:
+    en: /en/holiday-home/index.html
 naam:
     nl: /nl/vakantiewoning/herkomst-naam.html
     fr: /fr/maison-de-vacances/origine-de-nom.html
-    en:
+    en: /en/holiday-home/behind-the-name.html
 ### acco
 vkwng.accomodatie:
     nl: /nl/vakantiewoning/accommodatie.html
     fr: /fr/maison-de-vacances/facilités.html
-    en:
+    en: /en/holiday-home/accommodation.html
 geschiedenis:
     nl: /nl/vakantiewoning/geschiedenis.html
     fr: /fr/maison-de-vacances/histoire.html
-    en:
+    en: /en/holiday-home/history.html
 ### tarief
 vkwng.tarief:
     nl: /nl/vakantiewoning/tarieven.html
     fr: /fr/maison-de-vacances/tarifs.html
-    en:
+    en: /en/holiday-home/prices.html
 vkwng.arrangement:
     nl: /nl/vakantiewoning/arrangementen.html
     fr: /fr/maison-de-vacances/formules.html
-    en:
+    en: /en/holiday-home/packages.html
 ### reservatie
 vkwng.reservatie:
     nl: /nl/vakantiewoning/reserveren.html
     fr: /fr/maison-de-vacances/réservation.html
-    en:
+    en: /en/holiday-home/bookings.html
 vkwng.beschikbaarheid:
     nl: /nl/vakantiewoning/beschikbaarheid.html
     fr: /fr/maison-de-vacances/disponibilités.html
-    en:
+    en: /en/holiday-home/availability.html
 ### omgeving
 omgeving:
     nl: /nl/vakantiewoning/omgeving.html
     fr: /fr/maison-de-vacances/environs.html
-    en:
+    en: /en/holiday-home/surroundings.html
 
 ## feestzaal
 fstzl:
     nl: /nl/feestzaal/index.html
     fr: /fr/salle-de-fetes/index.html
-    en:
+    en: /en/function-room/index.html
 ### aanbod
 fstzl.aanbod:
     nl: /nl/feestzaal/aanbod.html
     fr: /fr/salle-de-fetes/offre.html
-    en:
+    en: /en/function-room/offer.html
 ### arrangement
 fstzl.arrangement:
     nl: /nl/feestzaal/arrangementen.html
     fr: /fr/salle-de-fetes/formules.html
-    en:
+    en: /en/function-room/packages.html
 ### rouwmaaltijd
 rouwmaaltijd:
     nl: /nl/feestzaal/rouwmaaltijden.html
     fr: /fr/salle-de-fetes/repas-funeraires.html
-    en:
+    en: /en/function-room/sympathy-meals.html
 ### reservatie
 fstzl.reservatie:
     nl: /nl/feestzaal/reserveren.html
     fr: /fr/salle-de-fetes/réservation.html
-    en:
+    en: /en/function-room/bookings.html
 fstzl.beschikbaarheid:
     nl: /nl/feestzaal/beschikbaarheid.html
     fr: /fr/salle-de-fetes/disponibilités.html
-    en:
+    en: /en/function-room/availability.html
 
 
 # [2] intern links buiten menu
 vkwng.voorwaarden:
     nl: /nl/vakantiewoning/fluisterbos-algemene-voorwaarden.pdf
     fr: /fr/maison-de-vacances/fluisterbos-conditions-generales.pdf
-    en:
+    en: /en/holiday-home/fluisterbos- terms-and-conditions.pdf
 fstzl.voorwaarden:
     nl: /nl/feestzaal/fluisterzaal-algemene-voorwaarden.pdf
     fr: /fr/salle-de-fetes/fluisterzaal-conditions-generales.pdf
-    en:
+    en: /en/function-room/fluisterzaal-terms-and-conditions.pdf
 
 # [3] externe links
 oostende:
