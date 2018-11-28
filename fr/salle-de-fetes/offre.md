@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Offre
+bg: zaalinrichting
 ---
 
 L’histoire de notre établissement nous a amenés à donner un nom caractéristique à notre salle de fêtes : la « Fluisterzaal » (salle où l’on chuchote). 

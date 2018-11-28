@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Beschikbaarheid
+bg: vergaderzaal
 ---
 
 {% include gcal.html %}

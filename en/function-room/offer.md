@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Accommodation
+bg: zaalinrichting
 ---
 
 

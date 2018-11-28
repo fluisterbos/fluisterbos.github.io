@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Arrangementen
-bg: Packages
+bg: catering
 ---
 
 ## Family get-togethers

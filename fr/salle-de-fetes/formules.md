@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Formules
+bg: catering
 ---
 
 ## Fêtes de famille

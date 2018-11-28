@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Aanbod
+bg: zaalinrichting
 ---
 
 Vanwege de historiek van ons pand hebben wij onze feestzaal een karakteristieke naam gegeven: De “Fluisterzaal” 
