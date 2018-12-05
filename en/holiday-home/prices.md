@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Prices 2017-2018
+title:  Prices 2018-2019
 bg: genieten
 ---
 
@@ -11,25 +11,25 @@ Find out all about our [special packages][vkwng.arrangement.en]  and [availabili
  
 |Summer|Price 19p|Price 14p
 |---|---:|---:
-|Weekend 2n|€ 1.490,00|€ 990,00
-|Weekend 3n|€ 1.590,00|€ 1.090,00
-|Midweek 4n|€ 1.390,00|€ 890,00
-|Week 7n|€ 2.190,00|€ 1.690,00
- 
-|Winter| Price 19p|Price 14p
+|Weekend 2n|€ 1.390,00|€ 1.090,00
+|Weekend 3n|€ 1.490,00|€ 1.190,00
+|Midweek 4n|€ 1.290,00|€ 990,00
+|Week 7n|€ 2.090,00|€ 1.790,00
+
+|Winter|Price 19p|Price 14p
 |---|---:|---:
-|Weekend 2n|€ 1.420,00|€ 920,00
-|Weekend 3n|€ 1.520,00|€ 1.020.00
-|Midweek 4n|€ 1.320.00|€ 820,00
-|Week 7n|€ 2.120,00|€ 1.620,00
- 
-|School holidays| Price 19p|Price 14p
+|Weekend 2n|€ 1.320,00|€ 1.020,00
+|Weekend 3n|€ 1.420,00|€ 1.120,00
+|Midweek 4n|€ 1.220,00|€ 920,00
+|Week 7n|€ 2.020,00|€ 1.720,00
+
+|School holidays|Price 19p|Price 14p
 |---|---:|---:
 |Weekend 2n|not available|
 |Weekend 3n|€ 1.650,00|€ 1.350,00
-|Midweek 4n|€ 1.590,00|€ 990,00
-|Week 7n|€ 2.450,00|€ 1.850,00
- 
+|Midweek 4n|€ 1.390,00|€ 1.090,00
+|Week 7n|€ 2.150,00|€ 1.850,00
+
 ⚠ Are you with a slightly smaller group? Then we reduce the price per room that can be closed off.
  
 ⚠ 21 persons possible by appointment
@@ -48,18 +48,10 @@ Find out all about our [special packages][vkwng.arrangement.en]  and [availabili
  
 ## Special Periods
  
-|Year|Period (name)|from-to |Price 19p|Price 14p
-|---:|:---:|:---:|---:|---:
-|2018|New Year        |3/1 - 7/1|n/a|€ 1.090,00
-||*** LAST MINUTES ***|9/2-11/2|n/a|€ 870,00
-||*** LAST MINUTES ***|16/2-18/2|n/a|€ 870,00
-||*** LAST MINUTES ***|23/2-25/2|n/a|€ 870,00
-||Spring break (long)|12/2 - 18/2|n/a|€ 1.420,00
-||Spring break (short)|12/2 - 16/2|n/a|€ 770,00
-||Easter (short) 2/4 - 6/4|n/a|€ 990,00
-||Bank holidays 3 nights ||n/a|€ 1.350,00
-||Bank holidays 4 nights ||n/a|€ 1.450,00
-
+|Period|Price 19p|Price 14p
+|:---:|---:|---:
+|Bank holidays 3 nights|€ 1.650,00|€ 1.350,00
+|Bank holidays 4 nights|€ 1.750,00|€ 1.450,00
 
 
 ## Arrival and check out

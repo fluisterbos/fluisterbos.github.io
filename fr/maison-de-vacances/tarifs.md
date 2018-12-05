@@ -1,33 +1,33 @@
 ---
 layout: default
-title:  Tarifs 2017-2018
+title:  Tarifs 2018-2019
 ---
 
 ### Bientot disponible pour 19 personnes!
 
 Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponibilités][vkwng.beschikbaarheid.fr]
 
+
 |Été|Prix 19p|Prix 14p
 |---|---:|---:
-|Week-end 2n|€ 1.490,00|€ 990,00
-|Week-end 3n|€ 1.590,00|€ 1.090,00
-|Mid-week 4n|€ 1.390,00|€ 890,00
-|Semaine 7n|€ 2.190,00|€ 1.690,00
+|Week-end 2n|€ 1.390,00|€ 1.090,00
+|Week-end 3n|€ 1.490,00|€ 1.190,00
+|Mid-week 4n|€ 1.290,00|€ 990,00
+|Semaine 7n|€ 2.090,00|€ 1.790,00
 
 |Hiver|Prix 19p|Prix 14p
 |---|---:|---:
-|Week-end 2n|€ 1.420,00|€ 920,00
-|Week-end 3n|€ 1.520,00|€ 1.020.00
-|Mid-week 4n|€ 1.320.00|€ 820,00
-|Semaine 7n|€ 2.120,00|€ 1.620,00
+|Week-end 2n|€ 1.320,00|€ 1.020,00
+|Week-end 3n|€ 1.420,00|€ 1.120,00
+|Mid-week 4n|€ 1.220,00|€ 920,00
+|Semaine 7n|€ 2.020,00|€ 1.720,00
 
 |Vacances Scolaires|Prix 19p|Prix 14p
 |---|---:|---:
 |Week-end 2n|pas disponible|
 |Week-end 3n|€ 1.650,00|€ 1.350,00
-|Mid-week 4n|€ 1.590,00|€ 990,00
-|Semaine 7n|€ 2.450,00|€ 1.850,00
-
+|Mid-week 4n|€ 1.390,00|€ 1.090,00
+|Semaine 7n|€ 2.150,00|€ 1.850,00
 
 > ⚠ Pour des groupes plus petits nous offrons une réduction par chambre non utilisée
 
@@ -48,18 +48,10 @@ Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponi
 
 ## Périodes spéciales
 
-|Jaar|Periode (naam)|van-tot|Prijs 19p|Prijs 14p
-|---:|:---:|:---:|---:|---:
-|2018|Nouvel An|3/1 - 7/1|N / A|€ 1.090,00
-||*** LAST MINUTES ***|9/2-11/2|N / A|€ 870,00
-||*** LAST MINUTES ***|16/2-18/2|N / A|€ 870,00
-||*** LAST MINUTES ***|23/2-25/2|N / A|€ 870,00
-||Vacances de neige (long)|12/2 - 18/2|N / A|€ 1.420,00
-||Vacances de neige (court)|12/2 - 16/2|N / A|€ 770,00
-||Pâques (court)|2/4 - 6/4|N / A|€ 990,00
-||Jours fériés 3 nuits ||N / A|€ 1.350,00
-||Jours fériés 4 nuits ||N / A|€ 1.450,00
-
+|Periode|Prix 19p|Prix 14p
+|:---:|---:|---:
+|Jours fériés 3 nuits |€ 1.650,00|€ 1.350,00
+|Jours fériés 4 nuits |€ 1.750,00|€ 1.450,00
 
 ## Arrivée et départ
 
