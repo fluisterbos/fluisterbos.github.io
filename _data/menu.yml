@@ -8,7 +8,7 @@
     en: Holiday home
   submenu:
     - linkcode: naam
-    - linkcode: vkwng.accomodatie
+    - linkcode: vkwng.accommodatie
       menutekst:
         nl: Accommodatie
         fr: Facilités
