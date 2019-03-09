@@ -18,6 +18,7 @@ The first floor has three bedrooms, all with double box springs (180x210), spaci
 The second floor also has three bedrooms. One room has bunk beds (90x200), the second room has a double bed (180x210). The guests of these rooms share a separate bathroom with shower and toilet.
 In the third room there are two single beds (90x200) with private shower and toilet.
 The last two rooms share the bathroom and each have a double bed (180x210). The last of these has an extra single bed (90x200).
+
  
 Cot and high chair are available.
  

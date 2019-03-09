@@ -23,6 +23,10 @@ geschiedenis:
     nl: /nl/vakantiewoning/geschiedenis.html
     fr: /fr/maison-de-vacances/histoire.html
     en: /en/holiday-home/history.html
+fluisternest:
+    nl: /nl/vakantiewoning/fluisternest.html
+    fr: /fr/maison-de-vacances/fluisternest.html
+    en: /en/holiday-home/fluisternest.html
 ### tarief
 vkwng.tarief:
     nl: /nl/vakantiewoning/tarieven.html

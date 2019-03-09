@@ -16,7 +16,8 @@ Le premier étage compte trois chambres à coucher, toutes avec un boxspring 2 
 
 Le deuxième étage compte également trois chambres. Une chambre est équipée de lits superposés (90x200), la deuxième a un lit double (180x210). Les hôtes de ces chambres partagent une salle de bain séparée avec douche et toilettes. 
 La troisième chambre compte deux lits simples (90x200), une douche et des toilettes.
-Les deux dernières chambres partagent la salle de bain et disposent chacune d'un lit double (180x210). Le dernier de ceux-ci a un lit simple supplémentaire (90x200).
+Les deux dernières chambres partagent les sanitaires et ont chacune un lit double (180x210). La dernière chambre dispose encore d’un lit supplémentaire (90x200).
+
 
 Un lit pour enfant et une chaise haute sont à disposition.
 

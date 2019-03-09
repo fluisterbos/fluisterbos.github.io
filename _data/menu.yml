@@ -16,6 +16,7 @@
       submenu:
         - linkcode: geschiedenis
         - linkcode: omgeving
+        - linkcode: fluisternest
     - linkcode: vkwng.tarief
       menutekst:
         nl: Tarieven
