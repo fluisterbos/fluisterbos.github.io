@@ -15,7 +15,7 @@ Prices :
 * 2 nights 300 €
 * 3 nights 350 €
 * 4 nights 375 € 
-* further extra nights at +50 € each
+* further extra nights at +75 € each
 
 > ⚠ Suggestion: Order our breakfast basket (12,50 € per person) when making your [reservation][vkwng.reservatie.en].
 
