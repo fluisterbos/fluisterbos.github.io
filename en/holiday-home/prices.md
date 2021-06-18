@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Prices 2018-2019
+title:  Prices
 bg: genieten
 ---
 

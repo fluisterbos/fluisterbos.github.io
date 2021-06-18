@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarifs 2018-2019
+title:  Tarifs
 ---
 
 ### Bientot disponible pour 19 personnes!

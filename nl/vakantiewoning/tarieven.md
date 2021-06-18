@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Tarieven 2018-2019
+title:  Tarieven
 bg: genieten
 ---
 
