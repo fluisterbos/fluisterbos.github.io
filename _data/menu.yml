@@ -22,11 +22,11 @@
         nl: Tarieven
         fr: Tarifs
         en: Prices
-    - linkcode: vkwng.arrangement
-      menutekst:
-        nl: Arrangementen
-        fr: Formules
-        en: Packages
+    #- linkcode: vkwng.arrangement
+    #  menutekst:
+    #    nl: Arrangementen
+    #    fr: Formules
+    #    en: Packages
     - linkcode: vkwng.reservatie
       menutekst:
         nl: Reserveren
