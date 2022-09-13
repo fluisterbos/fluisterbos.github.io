@@ -4,30 +4,28 @@ title:  Tarieven
 bg: genieten
 ---
 
-### Binnenkort Fluisterbos voor 19 personen!
-
 Ontdek ook onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaarheid][vkwng.beschikbaarheid.nl]
 
-|Zomer|Prijs 19p|Prijs 14p
-|---|---:|---:
-|Weekend 2n|€ 1.390,00|€ 1.090,00
-|Weekend 3n|€ 1.490,00|€ 1.190,00
-|Midweek 4n|€ 1.290,00|€ 990,00
-|Week 7n|€ 2.090,00|€ 1.790,00
+|Zomer|Prijs 19p|
+|---|---:|
+|Weekend 2n|€ 1.390,00|
+|Weekend 3n|€ 1.490,00|
+|Midweek 4n|€ 1.290,00|
+|Week 7n|€ 2.090,00|
 
-|Winter|Prijs 19p|Prijs 14p
-|---|---:|---:
-|Weekend 2n|€ 1.320,00|€ 1.020,00
-|Weekend 3n|€ 1.420,00|€ 1.120,00
-|Midweek 4n|€ 1.220,00|€ 920,00
-|Week 7n|€ 2.020,00|€ 1.720,00
+|Winter|Prijs 19p|
+|---|---:|
+|Weekend 2n|€ 1.320,00|
+|Weekend 3n|€ 1.420,00|
+|Midweek 4n|€ 1.220,00|
+|Week 7n|€ 2.020,00|
 
-|Schoolvakanties|Prijs 19p|Prijs 14p
-|---|---:|---:
+|Schoolvakanties|Prijs 19p|
+|---|---:|
 |Weekend 2n|niet beschikbaar|
-|Weekend 3n|€ 1.650,00|€ 1.350,00
-|Midweek 4n|€ 1.390,00|€ 1.090,00
-|Week 7n|€ 2.150,00|€ 1.850,00
+|Weekend 3n|€ 1.650,00|
+|Midweek 4n|€ 1.390,00|
+|Week 7n|€ 2.150,00|
 
 > ⚠ Ben je met een iets kleinere groep?  Dan reduceren we de prijs per kamer die kan afgesloten worden.
 
@@ -49,10 +47,10 @@ Ontdek ook onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaa
 
 ## Speciale Periodes
 
-|Periode|Prijs 19p|Prijs 14p
-|:---:|---:|---:
-|Alle feestdagen 3 nachten |€ 1.650,00|€ 1.350,00
-|Alle feestdagen 4 nachten |€ 1.750,00|€ 1.450,00
+|Periode|Prijs 19p|
+|:---:|---:|
+|Alle feestdagen 3 nachten |€ 1.650,00|
+|Alle feestdagen 4 nachten |€ 1.750,00|
 
 ## Aankomst & Check Out	
 

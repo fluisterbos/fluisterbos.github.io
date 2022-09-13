@@ -3,31 +3,29 @@ layout: default
 title:  Tarifs
 ---
 
-### Bientot disponible pour 19 personnes!
-
 Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponibilités][vkwng.beschikbaarheid.fr]
 
 
-|Été|Prix 19p|Prix 14p
-|---|---:|---:
-|Week-end 2n|€ 1.390,00|€ 1.090,00
-|Week-end 3n|€ 1.490,00|€ 1.190,00
-|Mid-week 4n|€ 1.290,00|€ 990,00
-|Semaine 7n|€ 2.090,00|€ 1.790,00
+|Été|Prix 19p|
+|---|---:|
+|Week-end 2n|€ 1.390,00|
+|Week-end 3n|€ 1.490,00|
+|Mid-week 4n|€ 1.290,00|
+|Semaine 7n|€ 2.090,00|
 
-|Hiver|Prix 19p|Prix 14p
-|---|---:|---:
-|Week-end 2n|€ 1.320,00|€ 1.020,00
-|Week-end 3n|€ 1.420,00|€ 1.120,00
-|Mid-week 4n|€ 1.220,00|€ 920,00
-|Semaine 7n|€ 2.020,00|€ 1.720,00
+|Hiver|Prix 19p|
+|---|---:|
+|Week-end 2n|€ 1.320,00|
+|Week-end 3n|€ 1.420,00|
+|Mid-week 4n|€ 1.220,00|
+|Semaine 7n|€ 2.020,00|
 
-|Vacances Scolaires|Prix 19p|Prix 14p
-|---|---:|---:
+|Vacances Scolaires|Prix 19p|
+|---|---:|
 |Week-end 2n|pas disponible|
-|Week-end 3n|€ 1.650,00|€ 1.350,00
-|Mid-week 4n|€ 1.390,00|€ 1.090,00
-|Semaine 7n|€ 2.150,00|€ 1.850,00
+|Week-end 3n|€ 1.650,00|
+|Mid-week 4n|€ 1.390,00|
+|Semaine 7n|€ 2.150,00|
 
 > ⚠ Pour des groupes plus petits nous offrons une réduction par chambre non utilisée
 
@@ -48,10 +46,10 @@ Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponi
 
 ## Périodes spéciales
 
-|Periode|Prix 19p|Prix 14p
-|:---:|---:|---:
-|Jours fériés 3 nuits |€ 1.650,00|€ 1.350,00
-|Jours fériés 4 nuits |€ 1.750,00|€ 1.450,00
+|Periode|Prix 19p|
+|:---:|---:|
+|Jours fériés 3 nuits |€ 1.650,00|
+|Jours fériés 4 nuits |€ 1.750,00|
 
 ## Arrivée et départ
 

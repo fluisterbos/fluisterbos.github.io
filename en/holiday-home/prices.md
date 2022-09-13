@@ -4,31 +4,28 @@ title:  Prices
 bg: genieten
 ---
 
-### Het Fluisterbos will soon have room for 19 people!
-
-
 Find out all about our [special packages][vkwng.arrangement.en]  and [availability][vkwng.beschikbaarheid.en]
  
-|Summer|Price 19p|Price 14p
-|---|---:|---:
-|Weekend 2n|€ 1.390,00|€ 1.090,00
-|Weekend 3n|€ 1.490,00|€ 1.190,00
-|Midweek 4n|€ 1.290,00|€ 990,00
-|Week 7n|€ 2.090,00|€ 1.790,00
+|Summer|Price 19p|
+|---|---:|
+|Weekend 2n|€ 1.390,00|
+|Weekend 3n|€ 1.490,00|
+|Midweek 4n|€ 1.290,00|
+|Week 7n|€ 2.090,00|
 
-|Winter|Price 19p|Price 14p
-|---|---:|---:
-|Weekend 2n|€ 1.320,00|€ 1.020,00
-|Weekend 3n|€ 1.420,00|€ 1.120,00
-|Midweek 4n|€ 1.220,00|€ 920,00
-|Week 7n|€ 2.020,00|€ 1.720,00
+|Winter|Price 19p|
+|---|---:|
+|Weekend 2n|€ 1.320,00|
+|Weekend 3n|€ 1.420,00|
+|Midweek 4n|€ 1.220,00|
+|Week 7n|€ 2.020,00|
 
-|School holidays|Price 19p|Price 14p
-|---|---:|---:
+|School holidays|Price 19p|
+|---|---:|
 |Weekend 2n|not available|
-|Weekend 3n|€ 1.650,00|€ 1.350,00
-|Midweek 4n|€ 1.390,00|€ 1.090,00
-|Week 7n|€ 2.150,00|€ 1.850,00
+|Weekend 3n|€ 1.650,00|
+|Midweek 4n|€ 1.390,00|
+|Week 7n|€ 2.150,00|
 
 ⚠ Are you with a slightly smaller group? Then we reduce the price per room that can be closed off.
  
@@ -48,10 +45,10 @@ Find out all about our [special packages][vkwng.arrangement.en]  and [availabili
  
 ## Special Periods
  
-|Period|Price 19p|Price 14p
-|:---:|---:|---:
-|Bank holidays 3 nights|€ 1.650,00|€ 1.350,00
-|Bank holidays 4 nights|€ 1.750,00|€ 1.450,00
+|Period|Price 19p|
+|:---:|---:|
+|Bank holidays 3 nights|€ 1.650,00|
+|Bank holidays 4 nights|€ 1.750,00|
 
 
 ## Arrival and check out
