@@ -4,3 +4,4 @@ _site
 img/testing
 FLUISTERBOS_TEXTEN.txt
 *~
+.jekyll-cache/
