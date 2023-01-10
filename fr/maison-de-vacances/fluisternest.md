@@ -12,10 +12,10 @@ Pour de plus amples informations, vous pouvez consulter les [disponibilités][vk
 
 Prix :
 * 1 nuit 200 € 
-* 2 nuits 300 €
-* 3 nuits 350 €
-* 4 nuits 375 € 
-* nuits supplémentaires á +75 € 
+* 2 nuits 310 €
+* 3 nuits 390 €
+* 4 nuits 460 € 
+* nuits supplémentaires á +85 € 
 
 > ⚠ Suggestion: Commandez notre panier de petit-déjeuner (12,50 € par personne) lors de la [réservation][vkwng.reservatie.fr].
 

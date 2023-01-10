@@ -12,10 +12,10 @@ Voor meer info kun je de [beschikbaarheid][vkwng.beschikbaarheid.nl] raadplegen.
  
 Prijzen :
 * 1 nacht 200 € 
-* 2 nachten 300 €
-* 3 nachten 350 €
-* 4 nachten 375 € 
-* alle extra nachten +75 €
+* 2 nachten 310 €
+* 3 nachten 390 €
+* 4 nachten 460 € 
+* alle extra nachten +85 €
 
 > ⚠ Suggestie: bestel bij [reservatie][vkwng.reservatie.nl] meteen onze ontbijtmand (12,50 € per persoon). 
 
