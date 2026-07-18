@@ -5,3 +5,4 @@ img/testing
 FLUISTERBOS_TEXTEN.txt
 *~
 .jekyll-cache/
+vendor/bundle/
