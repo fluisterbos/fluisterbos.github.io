@@ -8,27 +8,25 @@ Find out all about our [special packages][vkwng.arrangement.en]  and [availabili
  
 |Summer|Price 19p|
 |---|---:|
-|Weekend 2n|€ 1.440,00|
-|Weekend 3n|€ 1.540,00|
-|Midweek 4n|€ 1.340,00|
-|Week 7n|€ 2.090,00|
+|Weekend 2n|€ 1.540,00|
+|Weekend 3n|€ 1.640,00|
+|Midweek 4n|€ 1.440,00|
+|Week 7n|€ 2.190,00|
 
 |Winter|Price 19p|
 |---|---:|
-|Weekend 2n|€ 1.370,00|
-|Weekend 3n|€ 1.470,00|
-|Midweek 4n|€ 1.270,00|
-|Week 7n|€ 2.020,00|
+|Weekend 2n|€ 1.470,00|
+|Weekend 3n|€ 1.570,00|
+|Midweek 4n|€ 1.370,00|
+|Week 7n|€ 2.120,00|
 
 |School holidays|Price 19p|
 |---|---:|
 |Weekend 2n|not available|
-|Weekend 3n|€ 1.680,00|
-|Midweek 4n|€ 1.440,00|
-|Week 7n|€ 2.190,00|
+|Weekend 3n|€ 1.780,00|
+|Midweek 4n|€ 1.540,00|
+|Week 7n|€ 2.290,00|
 
-⚠ Are you with a slightly smaller group? Then we reduce the price per room that can be closed off.
- 
 ⚠ 21 persons possible by appointment
  
 |Period |
@@ -47,8 +45,8 @@ Find out all about our [special packages][vkwng.arrangement.en]  and [availabili
  
 |Period|Price 19p|
 |:---:|---:|
-|Bank holidays 3 nights|€ 1.680,00|
-|Bank holidays 4 nights|€ 1.780,00|
+|Bank holidays 3 nights|€ 1.780,00|
+|Bank holidays 4 nights|€ 1.880,00|
 
 
 ## Arrival and check out
@@ -67,9 +65,9 @@ The guarantee is 1000.00 €.
 
 > **Included in the price**: - Free parking for 5 cars - Towels and kitchen towels - Charcoal for the barbecue or firewood for the wood stove - Free Wifi
 
-> **Not included**: - Mandatory final cleaning 300.00 € - Mandatory bed linen at 8.00 € / person - Electricity, gas and water
+> **Not included**: - Mandatory final cleaning 300.00 € - Mandatory bed linen at 9.00 € / person - Electricity, gas and water
 
-There is a possibility of having breakfast at 12.00 & nbsp; € per person per day. Reservation minimum two weeks before arrival.
+There is a possibility of having breakfast at 15.95&nbsp;€ per person per day. Reservation minimum two weeks before arrival.
 
 All costs are settled with the guarantee. The balance will be refunded one week after your stay.
 For specific questions contact info@fluisterbos.be: we can customize your package!

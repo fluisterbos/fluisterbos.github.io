@@ -17,6 +17,6 @@ Prices :
 * 4 nights 460 € 
 * further extra nights at +85 € each
 
-> ⚠ Suggestion: Order our breakfast basket (12,50 € per person) when making your [reservation][vkwng.reservatie.en].
+> ⚠ Suggestion: Order our breakfast basket (15,95 € per person) when making your [reservation][vkwng.reservatie.en].
 
 {% include links.md %}

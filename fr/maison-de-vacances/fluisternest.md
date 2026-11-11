@@ -17,6 +17,6 @@ Prix :
 * 4 nuits 460 € 
 * nuits supplémentaires á +85 € 
 
-> ⚠ Suggestion: Commandez notre panier de petit-déjeuner (12,50 € par personne) lors de la [réservation][vkwng.reservatie.fr].
+> ⚠ Suggestion: Commandez notre panier de petit-déjeuner (15,95 € par personne) lors de la [réservation][vkwng.reservatie.fr].
 
 {% include links.md %}

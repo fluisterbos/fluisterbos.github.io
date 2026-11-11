@@ -17,6 +17,6 @@ Prijzen :
 * 4 nachten 460 € 
 * alle extra nachten +85 €
 
-> ⚠ Suggestie: bestel bij [reservatie][vkwng.reservatie.nl] meteen onze ontbijtmand (12,50 € per persoon). 
+> ⚠ Suggestie: bestel bij [reservatie][vkwng.reservatie.nl] meteen onze ontbijtmand (15,95 € per persoon). 
 
 {% include links.md %}

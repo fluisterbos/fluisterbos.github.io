@@ -8,26 +8,24 @@ Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponi
 
 |Été|Prix 19p|
 |---|---:|
-|Week-end 2n|€ 1.440,00|
-|Week-end 3n|€ 1.540,00|
-|Mid-week 4n|€ 1.340,00|
-|Semaine 7n|€ 2.090,00|
+|Week-end 2n|€ 1.540,00|
+|Week-end 3n|€ 1.640,00|
+|Mid-week 4n|€ 1.440,00|
+|Semaine 7n|€ 2.190,00|
 
 |Hiver|Prix 19p|
 |---|---:|
-|Week-end 2n|€ 1.370,00|
-|Week-end 3n|€ 1.470,00|
-|Mid-week 4n|€ 1.270,00|
-|Semaine 7n|€ 2.020,00|
+|Week-end 2n|€ 1.470,00|
+|Week-end 3n|€ 1.570,00|
+|Mid-week 4n|€ 1.370,00|
+|Semaine 7n|€ 2.120,00|
 
 |Vacances Scolaires|Prix 19p|
 |---|---:|
 |Week-end 2n|pas disponible|
-|Week-end 3n|€ 1.680,00|
-|Mid-week 4n|€ 1.440,00|
-|Semaine 7n|€ 2.190,00|
-
-> ⚠ Pour des groupes plus petits nous offrons une réduction par chambre non utilisée
+|Week-end 3n|€ 1.780,00|
+|Mid-week 4n|€ 1.540,00|
+|Semaine 7n|€ 2.290,00|
 
 > ⚠ Disponibilité pour 21 personnes, mais seulement sur rendez-vous
 
@@ -48,8 +46,8 @@ Découvrez aussi nos [formules spéciales][vkwng.arrangement.fr] et les [disponi
 
 |Periode|Prix 19p|
 |:---:|---:|
-|Jours fériés 3 nuits |€ 1.680,00|
-|Jours fériés 4 nuits |€ 1.780,00|
+|Jours fériés 3 nuits |€ 1.780,00|
+|Jours fériés 4 nuits |€ 1.880,00|
 
 ## Arrivée et départ
 
@@ -71,9 +69,9 @@ La garantie s’élève à 1000,00 €.
 
 > **Compris dans le prix** : - Parking gratuit pour max 5 voitures - Serviettes et draps de bain et serviettes de cuisine - Charbon de bois pour le barbecue ou bois pour le poêle - Wifi 
 
-> **Non compris** : - Nettoyage de fin de séjour obligatoire 300,00 € - Ensemble de draps obligatoire 8,00 € par personne - Électricité, gaz et eau
+> **Non compris** : - Nettoyage de fin de séjour obligatoire 300,00 € - Ensemble de draps obligatoire 9,00 € par personne - Électricité, gaz et eau
 
-Il est possible de réserver un petit-déjeuner en payant un supplément de 12,00 € par personne par jour. À réserver min. deux semaines à l’avance.
+Il est possible de réserver un petit-déjeuner en payant un supplément de 15,95 € par personne par jour. À réserver min. deux semaines à l’avance.
 
 Tous les frais seront déduits de la garantie. Le solde vous sera remboursé une semaine après le départ.
 

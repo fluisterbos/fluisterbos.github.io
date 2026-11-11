@@ -8,26 +8,24 @@ Ontdek ook onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaa
 
 |Zomer|Prijs 19p|
 |---|---:|
-|Weekend 2n|€ 1.440,00|
-|Weekend 3n|€ 1.540,00|
-|Midweek 4n|€ 1.340,00|
-|Week 7n|€ 2.090,00|
+|Weekend 2n|€ 1.540,00|
+|Weekend 3n|€ 1.640,00|
+|Midweek 4n|€ 1.440,00|
+|Week 7n|€ 2.190,00|
 
 |Winter|Prijs 19p|
 |---|---:|
-|Weekend 2n|€ 1.370,00|
-|Weekend 3n|€ 1.470,00|
-|Midweek 4n|€ 1.270,00|
-|Week 7n|€ 2.020,00|
+|Weekend 2n|€ 1.470,00|
+|Weekend 3n|€ 1.570,00|
+|Midweek 4n|€ 1.370,00|
+|Week 7n|€ 2.120,00|
 
 |Schoolvakanties|Prijs 19p|
 |---|---:|
 |Weekend 2n|niet beschikbaar|
-|Weekend 3n|€ 1.680,00|
-|Midweek 4n|€ 1.440,00|
-|Week 7n|€ 2.190,00|
-
-> ⚠ Ben je met een iets kleinere groep?  Dan reduceren we de prijs per kamer die kan afgesloten worden.
+|Weekend 3n|€ 1.780,00|
+|Midweek 4n|€ 1.540,00|
+|Week 7n|€ 2.290,00|
 
 > ⚠ 21 personen mogelijk op afspraak
 
@@ -49,8 +47,8 @@ Ontdek ook onze speciale [arrangementen][vkwng.arrangement.nl] en de [beschikbaa
 
 |Periode|Prijs 19p|
 |:---:|---:|
-|Alle feestdagen 3 nachten |€ 1.680,00|
-|Alle feestdagen 4 nachten |€ 1.780,00|
+|Alle feestdagen 3 nachten |€ 1.780,00|
+|Alle feestdagen 4 nachten |€ 1.880,00|
 
 ## Aankomst & Check Out	
 
@@ -69,9 +67,9 @@ De waarborg bedraagt 1000,00&nbsp;€.
 
 > **Inbegrepen in de prijs**: - Gratis parking voor 5 wagens - Handdoeken en keukenhanddoeken - Houtskool voor de barbecue of hout voor de houtkachel - Gratis Wifi
 
-> **Niet inbegrepen**: - Verplichte eind schoonmaak 300,00&nbsp;€ - Verplicht lakenparket aan 8,00&nbsp;€ per persoon - Elektriciteit, gas en water
+> **Niet inbegrepen**: - Verplichte eind schoonmaak 300,00&nbsp;€ - Verplicht lakenpakket aan 9,00&nbsp;€ per persoon - Elektriciteit, gas en water
 
-Er is een mogelijkheid tot ontbijt aan 12,00&nbsp;€ per persoon per dag. Te reserveren minimum twee weken voor aankomst.
+Er is een mogelijkheid tot ontbijt aan 15,95&nbsp;€ per persoon per dag. Te reserveren minimum twee weken voor aankomst.
 
 Alle kosten worden verrekend met de borg. Het saldo wordt een week na verblijf teruggestort.
 
